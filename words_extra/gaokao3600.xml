@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordbook name="高考必背3600词（拓展版）" count="345" level="extra" source="2021-2025 高考英语真题 42 套 + 联考模拟 3 套 + 老师讲义 20 份" filter="课标外；真题词未附汉译" version="1.2" generated="2026-11-15">
+  <word en="aboriginal" pos="adj. / n." zh="土著的；（澳大利亚）土著居民" phonetic="ˌæbəˈrɪdʒənl" freq="5" />
+  <word en="acupuncture" pos="n." zh="针灸；针刺疗法" phonetic="ˈækjupʌŋktʃə" freq="3" />
+  <word en="aesthetic" pos="adj. / n." zh="审美的；美学的" phonetic="iːsˈθetɪk" freq="8" />
+  <word en="allergic" pos="adj." zh="过敏的；对……反感" phonetic="əˈlɜːdʒɪk" freq="0" src="讲义" />
+  <word en="ambassador" pos="n." zh="大使；使节" phonetic="æmˈbæsədə" freq="0" src="讲义" />
+  <word en="analytics" pos="n." zh="数据分析；分析学" phonetic="ˌænəˈlɪtɪks" freq="4" />
+  <word en="animation" pos="n." zh="动画；活力" phonetic="ˌænɪˈmeɪʃn" freq="3" />
+  <word en="antique" pos="adj. / n." zh="古董的；古董，古玩" phonetic="ænˈtiːk" freq="0" src="讲义" />
+  <word en="appetite" pos="n." zh="食欲；欲望" phonetic="ˈæpɪtaɪt" freq="0" src="讲义" />
+  <word en="appliance" pos="n." zh="家用电器；器具" phonetic="əˈplaɪəns" freq="5" />
+  <word en="arugula" pos="n." zh="芝麻菜" phonetic="əˈruːɡələ" freq="5" />
+  <word en="attain" pos="vt." zh="达到；获得" phonetic="əˈteɪn" freq="0" src="讲义" />
+  <word en="audio" pos="adj. / n." zh="音频的；声音" phonetic="ˈɔːdiəʊ" freq="7" />
+  <word en="aurora" pos="n." zh="极光" phonetic="ɔːˈrɔːrə" freq="11" />
+  <word en="authentic" pos="adj." zh="真实的；正宗的" phonetic="ɔːˈθentɪk" freq="0" src="讲义" />
+  <word en="availability" pos="n." zh="可获得性；可用性" phonetic="əˌveɪləˈbɪləti" freq="3" />
+  <word en="backpack" pos="n. / vi." zh="背包；背包旅行" phonetic="ˈbækpæk" freq="3" />
+  <word en="bandwidth" pos="n." zh="带宽" phonetic="ˈbændwɪdθ" freq="5" />
+  <word en="bead" pos="n." zh="珠子；小珠" phonetic="biːd" freq="13" />
+  <word en="beggar" pos="n." zh="乞丐" phonetic="ˈbeɡə" freq="4" />
+  <word en="beloved" pos="adj. / n." zh="心爱的；挚爱的人" phonetic="bɪˈlʌvɪd" freq="3" />
+  <word en="biased" pos="adj." zh="有偏见的" phonetic="ˈbaɪəst" freq="4" />
+  <word en="biodiversity" pos="n." zh="生物多样性" phonetic="ˌbaɪəʊdaɪˈvɜːsəti" freq="11" />
+  <word en="biologist" pos="n." zh="生物学家" phonetic="baɪˈɒlədʒɪst" freq="3" />
+  <word en="biometric" pos="adj." zh="生物特征识别的" phonetic="ˌbaɪəʊˈmetrɪk" freq="5" />
+  <word en="biosphere" pos="n." zh="生物圈" phonetic="ˈbaɪəsfɪə" freq="2" />
+  <word en="boost" pos="vt. / n." zh="促进；提高；增加" phonetic="buːst" freq="12" />
+  <word en="boredom" pos="n." zh="厌倦；无聊" phonetic="ˈbɔːdəm" freq="3" />
+  <word en="bracket" pos="n. / vt." zh="括号；类别" phonetic="ˈbrækɪt" freq="5" />
+  <word en="brainstorming" pos="n." zh="头脑风暴；集体讨论" phonetic="ˈbreɪnstɔːmɪŋ" freq="10" />
+  <word en="breathtaking" pos="adj." zh="令人惊叹的" phonetic="ˈbreθteɪkɪŋ" freq="5" />
+  <word en="caffeine" pos="n." zh="咖啡因" phonetic="ˈkæfiːn" freq="5" />
+  <word en="calcium" pos="n." zh="钙" phonetic="ˈkælsiəm" freq="3" />
+  <word en="calligraphy" pos="n." zh="书法；书法艺术" phonetic="kəˈlɪɡrəfi" freq="0" src="讲义" />
+  <word en="calorie" pos="n." zh="卡路里；热量单位" phonetic="ˈkæləri" freq="4" />
+  <word en="canyon" pos="n." zh="峡谷" phonetic="ˈkænjən" freq="5" />
+  <word en="cardiovascular" pos="adj." zh="心血管的" phonetic="ˌkɑːdiəʊˈvæskjələ" freq="5" />
+  <word en="carefree" pos="adj." zh="无忧无虑的" phonetic="ˈkeəfriː" freq="3" />
+  <word en="certainty" pos="n." zh="确定性；必然的事" phonetic="ˈsɜːtnti" freq="8" />
+  <word en="checkup" pos="n." zh="体检；检查" phonetic="ˈtʃekʌp" freq="4" />
+  <word en="cholesterol" pos="n." zh="胆固醇" phonetic="kəˈlestərɒl" freq="4" />
+  <word en="circulation" pos="n." zh="循环；发行量" phonetic="ˌsɜːkjəˈleɪʃn" freq="0" src="讲义" />
+  <word en="cockatoo" pos="n." zh="凤头鹦鹉" phonetic="ˌkɒkəˈtuː" freq="12" />
+  <word en="cognition" pos="n." zh="认知；认识" phonetic="kɒɡˈnɪʃn" freq="3" />
+  <word en="cognitive" pos="adj." zh="认知的；认识的" phonetic="ˈkɒɡnətɪv" freq="0" src="讲义" />
+  <word en="coherent" pos="adj." zh="连贯的；条理清楚的" phonetic="kəʊˈhɪərənt" freq="4" />
+  <word en="collage" pos="n." zh="拼贴画；拼贴作品" phonetic="ˈkɒlɑːʒ" freq="9" />
+  <word en="collision" pos="n." zh="碰撞；冲突" phonetic="kəˈlɪʒn" freq="0" src="讲义" />
+  <word en="commodity" pos="n." zh="商品；日用品" phonetic="kəˈmɒdəti" freq="6" />
+  <word en="commute" pos="n. / vi." zh="通勤；上下班路程" phonetic="kəˈmjuːt" freq="2" />
+  <word en="competent" pos="adj." zh="有能力的；称职的" phonetic="ˈkɒmpɪtənt" freq="4" />
+  <word en="component" pos="n." zh="成分；部件" phonetic="kəmˈpəʊnənt" freq="0" src="讲义" />
+  <word en="comprehensive" pos="adj." zh="全面的；综合的" phonetic="ˌkɒmprɪˈhensɪv" freq="4" />
+  <word en="concede" pos="vt." zh="承认；让步；让与" phonetic="kənˈsiːd" freq="2" />
+  <word en="conceptual" pos="adj." zh="概念的" phonetic="kənˈseptʃuəl" freq="3" />
+  <word en="conserve" pos="vt." zh="保护；节约" phonetic="kənˈsɜːv" freq="4" />
+  <word en="contestant" pos="n." zh="参赛者；竞争者" phonetic="kənˈtestənt" freq="0" src="讲义" />
+  <word en="conventional" pos="adj." zh="传统的；常规的" phonetic="kənˈvenʃənl" freq="0" src="讲义" />
+  <word en="cookery" pos="n." zh="烹饪（术）" phonetic="ˈkʊkəri" freq="4" />
+  <word en="cooperative" pos="adj. / n." zh="合作的；合作社" phonetic="kəʊˈɒpərətɪv" freq="3" />
+  <word en="correlation" pos="n." zh="相关性；关联" phonetic="ˌkɒrəˈleɪʃn" freq="4" />
+  <word en="cosmic" pos="adj." zh="宇宙的" phonetic="ˈkɒzmɪk" freq="4" />
+  <word en="cosmology" pos="n." zh="宇宙学" phonetic="kɒzˈmɒlədʒi" freq="3" />
+  <word en="counterpart" pos="n." zh="对应的人（或物）" phonetic="ˈkaʊntəpɑːt" freq="3" />
+  <word en="couplet" pos="n." zh="对联；对句" phonetic="ˈkʌplət" freq="0" src="讲义" />
+  <word en="coworking" pos="n." zh="共享办公" phonetic="ˌkəʊˈwɜːkɪŋ" freq="4" />
+  <word en="craftsmanship" pos="n." zh="工艺；技艺" phonetic="ˈkrɑːftsmənʃɪp" freq="0" src="讲义" />
+  <word en="credible" pos="adj." zh="可信的；可靠的" phonetic="ˈkredəbl" freq="4" />
+  <word en="cub" pos="n." zh="幼兽；（熊、狮等的）崽" phonetic="kʌb" freq="5" />
+  <word en="culinary" pos="adj." zh="烹饪的；厨房的" phonetic="ˈkʌlɪnəri" freq="4" />
+  <word en="decibel" pos="n." zh="分贝" phonetic="ˈdesɪbel" freq="8" />
+  <word en="decisive" pos="adj." zh="决定性的；果断的" phonetic="dɪˈsaɪsɪv" freq="0" src="讲义" />
+  <word en="declutter" pos="vt." zh="清理；整理" phonetic="ˌdiːˈklʌtə" freq="4" />
+  <word en="dedicate" pos="vt." zh="奉献；致力于" phonetic="ˈdedɪkeɪt" freq="0" src="讲义" />
+  <word en="dementia" pos="n." zh="痴呆症" phonetic="dɪˈmenʃə" freq="11" />
+  <word en="desertification" pos="n." zh="荒漠化；沙漠化" phonetic="dɪˌzɜːtɪfɪˈkeɪʃn" freq="4" />
+  <word en="despair" pos="n. / vi." zh="绝望；感到绝望" phonetic="dɪˈspeə" freq="2" />
+  <word en="desperate" pos="adj." zh="绝望的；极想的" phonetic="ˈdespərət" freq="0" src="讲义" />
+  <word en="diagnose" pos="vt." zh="诊断" phonetic="ˈdaɪəɡnəʊz" freq="3" />
+  <word en="diagnosis" pos="n." zh="诊断；判断" phonetic="ˌdaɪəɡˈnəʊsɪs" freq="4" />
+  <word en="disapprove" pos="vi." zh="不赞成；反对" phonetic="ˌdɪsəˈpruːv" freq="2" />
+  <word en="disastrous" pos="adj." zh="灾难性的；极糟的" phonetic="dɪˈzɑːstrəs" freq="4" />
+  <word en="discomfort" pos="n." zh="不适；不舒服" phonetic="dɪsˈkʌmfət" freq="5" />
+  <word en="discrepancy" pos="n." zh="差异；不一致" phonetic="dɪsˈkrepənsi" freq="3" />
+  <word en="distinct" pos="adj." zh="明显的；截然不同的" phonetic="dɪˈstɪŋkt" freq="8" />
+  <word en="distinctive" pos="adj." zh="独特的；有特色的" phonetic="dɪˈstɪŋktɪv" freq="4" />
+  <word en="distracted" pos="adj." zh="分心的；走神的" phonetic="dɪˈstræktɪd" freq="3" />
+  <word en="dolphin" pos="n." zh="海豚" phonetic="ˈdɒlfɪn" freq="4" />
+  <word en="dominant" pos="adj." zh="占主导地位的；显著的" phonetic="ˈdɒmɪnənt" freq="7" />
+  <word en="donor" pos="n." zh="捐赠者；供体" phonetic="ˈdəʊnə" freq="5" />
+  <word en="dorm" pos="n." zh="宿舍" phonetic="dɔːm" freq="3" />
+  <word en="downwind" pos="adv. / adj." zh="顺风地（的）" phonetic="ˌdaʊnˈwɪnd" freq="3" />
+  <word en="drone" pos="n. / vi." zh="无人机；嗡嗡声" phonetic="drəʊn" freq="14" />
+  <word en="durable" pos="adj." zh="耐用的；持久的" phonetic="ˈdjʊərəbl" freq="0" src="讲义" />
+  <word en="duration" pos="n." zh="持续时间" phonetic="djuˈreɪʃn" freq="5" />
+  <word en="earphone" pos="n." zh="耳机" phonetic="ˈɪəfəʊn" freq="0" src="讲义" />
+  <word en="echo" pos="n. / v." zh="回声；附和" phonetic="ˈekəʊ" freq="2" />
+  <word en="eco-friendly" pos="adj." zh="环保的；对生态无害的" phonetic="ˌiːkəʊˈfrendli" freq="6" />
+  <word en="ecological" pos="adj." zh="生态的；生态学的" phonetic="ˌiːkəˈlɒdʒɪkl" freq="4" />
+  <word en="ecosystem" pos="n." zh="生态系统" phonetic="ˈiːkəʊsɪstəm" freq="8" />
+  <word en="ecotourism" pos="n." zh="生态旅游" phonetic="ˈiːkəʊtʊərɪzəm" freq="4" />
+  <word en="embrace" pos="vt. / n." zh="拥抱；欣然接受" phonetic="ɪmˈbreɪs" freq="6" />
+  <word en="embryo" pos="n." zh="胚胎" phonetic="ˈembriəʊ" freq="3" />
+  <word en="emission" pos="n." zh="排放；排放物" phonetic="ɪˈmɪʃn" freq="8" />
+  <word en="emit" pos="vt." zh="排放；发出" phonetic="ɪˈmɪt" freq="0" src="讲义" />
+  <word en="empathy" pos="n." zh="共情；同理心" phonetic="ˈempəθi" freq="2" />
+  <word en="endangered" pos="adj." zh="濒危的" phonetic="ɪnˈdeɪndʒəd" freq="4" />
+  <word en="endemic" pos="adj. / n." zh="地方性的；特有的" phonetic="enˈdemɪk" freq="3" />
+  <word en="engaging" pos="adj." zh="迷人的；有吸引力的" phonetic="ɪnˈɡeɪdʒɪŋ" freq="6" />
+  <word en="enrollment" pos="n." zh="注册；入学人数" phonetic="ɪnˈrəʊlmənt" freq="4" />
+  <word en="entrepreneur" pos="n." zh="企业家；创业者" phonetic="ˌɒntrəprəˈnɜː" freq="18" />
+  <word en="ethnic" pos="adj." zh="民族的；种族的" phonetic="ˈeθnɪk" freq="0" src="讲义" />
+  <word en="eve" pos="n." zh="前夕；前夜" phonetic="iːv" freq="5" />
+  <word en="evolutionary" pos="adj." zh="进化的；演变的" phonetic="ˌiːvəˈluːʃənri" freq="4" />
+  <word en="excessive" pos="adj." zh="过度的；过多的" phonetic="ɪkˈsesɪv" freq="4" />
+  <word en="exhausted" pos="adj." zh="精疲力竭的" phonetic="ɪɡˈzɔːstɪd" freq="2" />
+  <word en="exhibit" pos="vt. / n." zh="展出；展品" phonetic="ɪɡˈzɪbɪt" freq="5" />
+  <word en="extinct" pos="adj." zh="灭绝的；绝种的" phonetic="ɪkˈstɪŋkt" freq="3" />
+  <word en="fable" pos="n." zh="寓言；神话" phonetic="ˈfeɪbl" freq="9" />
+  <word en="fabric" pos="n." zh="织物；布料" phonetic="ˈfæbrɪk" freq="0" src="讲义" />
+  <word en="facilitate" pos="vt." zh="促进；使便利" phonetic="fəˈsɪlɪteɪt" freq="5" />
+  <word en="faint" pos="adj. / vi." zh="微弱的；晕倒" phonetic="feɪnt" freq="0" src="讲义" />
+  <word en="farmland" pos="n." zh="农田；耕地" phonetic="ˈfɑːmlænd" freq="3" />
+  <word en="feasible" pos="adj." zh="可行的；行得通的" phonetic="ˈfiːzəbl" freq="3" />
+  <word en="fertilizer" pos="n." zh="肥料；化肥" phonetic="ˈfɜːtəlaɪzə" freq="4" />
+  <word en="flexibility" pos="n." zh="灵活性；弹性" phonetic="ˌfleksəˈbɪləti" freq="4" />
+  <word en="fluorescent" pos="adj." zh="荧光的" phonetic="ˌflʊəˈresnt" freq="4" />
+  <word en="flute" pos="n." zh="长笛" phonetic="fluːt" freq="4" />
+  <word en="foodie" pos="n." zh="美食家；吃货" phonetic="ˈfuːdi" freq="3" />
+  <word en="footprint" pos="n." zh="足迹；碳足迹" phonetic="ˈfʊtprɪnt" freq="22" />
+  <word en="fossil" pos="n." zh="化石" phonetic="ˈfɒsl" freq="18" />
+  <word en="fracture" pos="n. / v." zh="骨折；断裂" phonetic="ˈfræktʃə" freq="5" />
+  <word en="freshman" pos="n." zh="大一新生" phonetic="ˈfreʃmən" freq="8" />
+  <word en="furnishings" pos="n." zh="家具陈设；室内陈设" phonetic="ˈfɜːnɪʃɪŋz" freq="3" />
+  <word en="galaxy" pos="n." zh="星系；银河系" phonetic="ˈɡæləksi" freq="5" />
+  <word en="gear" pos="n." zh="齿轮；装备" phonetic="ɡɪə" freq="4" />
+  <word en="gender" pos="n." zh="性别" phonetic="ˈdʒendə" freq="13" />
+  <word en="genius" pos="n." zh="天才；天赋" phonetic="ˈdʒiːniəs" freq="32" />
+  <word en="genuine" pos="adj." zh="真正的；真诚的" phonetic="ˈdʒenjuɪn" freq="0" src="讲义" />
+  <word en="gratitude" pos="n." zh="感激；感谢" phonetic="ˈɡrætɪtjuːd" freq="4" />
+  <word en="greenhouse" pos="n." zh="温室" phonetic="ˈɡriːnhaʊs" freq="6" />
+  <word en="grizzly" pos="n. / adj." zh="灰熊" phonetic="ˈɡrɪzli" freq="21" />
+  <word en="grocery" pos="n." zh="食品杂货店；食品杂货" phonetic="ˈɡrəʊsəri" freq="23" />
+  <word en="guideline" pos="n." zh="指导方针；准则" phonetic="ˈɡaɪdlaɪn" freq="7" />
+  <word en="habitat" pos="n." zh="栖息地；生境" phonetic="ˈhæbɪtæt" freq="15" />
+  <word en="hail" pos="vt. / n." zh="招呼；赞扬；冰雹" phonetic="heɪl" freq="4" />
+  <word en="handkerchief" pos="n." zh="手帕" phonetic="ˈhæŋkətʃɪf" freq="0" src="讲义" />
+  <word en="hedgehog" pos="n." zh="刺猬" phonetic="ˈhedʒhɒɡ" freq="9" />
+  <word en="heritage" pos="n." zh="遗产；传统" phonetic="ˈherɪtɪdʒ" freq="0" src="讲义" />
+  <word en="hesitation" pos="n." zh="犹豫；迟疑" phonetic="ˌhezɪˈteɪʃn" freq="6" />
+  <word en="hike" pos="n. / vi." zh="徒步；远足；涨价" phonetic="haɪk" freq="4" />
+  <word en="holistic" pos="adj." zh="整体的；全面的" phonetic="həʊˈlɪstɪk" freq="5" />
+  <word en="homeschooling" pos="n." zh="在家上学；家庭学校" phonetic="ˌhəʊmˈskuːlɪŋ" freq="7" />
+  <word en="houseplant" pos="n." zh="室内盆栽植物" phonetic="ˈhaʊsplɑːnt" freq="4" />
+  <word en="hummingbird" pos="n." zh="蜂鸟" phonetic="ˈhʌmɪŋbɜːd" freq="3" />
+  <word en="hutong" pos="n." zh="胡同；小巷" phonetic="ˈhuːtʊŋ" freq="7" />
+  <word en="hydrocarbon" pos="n." zh="碳氢化合物" phonetic="ˌhaɪdrəˈkɑːbən" freq="4" />
+  <word en="hypnosis" pos="n." zh="催眠；催眠状态" phonetic="hɪpˈnəʊsɪs" freq="6" />
+  <word en="hypothesis" pos="n." zh="假设；假说" phonetic="haɪˈpɒθəsɪs" freq="12" />
+  <word en="immune" pos="adj." zh="免疫的；不受影响的" phonetic="ɪˈmjuːn" freq="1" />
+  <word en="impetuous" pos="adj." zh="冲动的；鲁莽的" phonetic="ɪmˈpetʃuəs" freq="6" />
+  <word en="infer" pos="vt." zh="推断；推论；暗示" phonetic="ɪnˈfɜː" freq="10" />
+  <word en="informative" pos="adj." zh="提供信息的；增长见识的" phonetic="ɪnˈfɔːmətɪv" freq="4" />
+  <word en="infrastructure" pos="n." zh="基础设施" phonetic="ˈɪnfrəstrʌktʃə" freq="3" />
+  <word en="initiate" pos="vt." zh="发起；开始；使入门" phonetic="ɪˈnɪʃieɪt" freq="5" />
+  <word en="innocent" pos="adj." zh="无辜的；天真的" phonetic="ˈɪnəsnt" freq="0" src="讲义" />
+  <word en="innovation" pos="n." zh="创新；新事物" phonetic="ˌɪnəˈveɪʃn" freq="33" />
+  <word en="inquiry" pos="n." zh="询问；调查" phonetic="ɪnˈkwaɪəri" freq="4" />
+  <word en="instinct" pos="n." zh="本能；直觉" phonetic="ˈɪnstɪŋkt" freq="2" />
+  <word en="intake" pos="n." zh="摄入量；招收人数" phonetic="ˈɪnteɪk" freq="5" />
+  <word en="integrate" pos="v." zh="整合；融入" phonetic="ˈɪntɪɡreɪt" freq="0" src="讲义" />
+  <word en="intensive" pos="adj." zh="密集的；集中的" phonetic="ɪnˈtensɪv" freq="0" src="讲义" />
+  <word en="interaction" pos="n." zh="互动；相互作用" phonetic="ˌɪntərˈækʃn" freq="26" />
+  <word en="interactive" pos="adj." zh="交互式的；互动的" phonetic="ˌɪntərˈæktɪv" freq="6" />
+  <word en="internship" pos="n." zh="实习；实习期" phonetic="ˈɪntɜːnʃɪp" freq="4" />
+  <word en="interpersonal" pos="adj." zh="人际的；人与人之间的" phonetic="ˌɪntəˈpɜːsənl" freq="9" />
+  <word en="interpretation" pos="n." zh="解释；理解；口译" phonetic="ɪnˌtɜːprɪˈteɪʃn" freq="3" />
+  <word en="intervene" pos="vi." zh="干预；介入" phonetic="ˌɪntəˈviːn" freq="0" src="讲义" />
+  <word en="isolate" pos="vt." zh="隔离；使孤立" phonetic="ˈaɪsəleɪt" freq="0" src="讲义" />
+  <word en="kiosk" pos="n." zh="售货亭；自助服务终端" phonetic="ˈkiːɒsk" freq="4" />
+  <word en="landline" pos="n." zh="固定电话" phonetic="ˈlændlaɪn" freq="5" />
+  <word en="legacy" pos="n." zh="遗产；遗留问题" phonetic="ˈleɡəsi" freq="0" src="讲义" />
+  <word en="legislation" pos="n." zh="立法；法规" phonetic="ˌledʒɪsˈleɪʃn" freq="2" />
+  <word en="lifespan" pos="n." zh="寿命；有效期" phonetic="ˈlaɪfspæn" freq="3" />
+  <word en="literacy" pos="n." zh="读写能力；素养" phonetic="ˈlɪtərəsi" freq="0" src="讲义" />
+  <word en="livestock" pos="n." zh="牲畜；家畜" phonetic="ˈlaɪvstɒk" freq="2" />
+  <word en="lizard" pos="n." zh="蜥蜴" phonetic="ˈlɪzəd" freq="5" />
+  <word en="logic" pos="n." zh="逻辑；道理" phonetic="ˈlɒdʒɪk" freq="4" />
+  <word en="loneliness" pos="n." zh="孤独；寂寞" phonetic="ˈləʊnlinəs" freq="6" />
+  <word en="macaw" pos="n." zh="金刚鹦鹉" phonetic="məˈkɔː" freq="27" />
+  <word en="magician" pos="n." zh="魔术师" phonetic="məˈdʒɪʃn" freq="10" />
+  <word en="magnetic" pos="adj." zh="磁的；有吸引力的" phonetic="mæɡˈnetɪk" freq="9" />
+  <word en="maintenance" pos="n." zh="维护；保养；维持" phonetic="ˈmeɪntənəns" freq="5" />
+  <word en="mangrove" pos="n." zh="红树林" phonetic="ˈmæŋɡrəʊv" freq="3" />
+  <word en="masterpiece" pos="n." zh="杰作；代表作" phonetic="ˈmɑːstəpiːs" freq="3" />
+  <word en="matrix" pos="n." zh="矩阵；基体" phonetic="ˈmeɪtrɪks" freq="6" />
+  <word en="mechanism" pos="n." zh="机制；机械装置" phonetic="ˈmekənɪzəm" freq="3" />
+  <word en="median" pos="adj. / n." zh="中位数的；中位数" phonetic="ˈmiːdiən" freq="0" src="讲义" />
+  <word en="mere" pos="adj." zh="仅仅的；只不过的" phonetic="mɪə" freq="4" />
+  <word en="microplastics" pos="n." zh="微塑料" phonetic="ˌmaɪkrəʊˈplæstɪks" freq="8" />
+  <word en="migratory" pos="adj." zh="迁徙的；移居的" phonetic="ˈmaɪɡrətri" freq="4" />
+  <word en="mimic" pos="vt. / n." zh="模仿；模仿者" phonetic="ˈmɪmɪk" freq="3" />
+  <word en="minimalism" pos="n." zh="极简主义" phonetic="ˈmɪnɪməlɪzəm" freq="4" />
+  <word en="minimize" pos="vt." zh="使最小化；把……降到最低" phonetic="ˈmɪnɪmaɪz" freq="4" />
+  <word en="mismatch" pos="n. / vt." zh="不匹配；错配" phonetic="ˈmɪsmætʃ" freq="4" />
+  <word en="moderate" pos="adj. / v." zh="适度的；使缓和" phonetic="ˈmɒdərət" freq="1" />
+  <word en="moderation" pos="n." zh="适度；节制" phonetic="ˌmɒdəˈreɪʃn" freq="4" />
+  <word en="modest" pos="adj." zh="谦虚的；适度的" phonetic="ˈmɒdɪst" freq="0" src="讲义" />
+  <word en="moisture" pos="n." zh="湿气；水分" phonetic="ˈmɔɪstʃə" freq="5" />
+  <word en="motivate" pos="vt." zh="激励；激发" phonetic="ˈməʊtɪveɪt" freq="25" />
+  <word en="murmur" pos="v. / n." zh="低语；嘟囔" phonetic="ˈmɜːmə" freq="0" src="讲义" />
+  <word en="myth" pos="n." zh="神话；错误观念" phonetic="mɪθ" freq="3" />
+  <word en="nap" pos="n. / vi." zh="小睡；打盹" phonetic="næp" freq="4" />
+  <word en="newborn" pos="adj. / n." zh="新生的；新生儿" phonetic="ˈnjuːbɔːn" freq="3" />
+  <word en="norm" pos="n." zh="规范；准则；常态" phonetic="nɔːm" freq="3" />
+  <word en="nuance" pos="n." zh="细微差别" phonetic="ˈnjuːɑːns" freq="3" />
+  <word en="nutrient" pos="n." zh="营养物；养分" phonetic="ˈnjuːtriənt" freq="0" src="讲义" />
+  <word en="obesity" pos="n." zh="肥胖；肥胖症" phonetic="əʊˈbiːsəti" freq="2" />
+  <word en="offspring" pos="n." zh="后代；产物" phonetic="ˈɒfsprɪŋ" freq="1" />
+  <word en="ongoing" pos="adj." zh="持续进行的" phonetic="ˈɒnɡəʊɪŋ" freq="1" />
+  <word en="optimism" pos="n." zh="乐观；乐观主义" phonetic="ˈɒptɪmɪzəm" freq="4" />
+  <word en="orchestra" pos="n." zh="管弦乐队" phonetic="ˈɔːkɪstrə" freq="3" />
+  <word en="originate" pos="vi." zh="起源；发源" phonetic="əˈrɪdʒɪneɪt" freq="7" />
+  <word en="outdated" pos="adj." zh="过时的；陈旧的" phonetic="ˌaʊtˈdeɪtɪd" freq="5" />
+  <word en="overfishing" pos="n." zh="过度捕捞" phonetic="ˌəʊvəˈfɪʃɪŋ" freq="3" />
+  <word en="overtourism" pos="n." zh="过度旅游" phonetic="ˌəʊvəˈtʊərɪzəm" freq="4" />
+  <word en="paleontologist" pos="n." zh="古生物学家" phonetic="ˌpæliɒnˈtɒlədʒɪst" freq="2" />
+  <word en="paradigm" pos="n." zh="范式；典范" phonetic="ˈpærədaɪm" freq="3" />
+  <word en="particle" pos="n." zh="微粒；粒子" phonetic="ˈpɑːtɪkl" freq="8" />
+  <word en="passionate" pos="adj." zh="热情的；热爱的" phonetic="ˈpæʃənət" freq="6" />
+  <word en="pavilion" pos="n." zh="亭子；展馆" phonetic="pəˈvɪliən" freq="3" />
+  <word en="peak" pos="n. / adj." zh="高峰；顶峰；高峰的" phonetic="piːk" freq="10" />
+  <word en="pedal" pos="n. / v." zh="踏板；踩踏板" phonetic="ˈpedl" freq="3" />
+  <word en="peer" pos="n. / vi." zh="同龄人；同辈；凝视" phonetic="pɪə" freq="4" />
+  <word en="perception" pos="n." zh="感知；看法" phonetic="pəˈsepʃn" freq="5" />
+  <word en="perfectionist" pos="n." zh="完美主义者" phonetic="pəˈfekʃənɪst" freq="4" />
+  <word en="permafrost" pos="n." zh="永久冻土" phonetic="ˈpɜːməfrɒst" freq="5" />
+  <word en="perseverance" pos="n." zh="毅力；坚持不懈" phonetic="ˌpɜːsəˈvɪərəns" freq="2" />
+  <word en="persistent" pos="adj." zh="坚持不懈的；持续的" phonetic="pəˈsɪstənt" freq="0" src="讲义" />
+  <word en="philosopher" pos="n." zh="哲学家；思想家" phonetic="fəˈlɒsəfə" freq="9" />
+  <word en="philosophical" pos="adj." zh="哲学的；豁达的" phonetic="ˌfɪləˈsɒfɪkl" freq="3" />
+  <word en="plunge" pos="v. / n." zh="骤降；跳入；猛冲" phonetic="plʌndʒ" freq="3" />
+  <word en="pollinator" pos="n." zh="传粉者；授粉昆虫" phonetic="ˈpɒlɪneɪtə" freq="5" />
+  <word en="porridge" pos="n." zh="粥；稀饭" phonetic="ˈpɒrɪdʒ" freq="0" src="讲义" />
+  <word en="portion" pos="n." zh="部分；一份" phonetic="ˈpɔːʃn" freq="0" src="讲义" />
+  <word en="postgraduate" pos="n. / adj." zh="研究生（的）" phonetic="ˌpəʊstˈɡrædʒuət" freq="3" />
+  <word en="posture" pos="n." zh="姿势；态度" phonetic="ˈpɒstʃə" freq="0" src="讲义" />
+  <word en="practitioner" pos="n." zh="从业者；执业者" phonetic="prækˈtɪʃənə" freq="3" />
+  <word en="predator" pos="n." zh="捕食者；掠夺者" phonetic="ˈpredətə" freq="3" />
+  <word en="premature" pos="adj." zh="过早的；不成熟的" phonetic="ˌpreməˈtjʊə" freq="0" src="讲义" />
+  <word en="prescription" pos="n." zh="处方；药方" phonetic="prɪˈskrɪpʃn" freq="0" src="讲义" />
+  <word en="prey" pos="n. / vi." zh="猎物；捕食" phonetic="preɪ" freq="3" />
+  <word en="prioritize" pos="vt." zh="优先处理；按优先级排序" phonetic="praɪˈɒrətaɪz" freq="0" src="讲义" />
+  <word en="privilege" pos="n." zh="特权；荣幸" phonetic="ˈprɪvəlɪdʒ" freq="0" src="讲义" />
+  <word en="probability" pos="n." zh="概率；可能性" phonetic="ˌprɒbəˈbɪləti" freq="6" />
+  <word en="profile" pos="n." zh="简介；侧影" phonetic="ˈprəʊfaɪl" freq="3" />
+  <word en="profound" pos="adj." zh="深刻的；深远的" phonetic="prəˈfaʊnd" freq="3" />
+  <word en="prone" pos="adj." zh="易于……的；俯卧的" phonetic="prəʊn" freq="2" />
+  <word en="prosper" pos="vi." zh="繁荣；兴旺" phonetic="ˈprɒspə" freq="0" src="讲义" />
+  <word en="protein" pos="n." zh="蛋白质" phonetic="ˈprəʊtiːn" freq="7" />
+  <word en="psychological" pos="adj." zh="心理的；心理学的" phonetic="ˌsaɪkəˈlɒdʒɪkl" freq="9" />
+  <word en="pudding" pos="n." zh="布丁" phonetic="ˈpʊdɪŋ" freq="3" />
+  <word en="pumpkin" pos="n." zh="南瓜" phonetic="ˈpʌmpkɪn" freq="6" />
+  <word en="pursuit" pos="n." zh="追求；消遣" phonetic="pəˈsjuːt" freq="6" />
+  <word en="quantum" pos="n." zh="量子" phonetic="ˈkwɒntəm" freq="14" />
+  <word en="radar" pos="n." zh="雷达" phonetic="ˈreɪdɑː" freq="2" />
+  <word en="radical" pos="adj. / n." zh="激进的；根本的" phonetic="ˈrædɪkl" freq="2" />
+  <word en="redefine" pos="vt." zh="重新定义" phonetic="ˌriːdɪˈfaɪn" freq="4" />
+  <word en="refuge" pos="n." zh="避难所；庇护" phonetic="ˈrefjuːdʒ" freq="3" />
+  <word en="refund" pos="n. / vt." zh="退款；退还" phonetic="ˈriːfʌnd" freq="2" />
+  <word en="registration" pos="n." zh="登记；注册" phonetic="ˌredʒɪˈstreɪʃn" freq="18" />
+  <word en="rehearsal" pos="n." zh="排练；彩排" phonetic="rɪˈhɜːsl" freq="3" />
+  <word en="rejection" pos="n." zh="拒绝；否决" phonetic="rɪˈdʒekʃn" freq="4" />
+  <word en="renewable" pos="adj." zh="可再生的；可续期的" phonetic="rɪˈnjuːəbl" freq="8" />
+  <word en="repairman" pos="n." zh="修理工" phonetic="rɪˈpeəmæn" freq="2" />
+  <word en="repurpose" pos="vt." zh="改作他用；重新利用" phonetic="ˌriːˈpɜːpəs" freq="0" src="讲义" />
+  <word en="resilience" pos="n." zh="韧性；恢复力" phonetic="rɪˈzɪliəns" freq="0" src="讲义" />
+  <word en="respondent" pos="n." zh="受访者；回答者" phonetic="rɪˈspɒndənt" freq="4" />
+  <word en="revenue" pos="n." zh="收入；税收" phonetic="ˈrevənjuː" freq="4" />
+  <word en="rhino" pos="n." zh="犀牛" phonetic="ˈraɪnəʊ" freq="12" />
+  <word en="rhythmic" pos="adj." zh="有节奏的；有韵律的" phonetic="ˈrɪðmɪk" freq="0" src="讲义" />
+  <word en="rooftop" pos="n." zh="屋顶；楼顶" phonetic="ˈruːftɒp" freq="3" />
+  <word en="roommate" pos="n." zh="室友" phonetic="ˈruːmmeɪt" freq="5" />
+  <word en="safeguard" pos="vt. / n." zh="保护；保障措施" phonetic="ˈseɪfɡɑːd" freq="0" src="讲义" />
+  <word en="satisfactory" pos="adj." zh="令人满意的" phonetic="ˌsætɪsˈfæktəri" freq="4" />
+  <word en="scarlet" pos="adj. / n." zh="猩红的；猩红色" phonetic="ˈskɑːlət" freq="27" />
+  <word en="scenario" pos="n." zh="情景；设想" phonetic="səˈnɑːriəʊ" freq="10" />
+  <word en="scent" pos="n. / vt." zh="气味；嗅到" phonetic="sent" freq="2" />
+  <word en="scope" pos="n." zh="范围；余地；机会" phonetic="skəʊp" freq="2" />
+  <word en="sensor" pos="n." zh="传感器；感应器" phonetic="ˈsensə" freq="3" />
+  <word en="shortage" pos="n." zh="短缺；不足" phonetic="ˈʃɔːtɪdʒ" freq="4" />
+  <word en="showcase" pos="vt. / n." zh="展示；展示柜" phonetic="ˈʃəʊkeɪs" freq="4" />
+  <word en="siheyuan" pos="n." zh="四合院" phonetic="ˌsɜːhəˈjuːən" freq="2" />
+  <word en="simulation" pos="n." zh="模拟；仿真" phonetic="ˌsɪmjuˈleɪʃn" freq="10" />
+  <word en="simultaneously" pos="adv." zh="同时地" phonetic="ˌsɪmlˈteɪniəsli" freq="3" />
+  <word en="slipper" pos="n." zh="拖鞋" phonetic="ˈslɪpə" freq="0" src="讲义" />
+  <word en="sludge" pos="n." zh="污泥；淤泥" phonetic="slʌdʒ" freq="3" />
+  <word en="sophomore" pos="n." zh="（大学）二年级学生" phonetic="ˈsɒfəmɔː" freq="0" src="讲义" />
+  <word en="specialty" pos="n." zh="特产；专长；特色菜" phonetic="ˈspeʃəlti" freq="1" />
+  <word en="stability" pos="n." zh="稳定；稳定性" phonetic="stəˈbɪləti" freq="3" />
+  <word en="stereotype" pos="n. / vt." zh="刻板印象；对……形成成见" phonetic="ˈsteriətaɪp" freq="5" />
+  <word en="stimulate" pos="vt." zh="刺激；激励" phonetic="ˈstɪmjuleɪt" freq="0" src="讲义" />
+  <word en="storytelling" pos="n." zh="讲故事；叙事" phonetic="ˈstɔːritelɪŋ" freq="19" />
+  <word en="strategic" pos="adj." zh="战略的；关键的" phonetic="strəˈtiːdʒɪk" freq="3" />
+  <word en="structural" pos="adj." zh="结构的；结构性的" phonetic="ˈstrʌktʃərəl" freq="4" />
+  <word en="stuttering" pos="n. / adj." zh="口吃；结巴的" phonetic="ˈstʌtərɪŋ" freq="5" />
+  <word en="submission" pos="n." zh="提交；呈递；屈服" phonetic="səbˈmɪʃn" freq="5" />
+  <word en="substantial" pos="adj." zh="大量的；实质的" phonetic="səbˈstænʃl" freq="2" />
+  <word en="suction" pos="n." zh="吸；吸力" phonetic="ˈsʌkʃn" freq="8" />
+  <word en="sufficient" pos="adj." zh="充足的；足够的" phonetic="səˈfɪʃnt" freq="0" src="讲义" />
+  <word en="supplement" pos="n. / vt." zh="补充（物）；增补" phonetic="ˈsʌplɪmənt" freq="0" src="讲义" />
+  <word en="sustain" pos="vt." zh="维持；支撑；遭受" phonetic="səˈsteɪn" freq="3" />
+  <word en="sustainability" pos="n." zh="可持续性" phonetic="səˌsteɪnəˈbɪləti" freq="3" />
+  <word en="sustainable" pos="adj." zh="可持续的" phonetic="səˈsteɪnəbl" freq="10" />
+  <word en="synapse" pos="n." zh="突触" phonetic="ˈsaɪnæps" freq="4" />
+  <word en="tackle" pos="vt. / n." zh="处理；应付" phonetic="ˈtækl" freq="2" />
+  <word en="takeout" pos="n. / adj." zh="外卖；外卖的" phonetic="ˈteɪkaʊt" freq="3" />
+  <word en="temporal" pos="adj." zh="时间的；世俗的" phonetic="ˈtempərəl" freq="3" />
+  <word en="termite" pos="n." zh="白蚁" phonetic="ˈtɜːmaɪt" freq="3" />
+  <word en="thorn" pos="n." zh="刺；荆棘；棘手之处" phonetic="θɔːn" freq="2" />
+  <word en="thorough" pos="adj." zh="彻底的；细致的" phonetic="ˈθʌrə" freq="0" src="讲义" />
+  <word en="timekeeping" pos="n." zh="计时；守时" phonetic="ˈtaɪmkiːpɪŋ" freq="5" />
+  <word en="toddler" pos="n." zh="幼儿；学步儿童" phonetic="ˈtɒdlə" freq="4" />
+  <word en="tolerance" pos="n." zh="容忍；耐受力" phonetic="ˈtɒlərəns" freq="3" />
+  <word en="transformative" pos="adj." zh="有变革力的；起改造作用的" phonetic="trænsˈfɔːmətɪv" freq="4" />
+  <word en="transit" pos="n. / v." zh="运输；过境；通过" phonetic="ˈtrænzɪt" freq="3" />
+  <word en="transplant" pos="n. / v." zh="移植；移种" phonetic="ˈtrænsplɑːnt" freq="0" src="讲义" />
+  <word en="undergraduate" pos="n." zh="本科生" phonetic="ˌʌndəˈɡrædʒuət" freq="4" />
+  <word en="underway" pos="adj." zh="进行中的" phonetic="ˌʌndəˈweɪ" freq="4" />
+  <word en="upgrade" pos="vt. / n." zh="升级；提升" phonetic="ˌʌpˈɡreɪd" freq="2" />
+  <word en="utilize" pos="vt." zh="利用；使用" phonetic="ˈjuːtəlaɪz" freq="2" />
+  <word en="vacancy" pos="n." zh="空缺；空位；空白" phonetic="ˈveɪkənsi" freq="2" />
+  <word en="vacuum" pos="n. / vt." zh="真空；用吸尘器清扫" phonetic="ˈvækjuːm" freq="1" />
+  <word en="vegetation" pos="n." zh="植被；草木" phonetic="ˌvedʒəˈteɪʃn" freq="3" />
+  <word en="veterinarian" pos="n." zh="兽医" phonetic="ˌvetərɪˈneəriən" freq="4" />
+  <word en="walkabout" pos="n." zh="（澳大利亚土著的）丛林漫游" phonetic="ˈwɔːkəbaʊt" freq="15" />
+  <word en="wanderlust" pos="n." zh="旅行癖；漫游欲" phonetic="ˈwɒndəlʌst" freq="4" />
+  <word en="watercolor" pos="n." zh="水彩；水彩画" phonetic="ˈwɔːtəkʌlə" freq="3" />
+  <word en="waterfowl" pos="n." zh="水禽；水鸟" phonetic="ˈwɔːtəfaʊl" freq="5" />
+  <word en="wellbeing" pos="n." zh="福祉；身心健康" phonetic="ˌwelˈbiːɪŋ" freq="3" />
+  <word en="workload" pos="n." zh="工作量；工作负担" phonetic="ˈwɜːkləʊd" freq="3" />
+  <word en="workout" pos="n." zh="锻炼；训练" phonetic="ˈwɜːkaʊt" freq="9" />
+  <word en="yacht" pos="n." zh="游艇；帆船" phonetic="jɒt" freq="3" />
+  <word en="yield" pos="n. / v." zh="产量；屈服；产生" phonetic="jiːld" freq="0" src="讲义" />
+  <word en="youngster" pos="n." zh="年轻人；少年" phonetic="ˈjʌŋstə" freq="2" />
+</wordbook>
