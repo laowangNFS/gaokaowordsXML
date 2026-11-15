@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordbook name="高考必背3600词（核心版·精简）" count="2252" level="core-short" source="word3500 / ECDICT" style="short" filter="词性≤2、释义≤3" version="1.0" generated="2026-11-15">
+  <word en="a.m." pos="n." zh="午前，上午" phonetic="ˌeɪ ˈem" />
+  <word en="abandon" pos="vt. / n." zh="抛弃，舍弃，放弃" phonetic="ə'bændən" />
+  <word en="abnormal" pos="adj. / n." zh="反常的，变态的" phonetic="æb'nɔːrml" />
+  <word en="aboard" pos="adv. / prep." zh="上(船，飞机，火车，汽车等)" phonetic="ə'bɔːd" />
+  <word en="abolish" pos="vt." zh="废除，废止" phonetic="ə'bɑːlɪʃ" />
+  <word en="abortion" pos="n." zh="人工流产，堕胎" phonetic="ə'bɔːʃ(ə)n" />
+  <word en="abrupt" pos="adj." zh="突然的，意外的，粗鲁" phonetic="ə'brʌpt" />
+  <word en="absence" pos="n." zh="不在，缺席" phonetic="'æbsəns" />
+  <word en="absent" pos="adj. / vt." zh="缺席， 不在" phonetic="ˈæbsənt;(for v.)əbˈsent" />
+  <word en="absolute" pos="adj. / n." zh="完全，全部，绝对的" phonetic="'æbsəluːt" />
+  <word en="absorb" pos="vt." zh="吸收，使全神贯注" phonetic="əb'sɔːrb" />
+  <word en="abstract" pos="adj. / n." zh="抽象的(作品)" phonetic="'æbstrækt" />
+  <word en="absurd" pos="adj. / n." zh="荒谬的，怪诞不经的" phonetic="əb'sɜːrd" />
+  <word en="abundant" pos="adj." zh="大量，丰盛的，充裕的" phonetic="ə'bʌndənt" />
+  <word en="abuse" pos="n. / vt." zh="(酗酒)滥用，虐待，恶语" phonetic="ə'bjuːz" />
+  <word en="academic" pos="adj. / n." zh="学术的，教学的" phonetic="ˌækə'demɪk" />
+  <word en="academy" pos="n." zh="专科学院，(美)私立学校" phonetic="ə'kædəmi" />
+  <word en="accelerate" pos="v." zh="(使)加速，加快" phonetic="ək'seləreɪt" />
+  <word en="accent" pos="n. / vt." zh="口音，音调" phonetic="'æks(ə)nt; -sent" />
+  <word en="access" pos="n. / vt." zh="通道，入径，存取(计算机文件)" phonetic="'ækses" />
+  <word en="accessible" pos="adj." zh="可到达的，可接受的，易相处的)" phonetic="ək'sesəbl" />
+  <word en="accommodation" pos="n." zh="住宿，膳宿" phonetic="əkɒmə'deɪʃ(ə)n" />
+  <word en="accompany" pos="vt. / vi." zh="陪同，陪伴，与…同时发生" phonetic="ə'kʌmpəni" />
+  <word en="accomplish" pos="vt." zh="完成" phonetic="ə'kɑːmplɪʃ" />
+  <word en="account" pos="n. / vi." zh="账目；描述" phonetic="ə'kaunt" />
+  <word en="accountant" pos="n." zh="会计，会计师" phonetic="ə'kaʊnt(ə)nt" />
+  <word en="accumulate" pos="v." zh="积累，积聚" phonetic="ə'kjuːmjəleɪt" />
+  <word en="accuracy" pos="n." zh="准确，精确" phonetic="'ækjərəsi" />
+  <word en="accuse" pos="vt. / vi." zh="指责；控告；谴责" phonetic="ə'kjuːz" />
+  <word en="accustomed" pos="adj." zh="习惯于，惯常的" phonetic="ə'kʌstəmd" />
+  <word en="ache" pos="n. / vi." zh="痛，疼痛" phonetic="eɪk" />
+  <word en="achievement" pos="n." zh="成就，成绩，功绩" phonetic="ə'tʃiːvm(ə)nt" />
+  <word en="acid" pos="n. / adj." zh="酸的" phonetic="'æsɪd" />
+  <word en="acknowledge" pos="vt." zh="承认" phonetic="ək'nɑːlɪdʒ" />
+  <word en="acquaintance" pos="n." zh="熟人，(与某人)认识" phonetic="ə'kweɪnt(ə)ns" />
+  <word en="acquire" pos="vt." zh="获得，得到" phonetic="ə'kwaɪər" />
+  <word en="acquisition" pos="n." zh="获得，得到" phonetic="ˌækwɪ'zɪʃn" />
+  <word en="acre" pos="n." zh="英亩" phonetic="'eɪkə" />
+  <word en="actual" pos="adj." zh="实际的；现实的" phonetic="'æktʃʊəl; -tjʊəl" />
+  <word en="acute" pos="adj." zh="十分严重的，(病)急性的" phonetic="əˈkjuːt" />
+  <word en="AD" pos="n." zh="公元" phonetic="ˌeɪ ˈdiː" />
+  <word en="adapt" pos="vt. / vi." zh="使适应，适合，改编" phonetic="ə'dæpt" />
+  <word en="adaptation" pos="n." zh="适应，改编本" phonetic="ædəp'teɪʃ(ə)n" />
+  <word en="addicted" pos="adj." zh="上瘾，成瘾，入迷" phonetic="ə'dɪktɪd" />
+  <word en="addition" pos="n." zh="增加；(算数用语)加" phonetic="ə'dɪʃn" />
+  <word en="adequate" pos="adj." zh="合适的，合乎需要的" phonetic="'ædɪkwət" />
+  <word en="adjust" pos="vt. / vi." zh="调整，调节，适应，习惯" phonetic="ə'dʒʌst" />
+  <word en="adjustment" pos="n." zh="调整，适应" phonetic="ə'dʒʌs(t)m(ə)nt" />
+  <word en="administration" pos="n." zh="管理，行政部门" phonetic="ədmɪnɪ'streɪʃ(ə)n" />
+  <word en="admirable" pos="adj." zh="值得赞赏的，可钦佩的" phonetic="'ædm(ə)rəb(ə)l" />
+  <word en="admire" pos="vt. / vi." zh="钦佩；羡慕" phonetic="əd'maɪər" />
+  <word en="admission" pos="n." zh="准入， 接纳" phonetic="əd'mɪʃn" />
+  <word en="admit" pos="vt. / vi." zh="承认，准许(入场，入学，入会)" phonetic="əd'mɪt" />
+  <word en="adolescence" pos="n." zh="青春，青春期" phonetic="ˌædə'lesns" />
+  <word en="adolescent" pos="adj. / n." zh="青少年" phonetic="ædə'les(ə)nt" />
+  <word en="adopt" pos="vt." zh="收养，领养" phonetic="ə'dɑːpt" />
+  <word en="adore" pos="vt. / vi." zh="(不用于进行时)热爱，爱慕某人" phonetic="ə'dɔː" />
+  <word en="advance" pos="n. / vi." zh="推进，促进；前进" phonetic="əd'væns" />
+  <word en="advise" pos="vt. / vi." zh="忠告，劝告，建议" phonetic="əd'vaɪz" />
+  <word en="advocate" pos="n. / vt." zh="拥护，支持，提倡" phonetic="'ædvəkeɪt；-ət" />
+  <word en="aeroplane" pos="n." zh="(英)飞机" phonetic="'eərəpleɪn" />
+  <word en="affair" pos="n." zh="事，事情" phonetic="ə'feə" />
+  <word en="affection" pos="n." zh="喜爱，钟爱" phonetic="ə'fekʃn" />
+  <word en="afford" pos="vt." zh="负担得起(……的费用)；抽得出(时间)；提供" phonetic="ə'fɔːd" />
+  <word en="Africa" pos="n." zh="非洲" phonetic="'æfrɪkə" />
+  <word en="African" pos="n. / adj." zh="非洲的，非洲人的；非洲人" phonetic="'æfrɪk(ə)n" />
+  <word en="afterward" pos="adv." zh="后来" phonetic="'ɑːftəwəd" />
+  <word en="agency" pos="n." zh="代理机构" phonetic="'eɪdʒənsi" />
+  <word en="agenda" pos="pl." zh="(会议)议程表，议事日程" phonetic="ə'dʒendə" />
+  <word en="agent" pos="n." zh="代理人，经济人" phonetic="'eɪdʒ(ə)nt" />
+  <word en="aggression" pos="n." zh="侵略" phonetic="ə'greʃn" />
+  <word en="aggressive" pos="adj." zh="侵略的；咄咄逼人" phonetic="ə'gresɪv" />
+  <word en="agreement" pos="n." zh="同意，一致；协定，协议" phonetic="ə'griːm(ə)nt" />
+  <word en="agricultural" pos="adj." zh="农业的" phonetic="æɡrɪ'kʌltʃərəl" />
+  <word en="agriculture" pos="n." zh="农业，农学" phonetic="'ægrɪkʌltʃə" />
+  <word en="ahead" pos="adj. / adv." zh="在前，向前" phonetic="ə'hed" />
+  <word en="aid" pos="n. / vt." zh="援助；救护；辅助器具" phonetic="eɪd" />
+  <word en="AIDS" pos="n." zh="艾滋病" phonetic="eɪdz" />
+  <word en="aim" pos="n. / vi." zh="目的；目标；计划，打算" phonetic="eɪm" />
+  <word en="aircraft" pos="n." zh="飞机；(单复数同)" phonetic="'eəkrɑːft" />
+  <word en="airmail" pos="n." zh="航空邮件" phonetic="'eəmeɪl" />
+  <word en="airplane" pos="n." zh="(美)飞机" phonetic="'eəpleɪn" />
+  <word en="airspace" pos="n." zh="领空，(某国的)空域" phonetic="'eəspeɪs" />
+  <word en="alarm" pos="n. / vt." zh="警报" phonetic="ə'lɑːrm" />
+  <word en="album" pos="n." zh="相册，影集，集邮簿" phonetic="'ælbəm" />
+  <word en="alcohol" pos="n." zh="含酒精饮料，酒" phonetic="'ælkəhɒl" />
+  <word en="alcoholic" pos="n. / adj." zh="含酒精的，酒鬼" phonetic="ælkə'hɒlɪk" />
+  <word en="algebra" pos="n." zh="代数" phonetic="'ældʒɪbrə" />
+  <word en="alike" pos="adj. / adv." zh="很相似地，同样地" phonetic="ə'laɪk" />
+  <word en="allergic" pos="adj." zh="过敏的，厌恶" phonetic="ə'lɜːrdʒɪk" />
+  <word en="alley" pos="n." zh="小巷，胡同" phonetic="'æli" />
+  <word en="allocate" pos="vt." zh="拨给，划归，分配…给" phonetic="'æləkeɪt" />
+  <word en="allowance" pos="n. / vt." zh="津贴，补助" phonetic="ə'laʊəns" />
+  <word en="alongside" pos="adv. / prep." zh="在…旁边，与…同时" phonetic="əlɒŋ'saɪd" />
+  <word en="aloud" pos="adv." zh="大声地" phonetic="ə'laʊd" />
+  <word en="alphabet" pos="n." zh="字母表，字母" phonetic="'ælfəbet" />
+  <word en="altitude" pos="n." zh="海拔高度" phonetic="'æltɪtjuːd" />
+  <word en="altogether" pos="adv." zh="总共" phonetic="ɔːltə'geðə; ɒl-" />
+  <word en="aluminium" pos="n. / adj." zh="(化)铝" phonetic="æl(j)ʊ'mɪnɪəm" />
+  <word en="amateur" pos="n." zh="业余爱好的" phonetic="'æmətər" />
+  <word en="amaze" pos="vt." zh="惊奇，惊叹；震惊" phonetic="ə'meɪz" />
+  <word en="ambassador" pos="n." zh="大使" phonetic="æmˈbæsədə(r)" />
+  <word en="ambassadress" pos="n." zh="大使夫人；女大使" phonetic="æm'bæsədres" />
+  <word en="ambiguous" pos="adj." zh="模棱两可的" phonetic="æm'bɪgjuəs" />
+  <word en="ambition" pos="n." zh="目标，野心，雄心，抱负" phonetic="æm'bɪʃ(ə)n" />
+  <word en="ambulance" pos="n." zh="救护车" phonetic="'æmbjuləns" />
+  <word en="America" pos="n." zh="美国；美洲" phonetic="ə'merɪkə" />
+  <word en="American" pos="n. / adj." zh="美国的；美国人的；美国人" phonetic="əˈmerɪkən" />
+  <word en="ample" pos="adj." zh="足够的，丰裕的" phonetic="'æmpl" />
+  <word en="amuse" pos="vt." zh="(使人)快乐，逗乐" phonetic="ə'mjuːz" />
+  <word en="amusement" pos="n." zh="娱乐" phonetic="ə'mjuːzmənt" />
+  <word en="analysis" pos="n." zh="分析，分析结果" phonetic="ə'næləsɪs" />
+  <word en="analyze" pos="vt." zh="分析" phonetic="'ænəlaɪz" />
+  <word en="ancestor" pos="n." zh="祖宗；祖先" phonetic="'ænsestər" />
+  <word en="anchor" pos="n. / vt." zh="锚，抛锚" phonetic="'æŋkər" />
+  <word en="anecdote" pos="n." zh="逸事，趣闻" phonetic="'ænɪkdout" />
+  <word en="anger" pos="n. / vt." zh="怒，愤怒" phonetic="'æŋgə" />
+  <word en="angle" pos="n. / vi." zh="角度" phonetic="'æŋgl" />
+  <word en="anniversary" pos="n." zh="周年纪念日" phonetic="ænɪ'vɜːs(ə)rɪ" />
+  <word en="announce" pos="vt. / vi." zh="宣布，宣告" phonetic="ə'nauns" />
+  <word en="announcement" pos="n." zh="通告，通知" phonetic="ə'naʊnsm(ə)nt" />
+  <word en="annoy" pos="vt." zh="(使)烦恼" phonetic="ə'nɒɪ" />
+  <word en="annual" pos="n. / adj." zh="每年的，年度的，一年一次的" phonetic="'ænjuəl" />
+  <word en="ant" pos="n." zh="蚂蚁" phonetic="ænt" />
+  <word en="Antarctic" pos="adj. / n." zh="南极的" phonetic="ænˈtɑːktɪk" />
+  <word en="Antarctica" pos="n." zh="南极洲" phonetic="ænˈtɑ:ktikə" />
+  <word en="antique" pos="n. / adj." zh="古董" phonetic="æn'tiːk" />
+  <word en="anxiety" pos="n." zh="担忧，焦虑" phonetic="æŋ'zaɪətɪ" />
+  <word en="anxious" pos="adj." zh="忧虑的，焦急的" phonetic="'æŋkʃəs" />
+  <word en="anyhow" pos="adv." zh="不管怎样" phonetic="'enɪhaʊ" />
+  <word en="apart" pos="adv. / adj." zh="ad， / 相隔，相距，除外" phonetic="ə'pɑːt" />
+  <word en="apologize" pos="vi." zh="道歉，谢罪" phonetic="ə'pɑːlədʒaɪz" />
+  <word en="apology" pos="n." zh="道歉；歉意" phonetic="ə'pɔlədʒi" />
+  <word en="apparent" pos="adj." zh="显而易见" phonetic="ə'pærənt" />
+  <word en="appeal" pos="n. / vi." zh="上诉，申诉，吸引力" phonetic="ə'piːl" />
+  <word en="appendix" pos="n." zh="附录，阑尾" phonetic="ə'pendɪks" />
+  <word en="appetite" pos="n." zh="食欲，胃口" phonetic="'æpɪtaɪt" />
+  <word en="applaud" pos="v." zh="鼓掌，赞许，赞赏" phonetic="ə'plɔːd" />
+  <word en="applicant" pos="n." zh="申请人" phonetic="'æplɪkənt" />
+  <word en="application" pos="n." zh="申请" phonetic="ˌæplɪ'keɪʃn" />
+  <word en="appoint" pos="vt." zh="任命，委任，安排，确定(时间，地点)" phonetic="ə'pɒɪnt" />
+  <word en="appointment" pos="n." zh="约会" phonetic="ə'pɔɪntmənt" />
+  <word en="appreciate" pos="vt. / vi." zh="欣赏；感激" phonetic="ə'priːʃieɪt" />
+  <word en="appreciation" pos="n." zh="欣赏，鉴定，评估" phonetic="əˌpriːʃi'eɪʃn" />
+  <word en="approach" pos="n. / vt." zh="靠近，接近，建议，要求" phonetic="ə'proutʃ" />
+  <word en="appropriate" pos="adj." zh="合适的，恰当的" phonetic="əˈprəʊprɪət;(for v.)əˈprəʊprɪeɪt" />
+  <word en="approve" pos="vt. / vi." zh="赞成，同意，批准，通过" phonetic="ə'pruːv" />
+  <word en="approximately" pos="adv." zh="近似，大约" phonetic="ə'prɔksimitli" />
+  <word en="apron" pos="n." zh="(机场的)停机坪" phonetic="'eɪpr(ə)n" />
+  <word en="Arab" pos="n. / adj." zh="阿拉伯的；阿拉伯人" phonetic="'ærəb" />
+  <word en="Arabic" pos="n. / adj." zh="阿拉伯语的；阿拉伯语" phonetic="'ærəbik" />
+  <word en="arbitrary" pos="adj." zh="随心所欲的，独裁的，专断的" phonetic="'ɑːrbətreri" />
+  <word en="arch" pos="n. / vt." zh="拱，拱门" phonetic="ɑːtʃ" />
+  <word en="Arctic" pos="adj. / n." zh="北极的" phonetic="'ɑːktɪk" />
+  <word en="arise" pos="vi." zh="起来，升起；出现" phonetic="əˈraɪz" />
+  <word en="arithmetic" pos="n." zh="算术" phonetic="ə'rɪθmətɪk" />
+  <word en="armchair" pos="n." zh="扶手椅" phonetic="ɑːm'tʃeə; 'ɑːm-" />
+  <word en="arrest" pos="n. / vt." zh="逮捕，拘留" phonetic="ə'rest" />
+  <word en="arrival" pos="n." zh="到来，到达" phonetic="ə'raɪv(ə)l" />
+  <word en="arrow" pos="n." zh="箭；箭头" phonetic="'ærəʊ" />
+  <word en="artificial" pos="adj." zh="人工的，人造的" phonetic="ˌɑːrtɪ'fɪʃl" />
+  <word en="ash" pos="n." zh="灰；灰末" phonetic="æʃ" />
+  <word en="ashamed" pos="adj." zh="惭愧；害臊" phonetic="ə'ʃeɪmd" />
+  <word en="Asia" pos="n." zh="亚洲" phonetic="ˈeɪʃə" />
+  <word en="Asian" pos="n. / adj." zh="亚洲(人)的；亚洲人" phonetic="'eiʃən" />
+  <word en="aside" pos="n. / adv." zh="在旁边" phonetic="ə'saɪd" />
+  <word en="aspect" pos="n." zh="方面，外观，外表" phonetic="'æspekt" />
+  <word en="assess" pos="vt." zh="评价，评定(性质，质量)" phonetic="ə'ses" />
+  <word en="assessment" pos="n." zh="评估；评价；看法" phonetic="ə'sesmənt" />
+  <word en="assist" pos="n. / vt." zh="帮助，协助" phonetic="ə'sɪst" />
+  <word en="assistance" pos="n." zh="帮助，援助，支持" phonetic="ə'sɪstəns" />
+  <word en="associate" pos="n. / vt." zh="联想，联系" phonetic="ə'səʊʃɪeɪt; -sɪeɪt" />
+  <word en="association" pos="n." zh="协会，社团，联系" phonetic="əsəʊsɪ'eɪʃ(ə)n; -ʃɪ-" />
+  <word en="assume" pos="vt. / vi." zh="假定，假设" phonetic="ə'suːm" />
+  <word en="assumption" pos="n." zh="假定，假设" phonetic="ə'sʌm(p)ʃ(ə)n" />
+  <word en="astonish" pos="vt." zh="使惊讶" phonetic="ə'stɒnɪʃ" />
+  <word en="astronaut" pos="n." zh="宇航员" phonetic="'æstrənɔːt" />
+  <word en="astronomer" pos="n." zh="天文学家" phonetic="ə'strɒnəmə" />
+  <word en="astronomy" pos="n." zh="天文学" phonetic="ə'strɑːnəmi" />
+  <word en="athletic" pos="adj." zh="健壮的，体育运动的" phonetic="æθ'letɪk" />
+  <word en="athletics" pos="n." zh="田径" phonetic="æθ'letɪks" />
+  <word en="Atlantic" pos="n. / adj." zh="大西洋的" phonetic="æt'læntɪk" />
+  <word en="atmosphere" pos="n." zh="大气；气氛" phonetic="'ætməsfɪr" />
+  <word en="atom" pos="n." zh="原子，微粒" phonetic="'ætəm" />
+  <word en="attach" pos="vt. / vi." zh="把…固定，重视" phonetic="ə'tætʃ" />
+  <word en="attain" pos="vt. / vi." zh="(经过努力)获得，得到" phonetic="ə'teɪn" />
+  <word en="attempt" pos="n. / vt." zh="试图，尝试" phonetic="ə'tempt" />
+  <word en="attentively" pos="adv." zh="注意地" phonetic="ə'tentivli" />
+  <word en="attitude" pos="n." zh="态度，看法" phonetic="'ætɪtjuːd" />
+  <word en="attract" pos="vt. / vi." zh="吸引，引起" phonetic="ə'trækt" />
+  <word en="attraction" pos="n." zh="吸引，爱慕" phonetic="ə'trækʃ(ə)n" />
+  <word en="Australia" pos="n." zh="澳洲；澳大利亚" phonetic="ɒ'streɪlɪə" />
+  <word en="Australian" pos="n. / adj." zh="澳洲的，澳大利亚人的；澳大利亚人" phonetic="ɔˈstreɪlɪən" />
+  <word en="authentic" pos="adj." zh="真正的，真品的" phonetic="ɔː'θentɪk" />
+  <word en="authority" pos="n." zh="权力，权威，威信，官方" phonetic="ə'θɔːrəti" />
+  <word en="automatic" pos="n. / adj." zh="自动的，机械的" phonetic="ˌɔːtə'mætɪk" />
+  <word en="autonomous" pos="adj." zh="自治的，自主的" phonetic="ɔː'tɑːnəməs" />
+  <word en="avenue" pos="n." zh="大道" phonetic="'ævənjuː" />
+  <word en="awake" pos="adj. / vt." zh="唤醒， 醒着的" phonetic="əˈweɪk" />
+  <word en="aware" pos="adj." zh="知道，意识到，发觉" phonetic="ə'wer" />
+  <word en="awesome" pos="adj." zh="令人惊叹，很困难的" phonetic="'ɔːsəm" />
+  <word en="awkward" pos="adj." zh="令人尴尬，使人难堪的" phonetic="'ɔːkwərd" />
+  <word en="bachelor" pos="n." zh="未婚男子，单身汉" phonetic="'bætʃələ" />
+  <word en="backache" pos="n." zh="背痛" phonetic="'bækeɪk" />
+  <word en="backward" pos="adv. / adj." zh="向后" phonetic="'bækwəd" />
+  <word en="bacon" pos="n." zh="咸猪肉；熏猪肉" phonetic="'beɪkən" />
+  <word en="bacterium" pos="n." zh="细菌" phonetic="bæk'tɪərɪəm" />
+  <word en="badminton" pos="n." zh="羽毛球" phonetic="'bædmɪnt(ə)n" />
+  <word en="baggage" pos="n." zh="行李" phonetic="'bægɪdʒ" />
+  <word en="bake" pos="vt. / vi." zh="烤；烘(面包)" phonetic="beɪk" />
+  <word en="bakery" pos="n." zh="面包店" phonetic="'beɪk(ə)rɪ" />
+  <word en="balance" pos="n. / vi." zh="平衡" phonetic="'bæləns" />
+  <word en="balcony" pos="n." zh="阳台；楼座" phonetic="'bælkəni" />
+  <word en="ballet" pos="n." zh="芭蕾舞" phonetic="'bæleɪ; -lɪ" />
+  <word en="balloon" pos="n. / vt." zh="气球" phonetic="bə'luːn" />
+  <word en="ballpoint" pos="n." zh="圆珠笔" phonetic="`bɔl,pɔɪnt" />
+  <word en="bamboo" pos="n." zh="竹" phonetic="bæm'buː" />
+  <word en="ban" pos="n. / vt." zh="禁令；禁止；取缔" phonetic="bæn" />
+  <word en="bandage" pos="n." zh="绷带" phonetic="'bændɪdʒ" />
+  <word en="bang" pos="n. / v." zh="砰" phonetic="bæŋ" />
+  <word en="barbecue" pos="n. / vt." zh="烤肉野餐" phonetic="'bɑːrbɪkjuː" />
+  <word en="barber" pos="n." zh="(为男人理发)理发师" phonetic="'bɑːrbər" />
+  <word en="barbershop" pos="n." zh="理发店" phonetic="'bɑːbəʃɒp" />
+  <word en="bare" pos="adj. / vt." zh="裸露的，光秃秃的" phonetic="ber" />
+  <word en="bargain" pos="n. / v." zh="(经讨价还价后)成交的商品；廉价货；讨价还价" phonetic="'bɑːrgən" />
+  <word en="bark" pos="n. / vi." zh="狗叫；狗叫声" phonetic="bɑːrk" />
+  <word en="barrier" pos="n." zh="屏障，障碍，关卡" phonetic="'bæriər" />
+  <word en="base" pos="n. / vt." zh="根据地，基地(棒球)垒" phonetic="beɪs" />
+  <word en="basement" pos="n." zh="地下室" phonetic="'beɪsmənt" />
+  <word en="basic" pos="n. / adj." zh="基本的" phonetic="'beɪsɪk" />
+  <word en="basin" pos="n." zh="水盆，脸盆" phonetic="'beɪsn" />
+  <word en="basis" pos="n." zh="原因，缘由，要素" phonetic="'beɪsɪs" />
+  <word en="basket" pos="n. / vt." zh="篮子" phonetic="'bɑːskɪt" />
+  <word en="bat" pos="n. / v." zh="(棒球、板球的)球棒；蝙蝠" phonetic="bæt" />
+  <word en="bathe" pos="vt. / vi." zh="洗澡；游泳" phonetic="beɪð" />
+  <word en="bathrobe" pos="n." zh="浴衣" phonetic="'bɑːθrəʊb" />
+  <word en="bathtub" pos="n." zh="澡盆" phonetic="'bɑːθtʌb" />
+  <word en="battery" pos="n." zh="电池" phonetic="'bætri" />
+  <word en="battle" pos="n. / v." zh="战斗；战役" phonetic="'bæt(ə)l" />
+  <word en="battleground" pos="n." zh="战场" phonetic="ˈbæt(ə)lɡraʊnd" />
+  <word en="bay" pos="n. / vt." zh="湾；海湾" phonetic="beɪ" />
+  <word en="BC" pos="n." zh="公元前" phonetic="ˌbiːˈsiː" />
+  <word en="beam" pos="n. / vi." zh="平衡木" phonetic="biːm" />
+  <word en="beancurd" pos="n." zh="豆腐" phonetic="'bi:nkə:d" />
+  <word en="beard" pos="n. / vt." zh="(下巴上的)胡须" phonetic="bɪəd" />
+  <word en="beast" pos="n." zh="野兽；牲畜" phonetic="biːst" />
+  <word en="beauty" pos="n." zh="美丽，美人" phonetic="'bjuːtɪ" />
+  <word en="bedclothes" pos="n." zh="铺盖(被褥等)" phonetic="'bedkləʊðz" />
+  <word en="beddings" pos="n. / adj." zh="卧具，铺盖" phonetic="'bedɪŋz" />
+  <word en="bee" pos="n." zh="蜜蜂" phonetic="biː" />
+  <word en="beehive" pos="n." zh="蜂箱" phonetic="'biːhaɪv" />
+  <word en="beg" pos="v." zh="请求，乞求，乞讨" phonetic="beg" />
+  <word en="behalf" pos="n." zh="代表某人，为了某人" phonetic="bɪ'hɑːf" />
+  <word en="Belgium" pos="n." zh="比利时" phonetic="'bɛldʒəm" />
+  <word en="belief" pos="n." zh="信条，信念" phonetic="bɪ'liːf" />
+  <word en="bell" pos="n." zh="钟，铃；钟(铃)声；钟形物" phonetic="bel" />
+  <word en="belly" pos="n. / vt." zh="肚子" phonetic="'belɪ" />
+  <word en="bench" pos="n." zh="长凳；工作台" phonetic="ben(t)ʃ" />
+  <word en="bend" pos="vi. / vt." zh="弯曲的，变形的；使弯曲" phonetic="bend" />
+  <word en="beneath" pos="prep. / adv." zh="在…下方(面)" phonetic="bɪ'niːθ" />
+  <word en="beneficial" pos="adj." zh="有利的，有帮助的，有用的" phonetic="ˌbenɪ'fɪʃl" />
+  <word en="bent" pos="adj. / n." zh="弯的" phonetic="bent" />
+  <word en="beside" pos="prep." zh="在…旁边；靠近" phonetic="bɪ'saɪd" />
+  <word en="besides" pos="prep. / adv." zh="除…以外(还有)；还有，此外" phonetic="bɪ'saɪdz" />
+  <word en="bestseller" pos="n." zh="畅销书" phonetic="best'selə(r)" />
+  <word en="betray" pos="vt." zh="出卖，泄露(机密)，辜负" phonetic="bɪ'treɪ" />
+  <word en="beyond" pos="prep. / adv." zh="(表示位置)；在…的那边" phonetic="bɪ'jɒnd" />
+  <word en="bid" pos="n. / v." zh="出价，投标，向(某人)道别" phonetic="bɪd" />
+  <word en="bingo" pos="n." zh="宾戈游戏" phonetic="'bɪŋgəʊ" />
+  <word en="biochemistry" pos="n." zh="生物化学" phonetic="baɪə(ʊ)'kemɪstrɪ" />
+  <word en="biography" pos="n." zh="传记" phonetic="baɪ'ɑːgrəfi" />
+  <word en="birdcage" pos="n." zh="鸟笼" phonetic="ˈbɜːdkeɪdʒ" />
+  <word en="birthplace" pos="n." zh="出生地；故乡" phonetic="'bɜːθpleɪs" />
+  <word en="bishop" pos="n." zh="主教" phonetic="'bɪʃəp" />
+  <word en="bite" pos="n. / v." zh="咬；叮" phonetic="baɪt" />
+  <word en="bitter" pos="adj. / adv." zh="有苦味的；痛苦的，难过的；严酷的" phonetic="'bɪtə" />
+  <word en="blackboard" pos="n." zh="黑板" phonetic="'blækbɔːd" />
+  <word en="blame" pos="n. / vt." zh="责备；责怪" phonetic="bleɪm" />
+  <word en="blanket" pos="n. / vt." zh="毛毯，毯子" phonetic="'blæŋkɪt" />
+  <word en="bleed" pos="vi. / vt." zh="出血，流血" phonetic="bliːd" />
+  <word en="bless" pos="vt." zh="保佑，降福" phonetic="bles" />
+  <word en="blind" pos="n. / adj." zh="瞎的" phonetic="blaɪnd" />
+  <word en="block" pos="n. / vt." zh="大块；(木、石等)块；街区" phonetic="blɑːk" />
+  <word en="blouse" pos="n." zh="宽罩衫；(妇女、儿童穿的)短上衣" phonetic="'blaʊz" />
+  <word en="boating" pos="n." zh="划船(游玩)，泛舟" phonetic="'bəʊtɪŋ" />
+  <word en="boatrace" pos="n." zh="划船比赛" phonetic="bəʊtˈreɪs" />
+  <word en="bodybuilding" pos="n." zh="健美" phonetic="ˈbɒdibɪldɪŋ" />
+  <word en="bomb" pos="n. / vt." zh="炸弹；轰炸" phonetic="bɒm" />
+  <word en="bond" pos="n. / vt." zh="纽带，联系，使牢固" phonetic="bɑːnd" />
+  <word en="bonus" pos="n." zh="津贴，奖金，红利" phonetic="'bəʊnəs" />
+  <word en="bookcase" pos="n." zh="书橱" phonetic="'bʊkkeɪs" />
+  <word en="bookmark" pos="n." zh="书签" phonetic="'bʊkmɑːk" />
+  <word en="bookshelf" pos="n." zh="书架" phonetic="'bʊkʃelf" />
+  <word en="bookshop" pos="n." zh="书店" phonetic="'bʊkʃɒp" />
+  <word en="bookstore" pos="n." zh="书店" phonetic="'bukstɔːr" />
+  <word en="boom" pos="n. / vi." zh="繁荣，轰鸣，激增" phonetic="buːm" />
+  <word en="booth" pos="n." zh="岗；(为某种用途而设的)亭或小隔间" phonetic="buːð; buːθ" />
+  <word en="border" pos="n. / vt." zh="边缘；边境，国界" phonetic="'bɔːdə" />
+  <word en="botanical" pos="adj. / n." zh="植物学的" phonetic="bə'tænɪkl" />
+  <word en="botany" pos="n." zh="植物；植物学" phonetic="'bɑːtəni" />
+  <word en="bounce" pos="n. / vi." zh="弹起，蹦，上下晃动" phonetic="bauns" />
+  <word en="bound" pos="n. / adj." zh="被束缚的；被绑的；有义务的" phonetic="baund" />
+  <word en="boundary" pos="n." zh="边界，界限" phonetic="'baundri" />
+  <word en="bow" pos="n. / v." zh="鞠躬，弯腰行礼" phonetic="baʊ" />
+  <word en="bowling" pos="n." zh="保龄球" phonetic="'bəʊlɪŋ" />
+  <word en="boxing" pos="n." zh="拳击(运动)" phonetic="'bɒksɪŋ" />
+  <word en="boycott" pos="n. / vt." zh="拒绝购买，抵制" phonetic="'bɔɪkɑːt" />
+  <word en="brake" pos="n. / v." zh="闸；刹车" phonetic="breɪk" />
+  <word en="branch" pos="n. / vi." zh="树枝；分枝；分公司，分店" phonetic="brɑːn(t)ʃ" />
+  <word en="brand" pos="n. / vt." zh="品牌" phonetic="brænd" />
+  <word en="brave" pos="adj. / n." zh="勇敢的" phonetic="breɪv" />
+  <word en="bravery" pos="n." zh="勇气" phonetic="'breɪv(ə)rɪ" />
+  <word en="breakthrough" pos="n." zh="重大进展，突破" phonetic="'breɪkθruː" />
+  <word en="breast" pos="n. / vt." zh="乳房，胸脯" phonetic="brest" />
+  <word en="breath" pos="n." zh="气息；呼吸" phonetic="breθ" />
+  <word en="breathe" pos="vi. / vt." zh="呼吸" phonetic="briːð" />
+  <word en="breathless" pos="adj." zh="气喘吁吁的，上气不接下气的" phonetic="'breθlɪs" />
+  <word en="brewery" pos="n." zh="啤酒厂(公司)" phonetic="'brʊərɪ" />
+  <word en="brick" pos="n. / adj." zh="砖；砖块" phonetic="brɪk" />
+  <word en="bride" pos="n." zh="新娘" phonetic="braɪd" />
+  <word en="bridegroom" pos="n." zh="新郎" phonetic="'braɪdgruːm" />
+  <word en="brief" pos="n. / adj." zh="简洁的" phonetic="briːf" />
+  <word en="Britain" pos="n." zh="英国；不列颠" phonetic="'brɪt(ə)n" />
+  <word en="British" pos="adj. / n." zh="英国的；大不列颠的；英国人的" phonetic="'brɪtɪʃ" />
+  <word en="broad" pos="adj. / adv." zh="宽的，宽大的" phonetic="brɔːd" />
+  <word en="broadcast" pos="n. / adj." zh="广播节目；广播" phonetic="'brɔːdkæst" />
+  <word en="brochure" pos="n." zh="资料(或广告)手册" phonetic="brou'ʃur" />
+  <word en="broom" pos="n. / vt." zh="扫帚" phonetic="bruːm" />
+  <word en="brotherhood" pos="n." zh="兄弟般的关系" phonetic="'brʌðəhud" />
+  <word en="brunch" pos="n." zh="早午饭(晚早饭)" phonetic="brʌn(t)ʃ" />
+  <word en="bucket" pos="n." zh="铲斗；桶" phonetic="'bʌkɪt" />
+  <word en="Buddhism" pos="n." zh="佛教" phonetic="'bʊdɪz(ə)m" />
+  <word en="Buddhist" pos="n. / adj." zh="佛教徒" phonetic="ˈbudist" />
+  <word en="budget" pos="n. / vi." zh="预算" phonetic="'bʌdʒɪt" />
+  <word en="buffet" pos="n. / vt." zh="自助餐" phonetic="ˈbʊfeɪ;ˈbʌfɪt" />
+  <word en="bun" pos="n." zh="馒头；小甜面包" phonetic="bʌn" />
+  <word en="bunch" pos="n." zh="串，束，扎，大量，大批" phonetic="bʌntʃ" />
+  <word en="bungalow" pos="n." zh="平房" phonetic="'bʌŋgələʊ" />
+  <word en="burden" pos="n. / vt." zh="(义务，责任的)重担，负担" phonetic="'bɜːd(ə)n" />
+  <word en="bureaucratic" pos="adj." zh="官僚的" phonetic=",bjɔːrə'krætɪk; ,bjʊərə'krætɪk" />
+  <word en="burglar" pos="n." zh="入室窃贼" phonetic="'bɜːglə" />
+  <word en="burial" pos="n." zh="埋葬" phonetic="'berɪəl" />
+  <word en="burst" pos="n. / v." zh="突然发生；突然发作" phonetic="bɜːst" />
+  <word en="bury" pos="vt." zh="埋；葬" phonetic="'berɪ" />
+  <word en="bush" pos="n." zh="灌木丛，矮树丛" phonetic="bʊʃ" />
+  <word en="businesswoman" pos="n." zh="商人(女)；女企业家" phonetic="'bɪznɪs,wʊmən" />
+  <word en="butcher" pos="n. / vt." zh="肉店；屠夫；屠宰(动物)" phonetic="ˈbʊtʃə(r)" />
+  <word en="butterfly" pos="n." zh="蝴蝶" phonetic="'bʌtəflaɪ" />
+  <word en="cab" pos="n. / vi." zh="(美)出租车" phonetic="kæb" />
+  <word en="cabbage" pos="n." zh="卷心菜，洋白菜" phonetic="ˈkæbɪdʒ" />
+  <word en="cafeteria" pos="n." zh="自助餐厅" phonetic="ˌkæfə'tɪriə" />
+  <word en="cage" pos="n. / vt." zh="笼；鸟笼" phonetic="keɪdʒ" />
+  <word en="calculate" pos="v." zh="计算，核算，推测" phonetic="'kælkjuleɪt" />
+  <word en="calm" pos="n. / adj." zh="镇静，沉着的；镇静沉着" phonetic="kɑːm" />
+  <word en="camel" pos="n." zh="骆驼" phonetic="'kæm(ə)l" />
+  <word en="campaign" pos="n. / vi." zh="运动，战役" phonetic="kæm'peɪn" />
+  <word en="Canada" pos="n." zh="加拿大" phonetic="'kænədə" />
+  <word en="Canadian" pos="adj." zh="加拿大的；加拿大人的；加拿大人" phonetic="kə'neɪdɪən" />
+  <word en="canal" pos="n. / vt." zh="运河；水道" phonetic="kə'næl" />
+  <word en="cancel" pos="n. / vt." zh="取消" phonetic="'kænsl" />
+  <word en="cancer" pos="n." zh="癌" phonetic="ˈkænsə(r)" />
+  <word en="candidate" pos="n." zh="候选人，申请人" phonetic="'kændɪdət" />
+  <word en="candle" pos="n. / vt." zh="蜡烛" phonetic="'kænd(ə)l" />
+  <word en="candy" pos="n. / vt." zh="糖果" phonetic="'kændɪ" />
+  <word en="canteen" pos="n." zh="餐厅；食堂" phonetic="kæn'tiːn" />
+  <word en="cap" pos="n. / vt." zh="(无檐的或仅在前面有檐的)帽子；(瓶子的)盖；(钢笔等的)笔套" phonetic="kæp" />
+  <word en="capsule" pos="n." zh="(药)胶囊" phonetic="ˈkæpsju:l" />
+  <word en="captain" pos="n. / vt." zh="(海军)上校；船长，舰长；队长" phonetic="'kæptɪn" />
+  <word en="caption" pos="n. / vt." zh="(图片，漫画等的)说明文字" phonetic="'kæpʃn" />
+  <word en="carbon" pos="n." zh="碳" phonetic="'kɑːrbən" />
+  <word en="careless" pos="adj." zh="粗心的，漫不经心的" phonetic="'keələs" />
+  <word en="carpenter" pos="n." zh="木工，木匠" phonetic="ˈkɑːpəntə(r)" />
+  <word en="carriage" pos="n." zh="四轮马车；(火车)客车厢" phonetic="'kærɪdʒ" />
+  <word en="carrier" pos="n." zh="搬运者；媒介；(自行车等的)置物架" phonetic="'kærɪə" />
+  <word en="carve" pos="v." zh="刻；雕刻" phonetic="kɑːrv" />
+  <word en="cassette" pos="n." zh="磁带" phonetic="kæˈset" />
+  <word en="cast" pos="n. / vt." zh="扔，抛，撒" phonetic="kæst" />
+  <word en="casual" pos="adj. / n." zh="漫不经心的，不经意的，非正式的" phonetic="'kæʒuəl" />
+  <word en="catalogue" pos="n. / vt." zh="目录" phonetic="'kæt(ə)lɒg" />
+  <word en="catastrophe" pos="n." zh="灾难，灾祸，不幸事件" phonetic="kə'tæstrəfi" />
+  <word en="category" pos="n." zh="类别，种类" phonetic="'kætəgɔːri" />
+  <word en="cater" pos="v." zh="提供饮食，承办酒席" phonetic="'keɪtər" />
+  <word en="cathedral" pos="n." zh="大教堂(天主教)" phonetic="kə'θiːdr(ə)l" />
+  <word en="catholic" pos="n. / adj." zh="天主教的" phonetic="'kæθlɪk" />
+  <word en="cattle" pos="n." zh="牛(总称)，家畜" phonetic="'kæt(ə)l" />
+  <word en="caution" pos="n. / vt." zh="谨慎，小心，警告" phonetic="'kɔːʃ(ə)n" />
+  <word en="cautious" pos="adj." zh="小心的，谨慎的" phonetic="'kɔːʃəs" />
+  <word en="cave" pos="n. / vi." zh="洞，穴；地窖" phonetic="keɪv" />
+  <word en="CD-ROM" pos="n." zh="信息储存光盘(compact disk read-only memory的缩写)" phonetic="ˌsi:ˈdi: -rɔm,rəʊm" />
+  <word en="ceiling" pos="n." zh="天花板，顶棚" phonetic="'siːlɪŋ" />
+  <word en="celebration" pos="n." zh="庆祝；庆祝会" phonetic="selɪ'breɪʃ(ə)n" />
+  <word en="cell" pos="n." zh="(监狱的)单人牢房；(修道院等的)单人小室；(蜂巢的)小蜂窝，蜂房" phonetic="sel" />
+  <word en="cellar" pos="n." zh="地窖；地下储藏室" phonetic="'selə" />
+  <word en="center" pos="n. / adj." zh="中心，中央(美)" phonetic="ˈsentə(r)" />
+  <word en="centigrade" pos="adj." zh="摄氏的" phonetic="'sentɪgreɪd" />
+  <word en="centimetre" pos="n." zh="(美 centimeter)；公分，厘米" phonetic="'sentɪmiːtə" />
+  <word en="central" pos="adj." zh="中心，中央；主要的" phonetic="'sentr(ə)l" />
+  <word en="ceremony" pos="n." zh="典礼，仪式，礼节" phonetic="'serəmouni" />
+  <word en="certificate" pos="n. / vt." zh="证明，证明书" phonetic="sər'tɪfɪkət" />
+  <word en="chain" pos="n. / vt." zh="链；链条" phonetic="tʃeɪn" />
+  <word en="chairman" pos="n." zh="主席，会长；议长" phonetic="'tʃeəmən" />
+  <word en="chairwoman" pos="n." zh="女主席， 女会长；女议长" phonetic="ˈtʃɛəˌwumən" />
+  <word en="chalk" pos="n. / vt." zh="粉笔" phonetic="tʃɔːk" />
+  <word en="challenge" pos="n. / vt." zh="挑战(性)" phonetic="'tʃælɪndʒ" />
+  <word en="challenging" pos="adj." zh="具有挑战性的" phonetic="'tʃælɪn(d)ʒɪŋ" />
+  <word en="champion" pos="n. / vt." zh="冠军，优胜者" phonetic="'tʃæmpiən" />
+  <word en="changeable" pos="adj." zh="易变的，变化无常的" phonetic="'tʃeɪn(d)ʒəb(ə)l" />
+  <word en="channel" pos="n. / vt." zh="频道；通道；水渠" phonetic="'tʃænl" />
+  <word en="chant" pos="n. / v." zh="反复呼喊" phonetic="tʃænt" />
+  <word en="chaos" pos="n." zh="混乱，杂乱，紊乱" phonetic="'keɪɑːs" />
+  <word en="chapter" pos="n." zh="章" phonetic="'tʃæptə" />
+  <word en="characteristic" pos="n. / adj." zh="典型的，独特的" phonetic="ˌkærəktə'rɪstɪk" />
+  <word en="charge" pos="n. / vt." zh="要求收费；索价；将(电池)充电" phonetic="tʃɑːdʒ" />
+  <word en="cheat" pos="n. / v." zh="骗取，哄骗；作弊" phonetic="tʃiːt" />
+  <word en="cheek" pos="n." zh="面颊，脸蛋" phonetic="tʃiːk" />
+  <word en="cheer" pos="n. / vi." zh="欢呼；喝彩" phonetic="tʃɪə" />
+  <word en="cheerful" pos="adj." zh="兴高采烈的，快活的" phonetic="'tʃɪəfʊl; -f(ə)l" />
+  <word en="cheers" pos="int." zh="干杯，(口)谢谢，再见" phonetic="tʃɪəz" />
+  <word en="chemical" pos="n. / adj." zh="化学的；化学品" phonetic="'kemɪk(ə)l" />
+  <word en="chemist" pos="n." zh="药剂师；化学家" phonetic="'kemɪst" />
+  <word en="cheque" pos="n." zh="(美check)；支票" phonetic="tʃek" />
+  <word en="chess" pos="n." zh="棋" phonetic="tʃes" />
+  <word en="chest" pos="n." zh="箱子；盒子；胸部" phonetic="tʃest" />
+  <word en="chew" pos="vt. / vi." zh="咀嚼" phonetic="tʃuː" />
+  <word en="chick" pos="n." zh="小鸡" phonetic="tʃɪk" />
+  <word en="chief" pos="n. / adj." zh="主要，首要的；领导，头" phonetic="tʃiːf" />
+  <word en="childhood" pos="n." zh="幼年时代，童年" phonetic="'tʃaɪldhʊd" />
+  <word en="children" pos="pl." zh="孩子们，儿童们" phonetic="'tʃɪldrən" />
+  <word en="chimney" pos="n." zh="烟囱，烟筒" phonetic="'tʃɪmnɪ" />
+  <word en="China" pos="n. / adj." zh="中国" phonetic="ˈtʃaɪnə" />
+  <word en="Chinese" pos="n. / adj." zh="中国的；中国人的；中国话的，汉语的" phonetic="tʃaɪˈniːz" />
+  <word en="chips" pos="n." zh="()炸土豆条(片)" phonetic="tʃips" />
+  <word en="choir" pos="n. / v." zh="合唱团，教堂的唱诗班" phonetic="'kwaɪər" />
+  <word en="choke" pos="vt. / vi." zh="窒息" phonetic="tʃəʊk" />
+  <word en="chopsticks" pos="n." zh="筷子" phonetic="'tʃɒpstɪks" />
+  <word en="chorus" pos="n. / v." zh="合唱曲，歌咏队" phonetic="'kɔːrəs" />
+  <word en="Christian" pos="n. / adj." zh="基督教徒和天主教徒的总称" phonetic="ˈkrɪstʃən" />
+  <word en="Christmas" pos="n." zh="圣诞节(12月25日)" phonetic="ˈkrɪsməs" />
+  <word en="cigar" pos="n." zh="雪茄烟" phonetic="sɪ'gɑː" />
+  <word en="circuit" pos="n." zh="环形路线，巡回赛" phonetic="'sɜːrkɪt" />
+  <word en="circulate" pos="v." zh="(液体或气体)环流，循环" phonetic="'sɜːrkjəleɪt" />
+  <word en="circumstance" pos="n." zh="条件，环境，状况" phonetic="'sɜːrkəmstæns" />
+  <word en="circus" pos="n." zh="马戏团" phonetic="'sɜːkəs" />
+  <word en="citizen" pos="n." zh="公民；居民" phonetic="'sɪtɪz(ə)n" />
+  <word en="civil" pos="adj." zh="国内的；平民(非军人)的；民用的" phonetic="'sɪvl" />
+  <word en="civilian" pos="n. / adj." zh="平民，老百姓" phonetic="sɪ'vɪlj(ə)n" />
+  <word en="civilization" pos="n." zh="文明" phonetic="ˌsɪvɪlaɪˈzeɪʃən" />
+  <word en="clap" pos="n. / v." zh="拍手；鼓掌" phonetic="klæp" />
+  <word en="clarify" pos="vi. / vt." zh="澄清，阐明" phonetic="'klærəfaɪ" />
+  <word en="classic" pos="n. / adj." zh="一流的，典型的，有代表性的" phonetic="'klæsɪk" />
+  <word en="classify" pos="vt." zh="分类，归类" phonetic="'klæsɪfaɪ" />
+  <word en="classmate" pos="n." zh="同班同学" phonetic="'klɑːsmeɪt" />
+  <word en="claw" pos="n. / v." zh="爪" phonetic="klɔː" />
+  <word en="clay" pos="n." zh="黏土，陶土" phonetic="kleɪ" />
+  <word en="cleaner" pos="n." zh="清洁工.，清洁器.，清洁剂" phonetic="'kliːnə" />
+  <word en="clerk" pos="n. / vi." zh="书记员；办事员；职员" phonetic="klɑːk" />
+  <word en="click" pos="n. / vi." zh="点击(计算机用语)" phonetic="klɪk" />
+  <word en="clinic" pos="n." zh="诊所" phonetic="'klɪnɪk" />
+  <word en="clone" pos="n." zh="克隆(无性繁殖出来的有机体群)" phonetic="kloun" />
+  <word en="cloth" pos="n." zh="布" phonetic="klɒθ" />
+  <word en="cloudy" pos="adj." zh="多云的，阴天的" phonetic="'klaʊdɪ" />
+  <word en="clumsy" pos="adj." zh="笨拙的，不灵巧的" phonetic="'klʌmzi" />
+  <word en="co-worker" pos="n." zh="合作者；同事" phonetic="ˈkəʊ ˈwɜːkə(r)" />
+  <word en="coal" pos="n. / v." zh="煤；煤块" phonetic="kəʊl" />
+  <word en="cock" pos="n. / vt." zh="公鸡" phonetic="kɒk" />
+  <word en="cocoa" pos="n." zh="可可粉" phonetic="'kəʊkəʊ" />
+  <word en="coin" pos="n. / vt." zh="硬币" phonetic="kɒɪn" />
+  <word en="coincidence" pos="n." zh="巧合，巧事" phonetic="kəʊ'ɪnsɪd(ə)ns" />
+  <word en="coke" pos="n. / v." zh="可口可乐" phonetic="kəʊk" />
+  <word en="coldblooded" pos="adj." zh="(动物)；冷血的" phonetic="kəʊld blʌdɪd" />
+  <word en="collar" pos="n. / vt." zh="衣领；硬领" phonetic="'kɒlə" />
+  <word en="collection" pos="n." zh="收藏品，收集物" phonetic="kə'lekʃ(ə)n" />
+  <word en="collision" pos="n." zh="碰撞事故" phonetic="kə'lɪʒn" />
+  <word en="color" pos="n. / vt." zh="颜色；给…着色，涂色" phonetic="'kʌlə(r)" />
+  <word en="comb" pos="n. / vt." zh="梳子；梳" phonetic="kəʊm" />
+  <word en="combine" pos="v. / n." zh="使联合；使结合" phonetic="kəm'baɪn" />
+  <word en="comfort" pos="n. / vt." zh="安慰；慰问" phonetic="'kʌmfət" />
+  <word en="comma" pos="n." zh="逗号" phonetic="'kɒmə" />
+  <word en="command" pos="n. / v." zh="命令" phonetic="kə'mænd" />
+  <word en="commercial" pos="adj. / n." zh="贸易的，商业的" phonetic="kəˈmɜːʃl" />
+  <word en="commit" pos="vt." zh="犯(罪，错)，自杀" phonetic="kə'mɪt" />
+  <word en="commitment" pos="n." zh="承诺，允诺，承担" phonetic="kə'mɪtm(ə)nt" />
+  <word en="committee" pos="n." zh="委员会" phonetic="kə'mɪti" />
+  <word en="communication" pos="n." zh="交际，交往；通讯" phonetic="kəmjuːnɪ'keɪʃ(ə)n" />
+  <word en="communism" pos="n." zh="共产主义" phonetic="'kɒmjʊnɪz(ə)m" />
+  <word en="communist" pos="n." zh="共产主义者；共产党的；共产主义的" phonetic="'kɒmjʊnɪst" />
+  <word en="companion" pos="n. / vt." zh="同伴；同事" phonetic="kəm'pæniən" />
+  <word en="compass" pos="n. / vt." zh="罗盘，指南针" phonetic="'kʌmpəs" />
+  <word en="compensate" pos="v." zh="补偿，弥补" phonetic="'kɑːmpenseɪt" />
+  <word en="competence" pos="n." zh="能力，胜任，管辖权" phonetic="'kɑːmpɪtəns" />
+  <word en="competitor" pos="n." zh="竞赛者，比赛者" phonetic="kəm'petɪtə" />
+  <word en="complex" pos="n. / adj." zh="复杂的，建筑群" phonetic="'kɒmpleks" />
+  <word en="component" pos="n. / adj." zh="组成部分，部件" phonetic="kəm'pounənt" />
+  <word en="composition" pos="n." zh="作文；作曲" phonetic="kɒmpə'zɪʃ(ə)n" />
+  <word en="comprehension" pos="n." zh="理解" phonetic="kɒmprɪ'henʃ(ə)n" />
+  <word en="compromise" pos="n. / vi." zh="妥协，折中，让步" phonetic="'kɑːmprəmaɪz" />
+  <word en="compulsory" pos="adj." zh="强制的，必须做的" phonetic="kəm'pʌlsəri" />
+  <word en="comrade" pos="n." zh="同志" phonetic="'kɒmreɪd" />
+  <word en="concentrate" pos="n. / v." zh="聚精会神" phonetic="'kɑːnsntreɪt" />
+  <word en="concept" pos="n." zh="概念" phonetic="'kɑːnsept" />
+  <word en="concern" pos="n. / vt." zh="涉及，关心" phonetic="kən'sɜːrn" />
+  <word en="conclude" pos="vt. / vi." zh="完成，结束" phonetic="kən'kluːd" />
+  <word en="conclusion" pos="n." zh="结论；结束" phonetic="kən'kluːʒ(ə)n" />
+  <word en="concrete" pos="n. / adj." zh="混凝土制的" phonetic="'kɑːŋkriːt" />
+  <word en="condemn" pos="vt." zh="谴责，指责，宣判" phonetic="kən'dem" />
+  <word en="conduct" pos="n. / vt." zh="引导，带领" phonetic="'kɒndʌkt" />
+  <word en="conductor" pos="n." zh="管理人；指导者；(车上的)售票员，列车员" phonetic="kən'dʌktə" />
+  <word en="confident" pos="adj." zh="自信的" phonetic="'kɒnfɪd(ə)nt" />
+  <word en="confidential" pos="adj." zh="机密的，保密的" phonetic="kɒnfɪ'denʃ(ə)l" />
+  <word en="confirm" pos="vt." zh="证实，证明，确认" phonetic="kən'fɜːrm" />
+  <word en="conflict" pos="n. / vi." zh="冲突，争执，争论" phonetic="'kɒnflɪkt" />
+  <word en="confuse" pos="vt." zh="使迷惑，混淆" phonetic="kən'fjuːz" />
+  <word en="congratulate" pos="vt." zh="祝贺" phonetic="kən'grætjʊleɪt" />
+  <word en="congratulation" pos="n." zh="祝贺，庆贺" phonetic="kənˌgrætʃu'leɪʃn" />
+  <word en="connection" pos="n." zh="连接物；接触，联系" phonetic="kəˈnekʃn" />
+  <word en="conscience" pos="n." zh="良心，良知，内疚" phonetic="'kɒnʃ(ə)ns" />
+  <word en="consensus" pos="n." zh="一致的意见，共识" phonetic="kən'sensəs" />
+  <word en="consequence" pos="n." zh="结果，后果" phonetic="'kɑːnsəkwens" />
+  <word en="conservation" pos="n." zh="保存；(自然资源的)保护，管理" phonetic="ˌkɑːnsər'veɪʃn" />
+  <word en="conservative" pos="adj." zh="保守的，守旧的；保守主义的；谨慎的" phonetic="kən'sɜːrvətɪv" />
+  <word en="considerate" pos="adj." zh="体贴的" phonetic="kən'sɪdərət" />
+  <word en="consideration" pos="n." zh="考虑；关心" phonetic="kənˌsɪdə'reɪʃn" />
+  <word en="consist" pos="vi." zh="包含，组成，构成" phonetic="kən'sɪst" />
+  <word en="consistent" pos="adj." zh="一致的，始终如一的，连续的" phonetic="kən'sɪstənt" />
+  <word en="constant" pos="n. / adj." zh="经常的，不断的" phonetic="'kɑːnstənt" />
+  <word en="constitution" pos="n." zh="宪法，章程，身体素质" phonetic="ˌkɑːnstə'tuːʃn" />
+  <word en="construct" pos="vt. / n." zh="构筑；建造，建设" phonetic="kən'strʌkt" />
+  <word en="construction" pos="n." zh="建造，建设，建筑物" phonetic="kən'strʌkʃn" />
+  <word en="consult" pos="vi. / vt." zh="咨询，商量" phonetic="kən'sʌlt" />
+  <word en="consultant" pos="n." zh="顾问" phonetic="kən'sʌlt(ə)nt" />
+  <word en="consume" pos="vt. / vi." zh="消耗，耗费(燃料，能量，时间等)" phonetic="kən'suːm" />
+  <word en="container" pos="n." zh="容器" phonetic="kən'teɪnə" />
+  <word en="contemporary" pos="n. / adj." zh="属同时期的，同一时代的" phonetic="kən'tempəreri" />
+  <word en="content" pos="n. / adj." zh="甘愿的，满意的；内容" phonetic="kən'tent" />
+  <word en="contradict" pos="vt. / vi." zh="反驳，驳斥，批驳" phonetic="ˌkɑːntrə'dɪkt" />
+  <word en="contradictory" pos="adj. / n." zh="相互矛盾，对立的" phonetic="ˌkɑːntrə'dɪktəri" />
+  <word en="contrary" pos="adj. / n." zh="相反；相反的" phonetic="'kɑːntreri" />
+  <word en="contribute" pos="vt. / vi." zh="贡献" phonetic="kən'trɪbjuːt" />
+  <word en="contribution" pos="n." zh="贡献" phonetic="kɒntrɪ'bjuːʃ(ə)n" />
+  <word en="controversial" pos="adj." zh="引起争论的，有争议的" phonetic="ˌkɑːntrə'vɜːrʃl" />
+  <word en="convenience" pos="n." zh="便利" phonetic="kən'viːniəns" />
+  <word en="convenient" pos="adj." zh="便利的，方便的" phonetic="kən'viːnɪənt" />
+  <word en="conventional" pos="adj." zh="依照惯例的，习惯的" phonetic="kən'venʃənəl" />
+  <word en="convey" pos="vt." zh="表达，传递(思想，感情等)" phonetic="kən'veɪ" />
+  <word en="convince" pos="vt." zh="使确信，使信服" phonetic="kən'vɪns" />
+  <word en="cookie" pos="n." zh="小甜饼" phonetic="'kʊkɪ" />
+  <word en="coral" pos="n." zh="珊瑚；珊瑚虫" phonetic="'kɔːrəl" />
+  <word en="cordless" pos="adj." zh="无线的" phonetic="'kɔːdlɪs" />
+  <word en="corn" pos="n. / vt." zh="玉米，谷物" phonetic="kɔːn" />
+  <word en="corporation" pos="n." zh="(大)公司" phonetic="kɔːpə'reɪʃ(ə)n" />
+  <word en="correction" pos="n." zh="改正" phonetic="kə'rekʃ(ə)n" />
+  <word en="correspond" pos="vi." zh="一致；与……相当；(与人)通信，有书信往来" phonetic="ˌkɔːrə'spɑːnd" />
+  <word en="corrupt" pos="adj. / vt." zh="贪污的，腐败的，使腐化，堕落" phonetic="kə'rʌpt" />
+  <word en="cosy" pos="adj. / n." zh="暖和舒适的，亲密无间的" phonetic="'kəʊzɪ" />
+  <word en="cottage" pos="n." zh="(郊外)小屋，村舍，别墅" phonetic="'kɒtɪdʒ" />
+  <word en="cotton" pos="n. / vi." zh="棉花；棉花的" phonetic="'kɒt(ə)n" />
+  <word en="cough" pos="n. / vi." zh="咳嗽" phonetic="kɒf" />
+  <word en="counter" pos="n. / adj." zh="柜台，结账处" phonetic="'kauntər" />
+  <word en="countryside" pos="n." zh="乡下，农村" phonetic="'kʌntrɪsaɪd" />
+  <word en="courage" pos="n." zh="勇气；胆略" phonetic="'kʌrɪdʒ" />
+  <word en="court" pos="n. / vt." zh="法庭；法院" phonetic="kɔːrt" />
+  <word en="courtyard" pos="n." zh="庭院，院子" phonetic="'kɔːtjɑːd" />
+  <word en="cowboy" pos="n." zh="(美国)牛仔；牧场骑士" phonetic="'kaʊbɒɪ" />
+  <word en="crash" pos="n. / v." zh="碰撞，撞击" phonetic="kræʃ" />
+  <word en="crayon" pos="n. / vt." zh="蜡笔；蜡笔画" phonetic="ˈkreɪən" />
+  <word en="creature" pos="n." zh="生物，动物" phonetic="'kriːtʃə" />
+  <word en="crew" pos="n." zh="全体船员" phonetic="kruː" />
+  <word en="criterion" pos="n." zh="标准，准则，原则" phonetic="kraɪˈtɪərɪən" />
+  <word en="crop" pos="n. / vt." zh="庄稼；收成" phonetic="krɒp" />
+  <word en="crossing" pos="n." zh="十字路口，人行横道" phonetic="'krɔːsɪŋ" />
+  <word en="crossroads" pos="n." zh="交叉路口" phonetic="'krɒsrəʊdz" />
+  <word en="cruel" pos="adj." zh="残忍的，残酷的；无情的" phonetic="krʊəl" />
+  <word en="cube" pos="n." zh="立方体" phonetic="kjuːb" />
+  <word en="cubic" pos="adj." zh="立方体的，立方形的" phonetic="'kjuːbɪk" />
+  <word en="cuisine" pos="n." zh="饭菜，佳肴" phonetic="kwɪ'ziːn" />
+  <word en="cure" pos="n. / vt." zh="治疗；医好" phonetic="kjʊə; kjɔː" />
+  <word en="curious" pos="adj." zh="好奇的；奇异的" phonetic="'kjʊərɪəs" />
+  <word en="currency" pos="n." zh="货币；现金" phonetic="'kʌr(ə)nsɪ" />
+  <word en="curriculum" pos="n." zh="(学校的)全部课程" phonetic="kə'rɪkjələm" />
+  <word en="curtain" pos="n. / vt." zh="窗帘" phonetic="'kɜːt(ə)n" />
+  <word en="cushion" pos="n. / vt." zh="垫子" phonetic="'kuʃn" />
+  <word en="custom" pos="n. / adj." zh="习惯，习俗，风俗习惯" phonetic="'kʌstəm" />
+  <word en="customs" pos="n." zh="海关，关税" phonetic="'kʌstəmz" />
+  <word en="cyclist" pos="n." zh="骑自行车的人" phonetic="'saɪklɪst" />
+  <word en="dam" pos="n. / v." zh="水坝，堰堤" phonetic="dæm" />
+  <word en="damage" pos="n. / v." zh="毁坏，损害" phonetic="'dæmɪdʒ" />
+  <word en="damp" pos="n. / adj." zh="潮湿(的)" phonetic="dæmp" />
+  <word en="dare" pos="n. / v." zh="(后接不带to的不定式；主要用于疑问，否定或条件句)敢，敢于" phonetic="deə" />
+  <word en="darkness" pos="n." zh="黑暗，阴暗" phonetic="ˈdɑːknɪs" />
+  <word en="dash" pos="n. / vi." zh="快跑，冲刺，短跑" phonetic="dæʃ" />
+  <word en="database" pos="n." zh="资料库，数据库" phonetic="'deɪtəbeɪs" />
+  <word en="dawn" pos="n. / vi." zh="黎明，拂晓" phonetic="dɔːn" />
+  <word en="daylight" pos="n. / vt." zh="日光，白昼；黎明" phonetic="'deɪlaɪt" />
+  <word en="deadline" pos="n." zh="最后期限，截止日期" phonetic="'dedlaɪn" />
+  <word en="deaf" pos="adj." zh="聋的" phonetic="def" />
+  <word en="debate" pos="n. / v." zh="讨论，辩论" phonetic="dɪ'beɪt" />
+  <word en="debt" pos="n." zh="债务；欠款" phonetic="det" />
+  <word en="decade" pos="n." zh="十年期" phonetic="'dekeɪd" />
+  <word en="declare" pos="v." zh="声明；断言" phonetic="dɪ'kler" />
+  <word en="decline" pos="n. / vt." zh="减少，下降，衰退，谢绝" phonetic="dɪ'klaɪn" />
+  <word en="decorate" pos="v." zh="装饰…，修饰…" phonetic="'dekəreɪt" />
+  <word en="decoration" pos="n." zh="装饰，修饰" phonetic="dekə'reɪʃ(ə)n" />
+  <word en="decrease" pos="n. / v." zh="减少，减小，降低" phonetic="dɪ'kriːs" />
+  <word en="deed" pos="n. / vt." zh="行为；事迹" phonetic="diːd" />
+  <word en="deeply" pos="adv." zh="深深地" phonetic="'diːplɪ" />
+  <word en="deer" pos="n." zh="鹿" phonetic="dɪə" />
+  <word en="defeat" pos="n. / vt." zh="击败；战胜" phonetic="dɪ'fiːt" />
+  <word en="defence" pos="n." zh="防御；防务" phonetic="diˈfens" />
+  <word en="defend" pos="vt." zh="防守；保卫" phonetic="dɪ'fend" />
+  <word en="delay" pos="n. / v." zh="拖延，延误，延迟，延期；耽搁" phonetic="dɪ'leɪ" />
+  <word en="delete" pos="vt." zh="删去" phonetic="dɪ'liːt" />
+  <word en="deliberately" pos="adv." zh="故意，蓄意，存心" phonetic="dɪˈlɪbərətlɪ" />
+  <word en="delicate" pos="adj." zh="易损的，易碎的" phonetic="'delɪkət" />
+  <word en="delight" pos="n. / vt." zh="快乐；乐事" phonetic="dɪ'laɪt" />
+  <word en="delighted" pos="adj." zh="高兴的，快乐的" phonetic="dɪ'laɪtɪd" />
+  <word en="deliver" pos="vt." zh="投递(信件，邮包等)" phonetic="dɪ'lɪvər" />
+  <word en="demand" pos="n. / v." zh="要求" phonetic="dɪ'mɑːnd" />
+  <word en="department-store" pos="n." zh="百货商场" phonetic="dɪˈpɑːtmənt-stɔː(r)" />
+  <word en="departure" pos="n." zh="离开，启程" phonetic="dɪ'pɑːtʃə" />
+  <word en="deposit" pos="n. / vt." zh="订金，押金，放下，放置，储存" phonetic="dɪ'pɑːzɪt" />
+  <word en="depth" pos="n." zh="深，深度" phonetic="depθ" />
+  <word en="deserve" pos="vt. / vi." zh="(不用于进行时态)应得，应受" phonetic="dɪ'zɜːrv" />
+  <word en="desire" pos="n. / vt." zh="要求；期望" phonetic="dɪ'zaɪə" />
+  <word en="desperate" pos="adj." zh="(因绝望而)不惜冒险的，不顾一切的，拼命的" phonetic="'despərət" />
+  <word en="dessert" pos="n." zh="甜点" phonetic="dɪ'zɜːt" />
+  <word en="destination" pos="n." zh="目的地，终点" phonetic="ˌdestɪ'neɪʃn" />
+  <word en="determination" pos="n." zh="决心" phonetic="dɪ,tɜːmɪ'neɪʃ(ə)n" />
+  <word en="determine" pos="v." zh="决定；决心" phonetic="dɪ'tɜːrmɪn" />
+  <word en="development" pos="n." zh="发展，发达，发育，开发" phonetic="dɪ'veləpm(ə)nt" />
+  <word en="devote" pos="vt." zh="把…奉献， 把…专用(于)" phonetic="dɪ'vout" />
+  <word en="devotion" pos="n." zh="奉献，奉献精神" phonetic="dɪ'vəʊʃ(ə)n" />
+  <word en="diagram" pos="n." zh="图表，图样" phonetic="'daɪəgræm" />
+  <word en="dial" pos="n. / v." zh="拨(电话号码)" phonetic="'daɪəl" />
+  <word en="dialog" pos="n." zh="对话" phonetic="'daɪəlɒɡ" />
+  <word en="diamond" pos="n." zh="钻石，金刚石；纸牌中的方块" phonetic="'daɪəmənd" />
+  <word en="dictation" pos="n." zh="听写" phonetic="dɪk'teɪʃ(ə)n" />
+  <word en="differ" pos="vi." zh="相异，有区别" phonetic="'dɪfə" />
+  <word en="difficulty" pos="n." zh="困难，费力" phonetic="'dɪfɪk(ə)ltɪ" />
+  <word en="dig" pos="vt. / vi." zh="挖(洞沟)，掘" phonetic="dɪɡ" />
+  <word en="digest" pos="n. / vi." zh="消化， 领会" phonetic="daɪ'dʒest; dɪ-" />
+  <word en="dignity" pos="n." zh="庄重，庄严，尊严。尊贵，高尚" phonetic="'dɪgnəti" />
+  <word en="dilemma" pos="n." zh="(进退两难的)窘境，困境" phonetic="dɪ'lemə" />
+  <word en="dimension" pos="n. / vt." zh="量度，尺寸，面积，程度，范围" phonetic="dɪ'menʃn" />
+  <word en="dine" pos="vi. / vt." zh="吃饭；(指正式)进餐" phonetic="daɪn" />
+  <word en="dining-room" pos="n." zh="食堂，饭厅" phonetic="ˈdainiŋ-rʊm" />
+  <word en="dinosaur" pos="n." zh="恐龙" phonetic="'daɪnəsɔːr" />
+  <word en="dioxide" pos="n." zh="二氧化物" phonetic="daɪ'ɑːksaɪd" />
+  <word en="dip" pos="v. / n." zh="浸，蘸；把…放入又取出" phonetic="dɪp" />
+  <word en="diploma" pos="n." zh="毕业文凭；学位证书" phonetic="dɪ'pləʊmə" />
+  <word en="directory" pos="n." zh="姓名地址录" phonetic="də'rektəri" />
+  <word en="dirt" pos="n." zh="污物；脏物" phonetic="dɜːt" />
+  <word en="disability" pos="n." zh="残疾；无能" phonetic="dɪsə'bɪlɪtɪ" />
+  <word en="disabled" pos="adj." zh="残废的，残疾的" phonetic="dɪs'eɪbld" />
+  <word en="disadvantage" pos="n." zh="不利条件；弱点" phonetic="ˌdɪsəd'væntɪdʒ" />
+  <word en="disagreement" pos="n." zh="意见不一致；相违；争论" phonetic="dɪsə'ɡriːmənt" />
+  <word en="disappoint" pos="vt." zh="使失望" phonetic="ˌdɪsə'pɔɪnt" />
+  <word en="disappointment" pos="n." zh="失望；沮丧" phonetic="dɪsə'pɒɪntm(ə)nt" />
+  <word en="discount" pos="n. / vt." zh="折扣" phonetic="'dɪskaʊnt" />
+  <word en="discourage" pos="vt." zh="(使)气馁；打消(做…的念头)" phonetic="dɪs'kɜːrɪdʒ" />
+  <word en="discrimination" pos="n." zh="歧视" phonetic="dɪ,skrɪmɪ'neɪʃ(ə)n" />
+  <word en="disgusting" pos="adj." zh="极糟的，令人不快的，令人厌恶的" phonetic="dɪs'gʌstɪŋ" />
+  <word en="disk" pos="n." zh="磁盘" phonetic="dɪsk" />
+  <word en="dislike" pos="n. / vt." zh="不喜爱；厌恶" phonetic="dɪs'laɪk" />
+  <word en="dismiss" pos="vt. / vi." zh="让……离开；遣散；解散" phonetic="dɪs'mɪs" />
+  <word en="disobey" pos="v." zh="不服从" phonetic="dɪsə'beɪ" />
+  <word en="distant" pos="adj." zh="远的，遥远的" phonetic="'dɪstənt" />
+  <word en="distinction" pos="n." zh="差别，区别，优秀，卓越" phonetic="dɪ'stɪŋ(k)ʃ(ə)n" />
+  <word en="distinguish" pos="v." zh="区分，辨别，分清" phonetic="dɪ'stɪŋgwɪʃ" />
+  <word en="distribute" pos="vt." zh="分发，分配" phonetic="dɪ'strɪbjuːt" />
+  <word en="district" pos="n." zh="区；地区；区域" phonetic="'dɪstrɪkt" />
+  <word en="disturb" pos="vt." zh="扰乱；打扰" phonetic="dɪ'stɜːrb" />
+  <word en="disturbing" pos="adj." zh="令人不安的，引起恐慌的" phonetic="dɪ'stɜːbɪŋ" />
+  <word en="dive" pos="n. / vi." zh="跳水" phonetic="daɪv" />
+  <word en="diverse" pos="adj." zh="不同的，多种多样，形形色色的" phonetic="daɪ'vɜːrs" />
+  <word en="divide" pos="vi. / vt." zh="分，划分" phonetic="dɪ'vaɪd" />
+  <word en="division" pos="n." zh="(算术用语)除" phonetic="dɪ'vɪʒn" />
+  <word en="divorce" pos="n. / vt." zh="离婚" phonetic="dɪ'vɔːrs" />
+  <word en="dizzy" pos="adj. / vt." zh="头眩目晕的" phonetic="'dɪzɪ" />
+  <word en="doll" pos="n." zh="玩偶，玩具娃娃" phonetic="dɒl" />
+  <word en="dormitory" pos="n." zh="学生宿舍(缩写式dorm)" phonetic="'dɔːrmətɔːri" />
+  <word en="dot" pos="n. / vt." zh="点，小点，圆点" phonetic="dɑːt" />
+  <word en="doubt" pos="n. / v." zh="怀疑，疑惑" phonetic="daʊt" />
+  <word en="downtown" pos="n. / adj." zh="往或在城市的商业区(或中心区、闹市区)；城市的商业区，中心区，闹市区；城市的商业区的，中心区的，闹市区的" phonetic="ˌdaun'taun" />
+  <word en="downward" pos="adj." zh="向下" phonetic="'daunwərd" />
+  <word en="dozen" pos="n. / adj." zh="十二个；几十，许多" phonetic="'dʌzn" />
+  <word en="draft" pos="n. / vt." zh="草稿，草案，起草，草拟" phonetic="dræft" />
+  <word en="drag" pos="n. / v." zh="拖；拽" phonetic="dræg" />
+  <word en="drawback" pos="n." zh="缺点，不利条件" phonetic="'drɔːbæk" />
+  <word en="drawer" pos="n." zh="抽屉" phonetic="drɔ:(r)" />
+  <word en="drier" pos="n." zh="烘干机；吹风机" phonetic="ˈdraɪə(r)" />
+  <word en="drill" pos="n. / v." zh="钻头；(反复的)训练；钻(孔)， 在…上钻孔" phonetic="drɪl" />
+  <word en="drown" pos="vi. / vt." zh="溺死；淹没" phonetic="draʊn" />
+  <word en="drum" pos="n. / vi." zh="鼓" phonetic="drʌm" />
+  <word en="drunk" pos="adj." zh="醉的" phonetic="drʌŋk" />
+  <word en="due" pos="n. / adj." zh="预期的；约定的" phonetic="duː" />
+  <word en="dull" pos="adj. / vt." zh="阴暗的；单调无味" phonetic="dʌl" />
+  <word en="dumpling" pos="n." zh="饺子" phonetic="'dʌmplɪŋ" />
+  <word en="dusk" pos="n. / adj." zh="黄昏" phonetic="dʌsk" />
+  <word en="dust" pos="n. / vt." zh="灰尘，尘土" phonetic="dʌst" />
+  <word en="dustbin" pos="n." zh="垃圾箱" phonetic="'dʌs(t)bɪn" />
+  <word en="dusty" pos="adj." zh="尘土般的，尘土多的" phonetic="'dʌstɪ" />
+  <word en="duty" pos="n." zh="责任，义务" phonetic="'djuːtɪ" />
+  <word en="dynamic" pos="adj. / n." zh="充满活力，精力充沛的" phonetic="daɪ'næmɪk" />
+  <word en="dynasty" pos="n." zh="王朝，朝代" phonetic="'dɪnəstɪ" />
+  <word en="eager" pos="adj." zh="渴望的，热切的" phonetic="'iːgər" />
+  <word en="eagle" pos="n." zh="鹰" phonetic="'iːg(ə)l" />
+  <word en="earthquake" pos="n." zh="地震" phonetic="'ɜːθkweɪk" />
+  <word en="ease" pos="n. / vt." zh="减轻；缓解(难度或严重程度)" phonetic="iːz" />
+  <word en="Easter" pos="n." zh="复活节" phonetic="'iːstər" />
+  <word en="eastern" pos="n. / adj." zh="东方的；东部的" phonetic="'iːst(ə)n" />
+  <word en="eastwards" pos="adv." zh="向东" phonetic="'iːstwəd(z)" />
+  <word en="easygoing" pos="adj." zh="随和的" phonetic="'i:zi,ɡəuiŋ" />
+  <word en="ecology" pos="n." zh="生态，生态学" phonetic="i'kɑːlədʒi" />
+  <word en="edge" pos="n. / vt." zh="边缘" phonetic="edʒ" />
+  <word en="edition" pos="n." zh="(发行物的)版，版(本)" phonetic="ɪ'dɪʃ(ə)n" />
+  <word en="editor" pos="n." zh="编辑" phonetic="'edɪtə" />
+  <word en="educate" pos="vt." zh="教育，培养" phonetic="'edjʊkeɪt" />
+  <word en="educator" pos="n." zh="教育家" phonetic="'edʒʊkeɪtə" />
+  <word en="effort" pos="n." zh="努力，艰难的尝试" phonetic="'efət" />
+  <word en="eggplant" pos="n." zh="茄子" phonetic="'egplɑːnt" />
+  <word en="Egypt" pos="n." zh="埃及" phonetic="ˈiːdʒɪpt" />
+  <word en="Egyptian" pos="n. / adj." zh="埃及的；埃及人的；埃及语的" phonetic="ɪˈdʒɪpʃ(ə)n" />
+  <word en="eighth" pos="num." zh="第八" phonetic="eɪtθ" />
+  <word en="elder" pos="n. / adj." zh="长者；前辈" phonetic="'eldə" />
+  <word en="elect" pos="n. / adj." zh="(投票)选举" phonetic="ɪ'lekt" />
+  <word en="elegant" pos="adj." zh="文雅的，漂亮的，精美的" phonetic="'elɪgənt" />
+  <word en="embarrass" pos="vt." zh="使窘迫，尴尬" phonetic="ɪm'bærəs" />
+  <word en="embassy" pos="n." zh="大使馆" phonetic="'embəsɪ" />
+  <word en="emergency" pos="n." zh="紧急情况或状态" phonetic="ɪ'mɜːdʒ(ə)nsɪ" />
+  <word en="emperor" pos="n." zh="皇帝" phonetic="'emp(ə)rə" />
+  <word en="empire" pos="n." zh="帝国" phonetic="'empaɪə" />
+  <word en="encourage" pos="vt." zh="鼓励" phonetic="ɪn'kʌrɪdʒ; en-" />
+  <word en="encouragement" pos="n." zh="鼓励" phonetic="ɪn'kʌrɪdʒm(ə)nt" />
+  <word en="endless" pos="adj." zh="无止境的；没完的" phonetic="'endləs" />
+  <word en="enemy" pos="n. / adj." zh="敌人；敌军" phonetic="'enəmɪ" />
+  <word en="energetic" pos="adj." zh="精力旺盛的" phonetic="ˌenər'dʒetɪk" />
+  <word en="England" pos="n." zh="英格兰" phonetic="ˈɪŋɡlənd" />
+  <word en="English" pos="n. / adj." zh="英国的，英国人的，英语的；英语" phonetic="'ɪŋɡlɪʃ" />
+  <word en="English-speaking" pos="adj." zh="说英语的" phonetic="ˈɪŋɡlɪʃ-spiːk" />
+  <word en="enjoyable" pos="adj." zh="愉快的；有趣的" phonetic="ɪn'dʒɒɪəb(ə)l; en-" />
+  <word en="enlarge" pos="vt. / vi." zh="扩大" phonetic="ɪn'lɑːdʒ; en-" />
+  <word en="enquiry" pos="n." zh="询问" phonetic="ɪn'kwaɪrɪ" />
+  <word en="enterprise" pos="n." zh="公司，企，事业单位" phonetic="'entərpraɪz" />
+  <word en="entertainment" pos="n." zh="娱乐" phonetic="entə'teɪnm(ə)nt" />
+  <word en="enthusiastic" pos="adj." zh="热情的，热心的" phonetic="ɪnˌθuːzi'æstɪk" />
+  <word en="entire" pos="n. / adj." zh="整个的，全部的" phonetic="ɪn'taɪə; en-" />
+  <word en="entrance" pos="n. / vt." zh="入口；入场；进入的权利" phonetic="'entr(ə)ns" />
+  <word en="entry" pos="n." zh="进入" phonetic="ˈentrɪ" />
+  <word en="envelope" pos="n." zh="信封" phonetic="ˈenvələʊp" />
+  <word en="envy" pos="n. / vt." zh="忌妒；羡慕" phonetic="'envɪ" />
+  <word en="equal" pos="n. / adj." zh="平等的；等于，使等于" phonetic="'iːkwəl" />
+  <word en="equality" pos="n." zh="平等" phonetic="ɪ'kwɒlɪtɪ; iː-" />
+  <word en="equip" pos="vt." zh="提供设备；装备；配备" phonetic="ɪ'kwɪp" />
+  <word en="eraser" pos="n." zh="橡皮擦；黑板擦" phonetic="ɪ'reɪzə" />
+  <word en="erupt" pos="vi. / vt." zh="(火山)爆发，喷发" phonetic="ɪ'rʌpt" />
+  <word en="escape" pos="n. / vi." zh="逃跑；逃脱" phonetic="ɪ'skeɪp; e-" />
+  <word en="Europe" pos="n." zh="欧洲" phonetic="'jʊrəp" />
+  <word en="European" pos="n. / adj." zh="欧洲的，欧洲人的；欧洲人" phonetic="ˌjʊərəˈpɪən" />
+  <word en="evaluate" pos="vt." zh="估值，评价，评估" phonetic="ɪ'væljueɪt" />
+  <word en="eventually" pos="adv." zh="最终地" phonetic="ɪ'ventʃʊəlɪ" />
+  <word en="evident" pos="adj." zh="清楚的，显而易见的" phonetic="'evɪd(ə)nt" />
+  <word en="evolution" pos="n." zh="进化，演变" phonetic="ˌiːvə'luːʃn" />
+  <word en="examine" pos="v." zh="检查；诊察" phonetic="ɪg'zæmɪn; eg-" />
+  <word en="exchange" pos="n. / v." zh="交换，掉换；交流" phonetic="ɪks'tʃeɪndʒ" />
+  <word en="excite" pos="vt." zh="使兴奋，使激动" phonetic="ɪk'saɪt; ek-" />
+  <word en="excuse" pos="vt. / n." zh="借口；辩解；原谅" phonetic="ɪkˈskju:s; ɪkˈskju:z" />
+  <word en="exhibition" pos="n." zh="展览；展览会" phonetic="ˌeksɪˈbɪʃn" />
+  <word en="existence" pos="n." zh="存在；生存；存在物" phonetic="ɪg'zɪstəns" />
+  <word en="exit" pos="n. / vi." zh="出口，太平门" phonetic="'eksɪt; 'egzɪt" />
+  <word en="expand" pos="vt. / vi." zh="扩大，增加，扩展" phonetic="ɪk'spænd" />
+  <word en="expectation" pos="n." zh="预料；期望" phonetic="ekspek'teɪʃ(ə)n" />
+  <word en="expense" pos="n." zh="消费；支出" phonetic="ɪk'spens; ek-" />
+  <word en="explicit" pos="adj." zh="清楚明白，易于理解的" phonetic="ɪk'splɪsɪt" />
+  <word en="explode" pos="vi. / vt." zh="(使)爆炸" phonetic="ɪk'sploud" />
+  <word en="exploit" pos="n. / vt." zh="开采；开发；利用" phonetic="ˈeksplɔɪt;ɪkˈsplɔɪt" />
+  <word en="explore" pos="v." zh="探险" phonetic="ɪk'splɔːr" />
+  <word en="explorer" pos="n." zh="探险者" phonetic="ek'splɔːrə(r)" />
+  <word en="export" pos="n. / vt." zh="出口，输出" phonetic="ˈekspɔːt；ɪkˈ-" />
+  <word en="expose" pos="vt." zh="揭露" phonetic="ɪk'spouz" />
+  <word en="extension" pos="n. / adj." zh="扩大，延伸" phonetic="ɪk'stenʃn" />
+  <word en="extraordinary" pos="adj." zh="离奇的；使人惊奇的" phonetic="ɪk'strɔːrdəneri" />
+  <word en="eyesight" pos="n." zh="视力；视觉" phonetic="'aɪsaɪt" />
+  <word en="eyewitness" pos="n." zh="目击证人" phonetic="'aɪwɪtnɪs" />
+  <word en="facial" pos="n. / adj." zh="面部用的" phonetic="'feɪʃl" />
+  <word en="fade" pos="vi. / vt." zh="褪色，(颜色)消退" phonetic="feɪd" />
+  <word en="failure" pos="n." zh="失败" phonetic="'feɪljə" />
+  <word en="fairly" pos="adv." zh="公正地，正当地；相当(程度)地" phonetic="'feəlɪ" />
+  <word en="fairness" pos="n." zh="公平；公正" phonetic="'feənɪs" />
+  <word en="faith" pos="n." zh="信仰；信念" phonetic="feɪθ" />
+  <word en="familiar" pos="adj. / n." zh="熟悉的" phonetic="fə'mɪlɪə" />
+  <word en="fancy" pos="n. / adj." zh="花式；装饰的；奇特的" phonetic="'fænsɪ" />
+  <word en="fantasy" pos="n." zh="幻想，梦想" phonetic="'fæntəsi" />
+  <word en="fare" pos="n. / vi." zh="(车或船的)费用，票(价)" phonetic="fer" />
+  <word en="fasten" pos="vt. / vi." zh="扎牢；扣住" phonetic="'fæsn" />
+  <word en="fault" pos="n. / vt." zh="缺点，毛病" phonetic="fɔːlt" />
+  <word en="favour" pos="n. / vt." zh="(美favor)；恩惠；好意" phonetic="'feɪvə" />
+  <word en="fax" pos="n. / vt." zh="传真" phonetic="fæks" />
+  <word en="feast" pos="n. / vt." zh="盛宴，宴会，(宗教的)节日" phonetic="fiːst" />
+  <word en="feather" pos="n. / vi." zh="羽毛" phonetic="'feðə" />
+  <word en="federal" pos="adj." zh="中央的(政府)联邦的" phonetic="ˈfedər(ə)l" />
+  <word en="fee" pos="n. / vt." zh="费，费用" phonetic="fiː" />
+  <word en="fellow" pos="n. / adj." zh="同伴；伙伴" phonetic="'feləʊ" />
+  <word en="fence" pos="n. / vt." zh="栅栏；围栏；篱笆" phonetic="fens" />
+  <word en="ferry" pos="n." zh="渡船" phonetic="'ferɪ" />
+  <word en="fetch" pos="n. / vt." zh="(去)取(物)来，(去)带(人)来" phonetic="fetʃ" />
+  <word en="fever" pos="n." zh="发烧；发热" phonetic="'fiːvə" />
+  <word en="fibre" pos="n." zh="(美fiber)；纤维质" phonetic="'faɪbə" />
+  <word en="fierce" pos="adj." zh="猛烈的" phonetic="fɪrs" />
+  <word en="fighter" pos="n." zh="战士；斗士" phonetic="ˈfaɪtə(r)" />
+  <word en="file" pos="n. / vi." zh="公文柜；档案(计算机)文档" phonetic="faɪl" />
+  <word en="finance" pos="n. / vt." zh="资金，财政，财务" phonetic="'faɪnæns" />
+  <word en="fingernail" pos="n." zh="指甲" phonetic="'fɪŋgəneɪl" />
+  <word en="firefighter" pos="n." zh="消防人员" phonetic="'faɪəfaɪtə" />
+  <word en="fireplace" pos="n." zh="壁炉" phonetic="'faɪəpleɪs" />
+  <word en="firewood" pos="n." zh="木柴" phonetic="'faɪəwʊd" />
+  <word en="firework" pos="n." zh="焰火" phonetic="'faɪəwɜːk" />
+  <word en="firm" pos="n. / adj." zh="公司；企业；坚固的，坚定的" phonetic="fɜːrm" />
+  <word en="firmly" pos="adv." zh="牢牢地" phonetic="fɜːmli" />
+  <word en="fisherman" pos="n." zh="渔民；钓鱼健身者" phonetic="'fɪʃəmən" />
+  <word en="fist" pos="n. / vt." zh="拳(头)" phonetic="fɪst" />
+  <word en="flag" pos="n. / vt." zh="旗；标志；旗舰" phonetic="flæg" />
+  <word en="flame" pos="n. / vt." zh="火焰，光辉" phonetic="fleɪm" />
+  <word en="flaming" pos="adj." zh="火红的；火焰般的" phonetic="'fleɪmɪŋ" />
+  <word en="flash" pos="n. / vi." zh="闪；闪光；转瞬间" phonetic="flæʃ" />
+  <word en="flashlight" pos="n." zh="手电" phonetic="'flæʃlaɪt" />
+  <word en="flee" pos="vt. / vi." zh="逃走；逃跑" phonetic="fliː" />
+  <word en="flesh" pos="n. / vt." zh="肉" phonetic="fleʃ" />
+  <word en="flexible" pos="adj." zh="灵活的，可变动的" phonetic="'fleksəbl" />
+  <word en="float" pos="n. / vi." zh="漂浮，浮动" phonetic="flout" />
+  <word en="flood" pos="n. / vt." zh="洪水；淹没，使泛滥" phonetic="flʌd" />
+  <word en="flour" pos="n." zh="面粉，粉" phonetic="'flaʊə" />
+  <word en="flow" pos="n. / vi." zh="流动" phonetic="fləʊ" />
+  <word en="fluency" pos="n." zh="(外语)流利，流畅" phonetic="'fluːənsɪ" />
+  <word en="fluent" pos="adj." zh="(外语)流利的，流畅" phonetic="'fluːənt" />
+  <word en="fog" pos="n. / vi." zh="雾" phonetic="fɒg" />
+  <word en="foggy" pos="adj." zh="多雾的" phonetic="'fɔgi" />
+  <word en="fold" pos="n. / vt." zh="折叠；合拢" phonetic="fould" />
+  <word en="folk" pos="n. / adj." zh="民间的" phonetic="fəʊk" />
+  <word en="fond" pos="adj." zh="喜爱的，爱好的" phonetic="fɒnd" />
+  <word en="fool" pos="n. / vt." zh="傻子，蠢人" phonetic="fuːl" />
+  <word en="foolish" pos="adj." zh="愚蠢的，傻的" phonetic="'fuːlɪʃ" />
+  <word en="forbid" pos="vt." zh="禁止，不许" phonetic="fə'bɪd" />
+  <word en="force" pos="n. / vt." zh="强迫，迫使" phonetic="fɔːs" />
+  <word en="forecast" pos="n. / vt." zh="预告" phonetic="'fɔːrkæst" />
+  <word en="forehead" pos="n." zh="前额" phonetic="'fɔːhed; 'fɒrɪd" />
+  <word en="foreigner" pos="n." zh="外国人" phonetic="'fɒrɪnə" />
+  <word en="foresee" pos="vt." zh="预见；预知" phonetic="fɔː'siː" />
+  <word en="forever" pos="adv." zh="永远；永恒的" phonetic="fə'revə" />
+  <word en="forgetful" pos="adj." zh="健忘的，不留心的" phonetic="fə'getfʊl; -f(ə)l" />
+  <word en="forgive" pos="vt." zh="原谅，宽恕" phonetic="fə'gɪv" />
+  <word en="format" pos="n. / vt." zh="安排，计划，设计" phonetic="'fɔːrmæt" />
+  <word en="former" pos="adj. / n." zh="以前的，从前的；(两者之中的)前者" phonetic="'fɔːrmər" />
+  <word en="fortnight" pos="n." zh="十四日，两星期" phonetic="'fɔːtnaɪt" />
+  <word en="fortunate" pos="adj." zh="幸运的；侥幸的" phonetic="'fɔːtʃ(ə)nət" />
+  <word en="fortune" pos="n." zh="财产；运气" phonetic="'fɔːtʃuːn; -tʃ(ə)n" />
+  <word en="found" pos="vt." zh="成立，建立" phonetic="faʊnd" />
+  <word en="founding" pos="n." zh="成立，建立" phonetic="ˈfaundiŋ" />
+  <word en="fountain" pos="n." zh="喷泉" phonetic="'fauntn" />
+  <word en="fox" pos="n. / vi." zh="狐狸" phonetic="fɒks" />
+  <word en="fragile" pos="adj." zh="易碎的，易损的" phonetic="'frædʒl" />
+  <word en="fragrant" pos="adj." zh="香的，芳香的" phonetic="'freɪgrənt" />
+  <word en="framework" pos="n." zh="(建筑物)框架，结构" phonetic="'freɪmwɜːrk" />
+  <word en="franc" pos="n." zh="法郎" phonetic="fræŋk" />
+  <word en="France" pos="n." zh="法国" phonetic="fræns" />
+  <word en="freedom" pos="n." zh="自由" phonetic="'friːdəm" />
+  <word en="freeway" pos="n." zh="高速公路" phonetic="'friːweɪ" />
+  <word en="freeze" pos="vi. / vt." zh="结冰" phonetic="friːz" />
+  <word en="freezing" pos="adj." zh="冻结的；极冷的" phonetic="'friːzɪŋ" />
+  <word en="French" pos="n. / adj." zh="法语 a法国的；法国人的；法语的" phonetic="frentʃ" />
+  <word en="Frenchman" pos="n." zh="法国人(男)" phonetic="'frentʃmən" />
+  <word en="frequent" pos="adj. / vt." zh="经常的；频繁的" phonetic="'friːkw(ə)nt" />
+  <word en="friction" pos="n." zh="摩擦" phonetic="'frɪkʃn" />
+  <word en="fried" pos="adj." zh="油煎的" phonetic="fraɪd" />
+  <word en="friendship" pos="n." zh="友谊，友情" phonetic="'fren(d)ʃɪp" />
+  <word en="fright" pos="n." zh="惊恐；恐吓" phonetic="fraɪt" />
+  <word en="frighten" pos="vt. / vi." zh="使惊恐，吓唬" phonetic="'fraɪt(ə)n" />
+  <word en="frontier" pos="n." zh="前沿 ，边界；前线" phonetic="'frʌntɪə; frʌn'tɪə" />
+  <word en="frost" pos="n. / vt." zh="霜" phonetic="frɔːst" />
+  <word en="fry" pos="n. / v." zh="用油煎；用油炸" phonetic="fraɪ" />
+  <word en="fuel" pos="n. / vt." zh="燃料" phonetic="fjʊəl" />
+  <word en="function" pos="n. / vi." zh="作用，功能，运转" phonetic="'fʌŋkʃn" />
+  <word en="fundamental" pos="n. / adj." zh="十分重大的，根本的" phonetic="ˌfʌndə'mentl" />
+  <word en="funeral" pos="n." zh="葬礼" phonetic="'fjuːn(ə)r(ə)l" />
+  <word en="fur" pos="n. / vt." zh="毛皮；皮子" phonetic="fɜː" />
+  <word en="furnished" pos="adj." zh="配备了家具的" phonetic="'fɜːnɪʃt" />
+  <word en="gain" pos="n. / vt." zh="赢得；挣得" phonetic="geɪn" />
+  <word en="gale" pos="n." zh="强风(约每小时60英里)" phonetic="geɪl" />
+  <word en="gallon" pos="n." zh="加仑" phonetic="'gælən" />
+  <word en="garage" pos="n. / vt." zh="汽车间(库)" phonetic="'gærɑː(d)ʒ; -ɪdʒ; gə'rɑːʒ" />
+  <word en="garbage" pos="n." zh="垃圾" phonetic="'gɑːrbɪdʒ" />
+  <word en="gardening" pos="n." zh="园艺学" phonetic="'gɑːd(ə)nɪŋ" />
+  <word en="garlic" pos="n." zh="大蒜" phonetic="'gɑːlɪk" />
+  <word en="garment" pos="n." zh="(一件)衣服" phonetic="'gɑːm(ə)nt" />
+  <word en="gather" pos="n. / vi." zh="聚集；采集" phonetic="'gæðə" />
+  <word en="gay" pos="adj." zh="(男)同性恋的；快活的，愉快的" phonetic="geɪ" />
+  <word en="generation" pos="n." zh="代，一代" phonetic="dʒenə'reɪʃ(ə)n" />
+  <word en="generous" pos="adj." zh="慷慨大方的" phonetic="'dʒenərəs" />
+  <word en="gentle" pos="adj." zh="温柔的，轻轻的" phonetic="'dʒent(ə)l" />
+  <word en="gentleman" pos="n." zh="绅士，先生；有身份、有教养的人" phonetic="'dʒent(ə)lmən" />
+  <word en="geometry" pos="n." zh="几何学" phonetic="dʒi'ɑːmətri" />
+  <word en="German" pos="n. / adj." zh="德国的，德国人的，德语的；德国人，德语" phonetic="ˈdʒɜːmən" />
+  <word en="Germany" pos="n." zh="德国" phonetic="'dʒɜːmənɪ" />
+  <word en="gesture" pos="n. / vi." zh="姿势，手势" phonetic="'dʒestʃə" />
+  <word en="gettogether" pos="n." zh="聚会" phonetic="ɡet-təˈɡeðə(r)" />
+  <word en="gifted" pos="adj." zh="有天赋的；有才华的" phonetic="'gɪftɪd" />
+  <word en="giraffe" pos="n." zh="长颈鹿" phonetic="dʒɪˈrɑ:f" />
+  <word en="glad" pos="adj." zh="高兴的；乐意的" phonetic="glæd" />
+  <word en="glance" pos="n. / vi." zh="匆匆一看；一瞥" phonetic="glɑːns" />
+  <word en="glare" pos="n. / vi." zh="瞪眼，怒目而视，闪耀" phonetic="gler" />
+  <word en="glasshouse" pos="n." zh="温室，暖房" phonetic="'glɑːshaʊs" />
+  <word en="globe" pos="n. / v." zh="地球仪，地球" phonetic="gləʊb" />
+  <word en="glory" pos="n. / vi." zh="巨大的光荣；荣誉；赞美" phonetic="'glɔːrɪ" />
+  <word en="glove" pos="n. / vt." zh="手套" phonetic="glʌv" />
+  <word en="glue" pos="n. / vt." zh="胶水" phonetic="gluː" />
+  <word en="goat" pos="n." zh="山羊" phonetic="gəʊt" />
+  <word en="golden" pos="adj." zh="金(黄)色的" phonetic="'gəʊld(ə)n" />
+  <word en="goldfish" pos="n." zh="金鱼" phonetic="'gəʊl(d)fɪʃ" />
+  <word en="goodness" pos="n." zh="善良，美德" phonetic="'gʊdnɪs" />
+  <word en="goods" pos="n." zh="商品，货物" phonetic="ɡʊdz" />
+  <word en="goose" pos="n. / vt." zh="鹅" phonetic="ɡuːs" />
+  <word en="govern" pos="v." zh="统治；管理" phonetic="'gʌvərn" />
+  <word en="gown" pos="n. / vt." zh="礼服，长外衣，睡衣" phonetic="gaʊn" />
+  <word en="grade" pos="n. / vt." zh="等级；(中小学的)学年；成绩，分数" phonetic="greɪd" />
+  <word en="gradually" pos="adv." zh="逐渐地" phonetic="'grædʒʊlɪ; 'grædjʊəlɪ" />
+  <word en="graduate" pos="n. / adj." zh="毕业" phonetic="ˈɡradʒʊeɪt" />
+  <word en="graduation" pos="n." zh="毕业，毕业典礼" phonetic="grædʒʊ'eɪʃ(ə)n; -djʊ-" />
+  <word en="grain" pos="n. / v." zh="谷物，谷类" phonetic="greɪn" />
+  <word en="gram" pos="n." zh="克(重量单位)" phonetic="ɡræm" />
+  <word en="grammar" pos="n." zh="语法" phonetic="'græmə" />
+  <word en="grand" pos="adj." zh="宏伟的" phonetic="grænd" />
+  <word en="grandchild" pos="n." zh="(外)孙或孙女；孙辈" phonetic="'græn(d)tʃaɪld" />
+  <word en="granddaughter" pos="n." zh="(外)孙女" phonetic="'grændɔːtə" />
+  <word en="grandma" pos="n." zh="奶奶；外婆" phonetic="ˈɡrænmɑː, ˈɡrændmɑː" />
+  <word en="grandpa" pos="n." zh="爷爷，外公" phonetic="ˈɡrænpɑː, ˈɡrændpɑː" />
+  <word en="grandparents" pos="n." zh="祖父母；外祖父母" phonetic="'græn(d)peər(ə)nts" />
+  <word en="grandson" pos="n." zh="(外)孙子" phonetic="'græn(d)sʌn" />
+  <word en="granny" pos="n." zh="老奶奶；祖母；外婆" phonetic="'grænɪ" />
+  <word en="grape" pos="n." zh="葡萄" phonetic="greɪp" />
+  <word en="graph" pos="n." zh="图表，曲线图" phonetic="græf" />
+  <word en="grasp" pos="n. / vt." zh="抓住；紧握" phonetic="græsp" />
+  <word en="grateful" pos="adj." zh="感激的，感谢的" phonetic="'greɪtfʊl; -f(ə)l" />
+  <word en="gravity" pos="n." zh="重力，地球引力" phonetic="'grævəti" />
+  <word en="Greece" pos="n." zh="希腊" phonetic="ɡriːs" />
+  <word en="greedy" pos="adj." zh="贪婪的" phonetic="'griːdɪ" />
+  <word en="Greek" pos="n. / adj." zh="希腊的，希腊人的，希腊语的；希腊人，希腊语" phonetic="griːk" />
+  <word en="greengrocer" pos="n." zh="(英)蔬菜水果商" phonetic="'griːngrəʊsə" />
+  <word en="greeting" pos="n." zh="祝贺" phonetic="'griːtɪŋ" />
+  <word en="grill" pos="n. / v." zh="(烧食物的)烤架" phonetic="grɪl" />
+  <word en="grocer" pos="n." zh="零售商人；食品店" phonetic="'grəʊsə" />
+  <word en="growth" pos="n." zh="生长，增长" phonetic="grəʊθ" />
+  <word en="gruel" pos="n. / vt." zh="粥" phonetic="'grʊəl" />
+  <word en="guarantee" pos="n. / vt." zh="保证，担保" phonetic="ˌgærən'tiː" />
+  <word en="guard" pos="n. / vt." zh="防护装置，警戒" phonetic="gɑːd" />
+  <word en="guidance" pos="n." zh="引导，指导" phonetic="'gaɪd(ə)ns" />
+  <word en="guilty" pos="adj." zh="有罪，犯法的，做错事的" phonetic="'gɪlti" />
+  <word en="gymnastics" pos="n." zh="体操" phonetic="dʒɪmˈnæstɪks" />
+  <word en="ha" pos="int." zh="哈(笑声)" phonetic="hɑː" />
+  <word en="haircut" pos="n." zh="(男子)理发" phonetic="'herkʌt" />
+  <word en="ham" pos="n. / adj." zh="火腿" phonetic="hæm" />
+  <word en="hamburger" pos="n." zh="汉堡包" phonetic="ˈhæmbɜ:gə" />
+  <word en="hammer" pos="n. / vt." zh="锤子，锣锤" phonetic="'hæmər" />
+  <word en="handbag" pos="n." zh="女用皮包，手提包" phonetic="'hæn(d)bæg" />
+  <word en="handful" pos="n." zh="(一)把；少数，少量" phonetic="'hændful" />
+  <word en="handkerchief" pos="n." zh="手帕" phonetic="'hæŋkətʃɪf" />
+  <word en="handle" pos="n. / vt." zh="柄，把柄；处理" phonetic="'hændl" />
+  <word en="handsome" pos="adj." zh="英俊的" phonetic="'hæns(ə)m" />
+  <word en="handtruck" pos="n." zh="手推运货车" phonetic="ˈhændtrʌk" />
+  <word en="handwriting" pos="n." zh="书法" phonetic="'hændraɪtɪŋ" />
+  <word en="handy" pos="adj." zh="便利的，顺手的" phonetic="'hændi" />
+  <word en="hang" pos="n. / vt." zh="悬挂，吊着；把……吊起" phonetic="hæŋ" />
+  <word en="happiness" pos="n." zh="幸福，愉快" phonetic="ˈhæpinəs" />
+  <word en="harbor" pos="n. / v." zh="港口" phonetic="'hɑːrbər" />
+  <word en="harbour" pos="n. / v." zh="港口" phonetic="ˈhɑ:bə(r)" />
+  <word en="hardly" pos="adv." zh="几乎不" phonetic="'hɑːdlɪ" />
+  <word en="hardship" pos="n." zh="困难" phonetic="'hɑːdʃɪp" />
+  <word en="hardworking" pos="adj." zh="努力工作的" phonetic="'hɑːd,wɜːkɪŋ" />
+  <word en="harm" pos="n. / vt." zh="伤害；损伤" phonetic="hɑːm" />
+  <word en="harmful" pos="adj." zh="有害的；致伤的" phonetic="'hɑːmfʊl; -f(ə)l" />
+  <word en="harmless" pos="adj." zh="无害的；不致伤的" phonetic="'hɑ:mləs" />
+  <word en="harmony" pos="n." zh="融洽，和睦" phonetic="'hɑːrməni" />
+  <word en="harvest" pos="n. / v." zh="收割，收获(物)" phonetic="'hɑːvɪst" />
+  <word en="hatch" pos="n. / vt." zh="(鸟、鸡)孵蛋" phonetic="hætʃ" />
+  <word en="hawk" pos="n. / vi." zh="鹰" phonetic="hɔːk" />
+  <word en="hay" pos="n. / vt." zh="作饲料用的干草" phonetic="heɪ" />
+  <word en="headline" pos="n. / vt." zh="(报刊的)大字标题" phonetic="'hedlaɪn" />
+  <word en="headmaster" pos="n." zh="(英)中小学校长" phonetic="hed'mɑːstə" />
+  <word en="headmistress" pos="n." zh="女校长" phonetic="ˌhɛdˈmistrəs" />
+  <word en="headteacher" pos="n." zh="中小学班主任" phonetic="'hedtiːtʃə" />
+  <word en="heap" pos="n. / vt." zh="堆；堆起来" phonetic="hiːp" />
+  <word en="hearing" pos="n." zh="听力" phonetic="'hɪərɪŋ" />
+  <word en="heaven" pos="n." zh="天，天空" phonetic="'hev(ə)n" />
+  <word en="heavily" pos="adv." zh="重地，大量地" phonetic="'hevɪlɪ" />
+  <word en="heel" pos="n. / vt." zh="脚后跟" phonetic="hiːl" />
+  <word en="helicopter" pos="n. / vt." zh="直升飞机" phonetic="'helɪkɒptə" />
+  <word en="helmet" pos="n. / vt." zh="头盔" phonetic="'helmɪt" />
+  <word en="herb" pos="n." zh="草药" phonetic="ɜːrb" />
+  <word en="heroine" pos="n." zh="女英雄，女主角" phonetic="ˈherəʊɪn" />
+  <word en="hibernate" pos="vi." zh="冬眠" phonetic="'haɪbəneɪt" />
+  <word en="hibernation" pos="n." zh="冬眠" phonetic="ˌhaɪbər'neɪʃn" />
+  <word en="highway" pos="n." zh="公路，主要交通道路" phonetic="'haɪweɪ" />
+  <word en="hillside" pos="n." zh="(小山)山腰，山坡" phonetic="'hɪlsaɪd" />
+  <word en="hilly" pos="adj." zh="丘陵的；多小山的" phonetic="'hɪlɪ" />
+  <word en="hire" pos="n. / vt." zh="租用" phonetic="'haɪə" />
+  <word en="hive" pos="n. / vi." zh="蜂房；蜂箱" phonetic="haɪv" />
+  <word en="holy" pos="adj. / n." zh="神圣的" phonetic="'həʊlɪ" />
+  <word en="homeland" pos="n." zh="祖国" phonetic="'həʊmlænd" />
+  <word en="hometown" pos="n." zh="故乡" phonetic="'həʊm'taʊn" />
+  <word en="honest" pos="adj." zh="诚实的，正直的" phonetic="'ɒnɪst" />
+  <word en="honey" pos="n. / adj." zh="蜂蜜" phonetic="'hʌnɪ" />
+  <word en="honor" pos="n. / vt." zh="荣誉，光荣；尊敬，给予荣誉" phonetic="ˈɒnə(r)" />
+  <word en="honour" pos="n. / vt." zh="荣誉，光荣；尊敬，给予荣誉" phonetic="'ɒnə" />
+  <word en="hook" pos="n. / vt." zh="钩子；衔接，连接" phonetic="huk" />
+  <word en="hooray" pos="int. / n." zh="好哇！(欢呼声)" phonetic="hʊ'reɪ" />
+  <word en="hopeful" pos="n. / adj." zh="有希望的；有前途的" phonetic="'həʊpfʊl; -f(ə)l" />
+  <word en="hopeless" pos="adj." zh="没有希望，不可救药的" phonetic="'həʊpləs" />
+  <word en="horrible" pos="adj." zh="令人恐惧；恐怖的" phonetic="'hɒrəb(ə)l" />
+  <word en="host" pos="n. / vt." zh="主人；节目主持人；做主人招待" phonetic="həʊst" />
+  <word en="hostess" pos="n." zh="女主人" phonetic="'həʊstɪs; -es; həʊ'stes" />
+  <word en="housewife" pos="n." zh="家庭主妇" phonetic="'haʊswaɪf" />
+  <word en="housework" pos="n." zh="家务劳动" phonetic="'haʊswɜːk" />
+  <word en="howl" pos="n. / vi." zh="嚎叫，嚎哭" phonetic="haʊl" />
+  <word en="hug" pos="n. / vt." zh="拥抱" phonetic="hʌg" />
+  <word en="humor" pos="n. / vt." zh="幽默，幽默感" phonetic="ˈhjuːmə" />
+  <word en="humorous" pos="adj." zh="富于幽默的" phonetic="'hjuːm(ə)rəs" />
+  <word en="humour" pos="n. / vt." zh="幽默，幽默感" phonetic="'hjuːmə" />
+  <word en="hunger" pos="n. / vt." zh="饥饿" phonetic="'hʌŋgə" />
+  <word en="hunt" pos="n. / vt." zh="寻找；狩猎，猎取" phonetic="hʌnt" />
+  <word en="hunter" pos="n." zh="猎人" phonetic="'hʌntə" />
+  <word en="hurricane" pos="n." zh="飓风，十二级风" phonetic="'hɜːrəkən" />
+  <word en="hurry" pos="n. / vt." zh="赶快；急忙" phonetic="'hʌrɪ" />
+  <word en="hydrogen" pos="n." zh="氢" phonetic="'haɪdrədʒən" />
+  <word en="ice-cream" pos="adj." zh="冰淇淋" phonetic="'aɪskri:m" />
+  <word en="Iceland" pos="n." zh="冰岛" phonetic="'aislənd" />
+  <word en="identification" pos="n." zh="鉴定，辨别" phonetic="aɪˌdentɪfɪ'keɪʃn" />
+  <word en="identity" pos="n." zh="身份，特征" phonetic="aɪ'dentəti" />
+  <word en="idiom" pos="n." zh="习语，成语" phonetic="'ɪdiəm" />
+  <word en="ignore" pos="vt." zh="忽视，对…不理会" phonetic="ɪg'nɔːr" />
+  <word en="illegal" pos="adj." zh="非法的" phonetic="i'liːgəl" />
+  <word en="immediate" pos="adj." zh="立即的，马上" phonetic="ɪ'miːdiət" />
+  <word en="immigration" pos="n." zh="移民" phonetic="ɪmɪ'ɡreɪʃn" />
+  <word en="import" pos="n. / vt." zh="进口，输入" phonetic="ɪm'pɔːt; 'ɪm-" />
+  <word en="importance" pos="n." zh="重要性" phonetic="ɪm'pɔːt(ə)ns" />
+  <word en="impress" pos="n. / vt." zh="留下极深的印象" phonetic="ɪm'pres" />
+  <word en="impression" pos="n." zh="印象，感觉" phonetic="ɪm'preʃ(ə)n" />
+  <word en="inch" pos="n. / vi." zh="英寸" phonetic="ɪn(t)ʃ" />
+  <word en="incident" pos="n. / adj." zh="事件" phonetic="'ɪnsɪdənt" />
+  <word en="income" pos="n." zh="收入，所得" phonetic="'ɪnkʌm" />
+  <word en="incorrect" pos="adj." zh="不正确的，错误的" phonetic="ɪnkə'rekt" />
+  <word en="indeed" pos="adv." zh="确实；实在" phonetic="ɪn'diːd" />
+  <word en="independence" pos="n." zh="独立" phonetic="ɪndɪ'pend(ə)ns" />
+  <word en="India" pos="n." zh="印度" phonetic="'ɪndɪə" />
+  <word en="Indian" pos="n. / adj." zh="(美洲)印地安人的；印度人的；印地安人" phonetic="'ɪndɪən" />
+  <word en="indicate" pos="vt." zh="表明，象征，暗示" phonetic="'ɪndɪkeɪt" />
+  <word en="influence" pos="n. / vt." zh="影响" phonetic="'ɪnflʊəns" />
+  <word en="inform" pos="vt. / vi." zh="告诉；通知" phonetic="ɪn'fɔːrm" />
+  <word en="initial" pos="n. / adj." zh="开始的，最初的" phonetic="ɪ'nɪʃl" />
+  <word en="injure" pos="vt." zh="损害，伤害" phonetic="'ɪndʒə" />
+  <word en="ink" pos="n. / vt." zh="墨水，油墨" phonetic="ɪŋk" />
+  <word en="inland" pos="adj. / n." zh="内陆的；内地的" phonetic="'ɪnlənd; -lænd" />
+  <word en="inn" pos="n. / vi." zh="小旅店；小饭店" phonetic="ɪn" />
+  <word en="innocent" pos="adj. / n." zh="无辜的，清白的" phonetic="'ɪnəsnt" />
+  <word en="insert" pos="n. / vt." zh="插入" phonetic="ɪn'sɜːrt" />
+  <word en="insist" pos="v." zh="坚持；坚决认为" phonetic="ɪn'sɪst" />
+  <word en="inspect" pos="vt. / vi." zh="检查；检验；审视" phonetic="ɪn'spekt" />
+  <word en="inspire" pos="vt. / vi." zh="鼓舞；激励" phonetic="ɪn'spaɪər" />
+  <word en="instant" pos="n. / adj." zh="瞬间；刹那" phonetic="'instənt" />
+  <word en="institute" pos="n. / vt." zh="(研究)所， 院，学院" phonetic="'ɪnstɪtjuːt" />
+  <word en="institution" pos="n." zh="(慈善、宗教等性质的)公共机构；学校" phonetic="ɪnstɪ'tjuːʃ(ə)n" />
+  <word en="instruct" pos="vt." zh="通知；指示；教" phonetic="ɪn'strʌkt" />
+  <word en="insurance" pos="n." zh="保险" phonetic="ɪn'ʃurəns" />
+  <word en="insure" pos="vt. / vi." zh="给……保险" phonetic="ɪn'ʃɔː; ɪn'ʃʊə" />
+  <word en="intelligence" pos="n." zh="智力，才智，智慧" phonetic="ɪn'telɪdʒəns" />
+  <word en="intend" pos="vt." zh="想要，打算" phonetic="ɪn'tend" />
+  <word en="intention" pos="n." zh="打算，计划，意图" phonetic="ɪn'tenʃ(ə)n" />
+  <word en="interpreter" pos="n." zh="翻译" phonetic="in'təːpritə(r)" />
+  <word en="interrupt" pos="vt. / vi." zh="打扰，打断" phonetic="ˌɪntə'rʌpt" />
+  <word en="interval" pos="n." zh="间歇；间隔" phonetic="'ɪntərvl" />
+  <word en="inventor" pos="n." zh="发明者，创造者" phonetic="ɪn'ventə" />
+  <word en="Ireland" pos="n." zh="爱尔兰" phonetic="'aɪələnd" />
+  <word en="Irish" pos="n. / adj." zh="爱尔兰的，爱尔兰人的" phonetic="'aiəriʃ" />
+  <word en="iron" pos="n. / vt." zh="铁，熨斗；熨烫" phonetic="'aɪən" />
+  <word en="irrigate" pos="vt. / vi." zh="灌溉" phonetic="'ɪrɪgeɪt" />
+  <word en="irrigation" pos="n." zh="灌溉" phonetic="ɪrɪˈɡeɪʃ(ə)n" />
+  <word en="Italian" pos="n. / adj." zh="意大利(人)的；意大利语的；意大利人" phonetic="ɪˈtælɪən" />
+  <word en="Italy" pos="n." zh="意大利" phonetic="'ɪtəlɪ" />
+  <word en="Japan" pos="n." zh="日本" phonetic="dʒə'pæn" />
+  <word en="Japanese" pos="n. / adj." zh="日本的，日本人的，日语的；日本人，日语" phonetic="ˌdʒæpə'ni:z" />
+  <word en="jar" pos="n. / vi." zh="罐子；坛子" phonetic="dʒɑːr" />
+  <word en="jaw" pos="n. / v." zh="下巴" phonetic="dʒɔː" />
+  <word en="jeep" pos="n. / vi." zh="吉普车" phonetic="dʒiːp" />
+  <word en="jet" pos="n. / v." zh="喷气式飞机；喷射(器)" phonetic="jɛt" />
+  <word en="jewel" pos="n. / vt." zh="宝石" phonetic="'dʒuːəl" />
+  <word en="jewelry" pos="n." zh="(总称)珠宝" phonetic="'dʒuːəlri" />
+  <word en="jog" pos="n. / v." zh="慢跑" phonetic="dʒɑːg" />
+  <word en="joy" pos="n. / vt." zh="欢乐，高兴，乐趣" phonetic="dʒɒɪ" />
+  <word en="judge" pos="n. / vt." zh="裁判；审判员；法官" phonetic="dʒʌdʒ" />
+  <word en="judgement" pos="n." zh="裁判" phonetic="'dʒʌdʒm(ə)nt" />
+  <word en="juicy" pos="adj." zh="多汁的；水分多的" phonetic="'dʒuːsɪ" />
+  <word en="jungle" pos="n." zh="丛林，密林" phonetic="'dʒʌŋg(ə)l" />
+  <word en="junior" pos="n. / adj." zh="初级的；年少的" phonetic="'dʒuːnɪə" />
+  <word en="junk" pos="n." zh="(口语)废品，破烂货" phonetic="dʒʌŋk" />
+  <word en="justice" pos="n." zh="正义；公正；司法" phonetic="'dʒʌstɪs" />
+  <word en="kangaroo" pos="n." zh="大袋鼠" phonetic=",kæŋgə'ruː" />
+  <word en="keeper" pos="n." zh="(动物园中的)饲养员，看守人" phonetic="'kiːpə" />
+  <word en="kettle" pos="n." zh="(烧水用的)水壶" phonetic="'ket(ə)l" />
+  <word en="keyboard" pos="n." zh="键盘" phonetic="'kiːbɔːd" />
+  <word en="kick" pos="n. / vi." zh="踢" phonetic="kɪk" />
+  <word en="kilo" pos="n." zh="千克；千米" phonetic="'kiːləʊ" />
+  <word en="kilogram" pos="n." zh="千克" phonetic="ˈkɪləɡræm" />
+  <word en="kind-hearted" pos="adj." zh="好心的" phonetic="kaɪnd- ˈhɑ:tid" />
+  <word en="kindergarten" pos="n." zh="幼儿园" phonetic="'kɪndə,gɑːt(ə)n" />
+  <word en="kindness" pos="n." zh="仁慈；善良" phonetic="'kaɪn(d)nɪs" />
+  <word en="kingdom" pos="n." zh="王国" phonetic="'kɪŋdəm" />
+  <word en="kiss" pos="n. / vt." zh="吻，亲吻" phonetic="kɪs" />
+  <word en="kite" pos="n. / vi." zh="风筝" phonetic="kaɪt" />
+  <word en="labor" pos="n. / vi." zh="劳动" phonetic="'leɪbə(r)" />
+  <word en="labour" pos="n. / vi." zh="劳动" phonetic="'leɪbə" />
+  <word en="labourer" pos="n." zh="体力劳动者" phonetic="'leɪb(ə)rə" />
+  <word en="lack" pos="n. / vt." zh="缺乏，缺少" phonetic="læk" />
+  <word en="ladder" pos="n. / vi." zh="梯子" phonetic="'lædə" />
+  <word en="lamb" pos="n. / v." zh="羔羊" phonetic="læm" />
+  <word en="lame" pos="adj. / vi." zh="跛的，瘸的，残废的" phonetic="leɪm" />
+  <word en="lantern" pos="n. / vt." zh="灯笼；提灯" phonetic="'læntən" />
+  <word en="lap" pos="n. / vi." zh="(人坐时)膝部；(跑道的)一圈" phonetic="læp" />
+  <word en="laser" pos="n." zh="激光" phonetic="'leɪzər" />
+  <word en="lately" pos="adv." zh="最近，不久前" phonetic="'leɪtlɪ" />
+  <word en="latest" pos="adj." zh="最近，最新的；最晚的" phonetic="'leɪtɪst" />
+  <word en="latter" pos="adj." zh="(两者之中的)后者" phonetic="'lætər" />
+  <word en="laundry" pos="n." zh="洗衣店；要洗的衣服" phonetic="'lɔːndri" />
+  <word en="lavatory" pos="n." zh="便所，厕所" phonetic="'lævət(ə)rɪ" />
+  <word en="lay" pos="vt. / vi." zh="放，搁" phonetic="leɪ" />
+  <word en="leading" pos="n. / adj." zh="最主要的，第一位的" phonetic="'liːdɪŋ" />
+  <word en="leaf" pos="n. / vi." zh="(树，菜)叶" phonetic="liːf" />
+  <word en="league" pos="n. / v." zh="联盟，社团" phonetic="liːg" />
+  <word en="leak" pos="n. / vi." zh="漏；渗" phonetic="liːk" />
+  <word en="learned" pos="adj." zh="有才华的；博学的" phonetic="'lɜːnd; ˈlɜ:nɪd" />
+  <word en="leather" pos="n. / vt." zh="皮革" phonetic="'leðə" />
+  <word en="left-handed" pos="adj." zh="惯用左手的" phonetic="left- ˈ hændid" />
+  <word en="left-wing" pos="adj." zh="左翼的" phonetic="left-wɪŋ" />
+  <word en="leftover" pos="n. / adj." zh="剩余，剩下的剩饭菜" phonetic="'leftouvər" />
+  <word en="legal" pos="adj." zh="与法律有关的，法律的" phonetic="'liːg(ə)l" />
+  <word en="lemonade" pos="n." zh="柠檬水" phonetic="lemə'neɪd" />
+  <word en="length" pos="n." zh="长，长度，段，节" phonetic="leŋθ" />
+  <word en="letter-box" pos="n." zh="信箱" phonetic="ˈletə(r)- bɔks" />
+  <word en="liberate" pos="vt." zh="解放，使获自由" phonetic="'lɪbəreɪt" />
+  <word en="liberation" pos="n." zh="解放" phonetic="lɪbə'reɪʃ(ə)n" />
+  <word en="liberty" pos="n." zh="自由" phonetic="'lɪbətɪ" />
+  <word en="librarian" pos="n." zh="图书管理员；(西方的)图书馆馆长" phonetic="laɪ'breriən" />
+  <word en="license" pos="n. / vt." zh="执照，许可证" phonetic="'laɪsns" />
+  <word en="lid" pos="n. / vt." zh="盖子" phonetic="lɪd" />
+  <word en="lifetime" pos="n. / adj." zh="一生，终生" phonetic="'laɪftaɪm" />
+  <word en="lightning" pos="n. / vi." zh="闪电" phonetic="'laɪtnɪŋ" />
+  <word en="limit" pos="n. / vt." zh="限制；减少" phonetic="'lɪmɪt" />
+  <word en="lip" pos="n. / vt." zh="嘴唇" phonetic="lɪp" />
+  <word en="liquid" pos="n. / adj." zh="液体；液体的" phonetic="'lɪkwɪd" />
+  <word en="liter" pos="n." zh="升；公升" phonetic="ˈli:tə(r)" />
+  <word en="literary" pos="adj." zh="文学的" phonetic="'lɪtəreri" />
+  <word en="literature" pos="n." zh="文学" phonetic="'lɪtrətʃər" />
+  <word en="litre" pos="n." zh="升；公升" phonetic="'liːtə" />
+  <word en="litter" pos="n. / vt." zh="乱丢杂物" phonetic="'lɪtə" />
+  <word en="lively" pos="adj." zh="活泼的；充满生气的" phonetic="'laɪvlɪ" />
+  <word en="living" pos="n. / adj." zh="活着的；生计" phonetic="'lɪvɪŋ" />
+  <word en="load" pos="n. / vt." zh="担子，货物" phonetic="loud" />
+  <word en="loaf" pos="n. / v." zh="一个面包" phonetic="ləʊf" />
+  <word en="locust" pos="n." zh="蝗虫" phonetic="'ləʊkəst" />
+  <word en="London" pos="n." zh="伦敦" phonetic="ˈlʌndən" />
+  <word en="lonely" pos="adj." zh="孤独的，寂寞的" phonetic="'ləʊnlɪ" />
+  <word en="loose" pos="n. / adj." zh="松散的；宽松的" phonetic="luːs" />
+  <word en="loss" pos="n." zh="丧失；损耗" phonetic="lɒs" />
+  <word en="loudspeaker" pos="n." zh="扬声器，喇叭" phonetic="laʊd'spiːkə" />
+  <word en="lounge" pos="n. / vi." zh="休息厅；休息室" phonetic="laundʒ" />
+  <word en="luggage" pos="n." zh="(总称)行李" phonetic="'lʌgɪdʒ" />
+  <word en="lung" pos="n." zh="肺；肺脏" phonetic="lʌŋ" />
+  <word en="mad" pos="adj. / n." zh="发疯的；生气的" phonetic="mæd" />
+  <word en="madam" pos="n." zh="夫人，女士" phonetic="ˈmædəm" />
+  <word en="magic" pos="n. / adj." zh="有魔力的" phonetic="'mædʒɪk" />
+  <word en="maid" pos="n." zh="女仆；侍女" phonetic="meɪd" />
+  <word en="mailbox" pos="n." zh="邮筒；邮箱" phonetic="'meɪlbɒks" />
+  <word en="mainland" pos="n." zh="大陆" phonetic="'meɪnlənd; -lænd" />
+  <word en="majority" pos="n." zh="大多数" phonetic="mə'dʒɒrɪtɪ" />
+  <word en="man-made" pos="adj." zh="人造的，人工的" phonetic="mæn- meɪd" />
+  <word en="mankind" pos="n." zh="人类；(总称)人" phonetic=",mæn'kaɪnd" />
+  <word en="maple" pos="n." zh="枫树" phonetic="'meɪp(ə)l" />
+  <word en="marathon" pos="n." zh="马拉松" phonetic="'mærəθ(ə)n" />
+  <word en="marble" pos="n. / adj." zh="大理石；玻璃弹子" phonetic="'mɑːrbl" />
+  <word en="marriage" pos="n." zh="结婚，婚姻" phonetic="'mærɪdʒ" />
+  <word en="mask" pos="n. / vt." zh="口罩；面罩(具)；遮盖物" phonetic="mæsk" />
+  <word en="mass" pos="n. / adj." zh="众多；大量；(复)群众" phonetic="mæs" />
+  <word en="master" pos="n. / adj." zh="精通，掌握" phonetic="'mɑːstə" />
+  <word en="mat" pos="n. / adj." zh="垫子" phonetic="mæt" />
+  <word en="mature" pos="adj. / vt." zh="成熟的" phonetic="mə'tʃur" />
+  <word en="maximum" pos="n. / adj." zh="最大量(的)；最大限度(的)" phonetic="'mæksɪməm" />
+  <word en="means" pos="n." zh="方法，手段；财产" phonetic="miːnz" />
+  <word en="meanwhile" pos="n. / adv." zh="同时" phonetic="'miːnwaɪl" />
+  <word en="measure" pos="n. / vt." zh="量" phonetic="'meʒər" />
+  <word en="medal" pos="n. / vt." zh="奖牌" phonetic="'med(ə)l" />
+  <word en="medium" pos="n. / adj." zh="媒体，中间的，中等的" phonetic="'miːdiəm" />
+  <word en="melon" pos="n." zh="(甜)瓜；瓜状物" phonetic="'melən" />
+  <word en="memorial" pos="n. / adj." zh="纪念馆" phonetic="mə'mɔːrɪəl" />
+  <word en="memorize" pos="vt." zh="记忆" phonetic="'meməraɪz" />
+  <word en="mend" pos="n. / vt." zh="修理，修补" phonetic="mend" />
+  <word en="mental" pos="adj. / n." zh="精神的；脑力的" phonetic="'mentl" />
+  <word en="mentally" pos="adv." zh="精神上；智力上" phonetic="'ment(ə)lɪ" />
+  <word en="merchant" pos="n. / adj." zh="商业的；商人的；商人" phonetic="'mɜːrtʃənt" />
+  <word en="merciful" pos="adj." zh="仁慈的；宽大的" phonetic="'mɜːsɪfʊl; -f(ə)l" />
+  <word en="mercy" pos="n." zh="怜悯" phonetic="'mɜːrsi" />
+  <word en="merely" pos="adv." zh="仅仅，只不过" phonetic="'mɪəlɪ" />
+  <word en="merry" pos="adj." zh="高兴的，愉快的" phonetic="'merɪ" />
+  <word en="mess" pos="n. / vt." zh="凌乱" phonetic="mes" />
+  <word en="messy" pos="adj." zh="乱七八糟的" phonetic="'mesɪ" />
+  <word en="meter" pos="n. / vt." zh="米，公尺" phonetic="'mitɚ" />
+  <word en="Mexican" pos="n. / adj." zh="墨西哥的" phonetic="'meksɪkən" />
+  <word en="Mexico" pos="n." zh="墨西哥" phonetic="'meksɪkəʊ" />
+  <word en="microcomputer" pos="n." zh="微机" phonetic="'maɪkrə(ʊ)kɒm,pjuːtə" />
+  <word en="microscope" pos="n." zh="显微镜" phonetic="'maɪkrəskəup" />
+  <word en="microwave" pos="n." zh="微波" phonetic="'maɪkrəweɪv" />
+  <word en="mid-autumn" pos="n." zh="中秋" phonetic="mɪd- ˈɔːtəm" />
+  <word en="midday" pos="n. / adj." zh="中午， 正午" phonetic="mɪd'deɪ" />
+  <word en="mild" pos="adj." zh="温和，暖和的，凉爽的" phonetic="maɪld" />
+  <word en="millimetre" pos="n." zh="毫米" phonetic="ˈmɪlimiːtə(r)" />
+  <word en="millionaire" pos="n." zh="百万富翁" phonetic="mɪljə'neə" />
+  <word en="mineral" pos="n. / adj." zh="矿物质，矿物" phonetic="'mɪn(ə)r(ə)l" />
+  <word en="minibus" pos="n." zh="小型公共汽车" phonetic="'mɪnɪbʌs" />
+  <word en="minimum" pos="adj. / n." zh="最小的" phonetic="'mɪnɪməm" />
+  <word en="miniskirt" pos="n." zh="超短裙" phonetic="'mɪnɪskɜːt" />
+  <word en="minister" pos="n. / vi." zh="部长；牧师" phonetic="'mɪnɪstə" />
+  <word en="ministry" pos="n." zh="(政府的)部" phonetic="'mɪnɪstrɪ" />
+  <word en="minority" pos="n. / adj." zh="少数；少数民族" phonetic="maɪ'nɔːrəti" />
+  <word en="minus" pos="n. / adj." zh="负的，减去的" phonetic="'maɪnəs" />
+  <word en="missile" pos="n. / adj." zh="导弹" phonetic="'mɪsl" />
+  <word en="mist" pos="n. / vt." zh="雾" phonetic="mɪst" />
+  <word en="mistaken" pos="adj." zh="错误的" phonetic="mɪ'steɪk(ə)n" />
+  <word en="misunderstand" pos="vt." zh="误会；不理解" phonetic=",mɪsʌndə'stænd" />
+  <word en="mix" pos="n. / vt." zh="混合，搅拌" phonetic="mɪks" />
+  <word en="mixture" pos="n." zh="混合物" phonetic="'mɪkstʃə" />
+  <word en="modem" pos="n." zh="调制解调器" phonetic="'moudem" />
+  <word en="modest" pos="adj." zh="谦虚的；谦逊的" phonetic="'mɑːdɪst" />
+  <word en="mommy" pos="n." zh="妈妈(美)" phonetic="ˈmɔmɪ" />
+  <word en="monitor" pos="n. / v." zh="(班级内的)班长；纠察生；监视器" phonetic="'mɒnɪtə" />
+  <word en="monument" pos="n." zh="纪念碑，纪念物" phonetic="'mɑːnjumənt" />
+  <word en="mop" pos="n. / vt." zh="拖把；拖地" phonetic="mɒp" />
+  <word en="moral" pos="n. / adj." zh="道德的；寓意，道德启示" phonetic="'mɔːrəl" />
+  <word en="Moscow" pos="n." zh="莫斯科" phonetic="'mɔskəʊ" />
+  <word en="Moslem" pos="n. / adj." zh="伊斯兰教徒，回教徒" phonetic="'mɒzləm" />
+  <word en="mosquito" pos="n." zh="蚊子" phonetic="mɒ'skiːtəʊ" />
+  <word en="motherland" pos="n." zh="祖国" phonetic="'mʌðəlænd" />
+  <word en="motivation" pos="n." zh="(做事的)动机" phonetic="məʊtɪ'veɪʃ(ə)n" />
+  <word en="motor" pos="n. / adj." zh="发动机，马达" phonetic="'moutər" />
+  <word en="motorbike" pos="n." zh="摩托车" phonetic="'məʊtəbaɪk" />
+  <word en="motto" pos="n." zh="箴言，格言" phonetic="'mɑːtou" />
+  <word en="mountainous" pos="adj." zh="多山的" phonetic="'mauntənəs" />
+  <word en="mourn" pos="v." zh="哀痛；哀悼" phonetic="mɔːn" />
+  <word en="moustache" pos="n." zh="小胡子" phonetic="mə'stɑːʃ" />
+  <word en="mouthful" pos="n." zh="满口，一口" phonetic="'maʊθfʊl; -f(ə)l" />
+  <word en="mud" pos="n. / vt." zh="泥， 泥浆" phonetic="mʌd" />
+  <word en="muddy" pos="adj. / vt." zh="泥泞的" phonetic="'mʌdɪ" />
+  <word en="multiply" pos="v." zh="乘；使相乘" phonetic="'mʌltɪplaɪ" />
+  <word en="murder" pos="n. / vt." zh="谋杀" phonetic="'mɜːdə" />
+  <word en="mushroom" pos="n. / vi." zh="蘑菇" phonetic="'mʌʃrum" />
+  <word en="mustard" pos="n." zh="芥末，芥子粉" phonetic="'mʌstəd" />
+  <word en="mutton" pos="n." zh="羊肉" phonetic="'mʌt(ə)n" />
+  <word en="nail" pos="n. / vt." zh="钉，钉子" phonetic="neɪl" />
+  <word en="nation" pos="n." zh="民族，国家" phonetic="'neɪʃ(ə)n" />
+  <word en="nationality" pos="n." zh="国籍" phonetic="ˌnæʃə'næləti" />
+  <word en="nationwide" pos="adj." zh="全国范围内的，全国性的" phonetic="'neɪʃ(ə)nwaɪd; -'waɪd" />
+  <word en="native" pos="n. / adj." zh="本土的，本国的" phonetic="'neɪtɪv" />
+  <word en="navy" pos="n." zh="海军" phonetic="'neɪvɪ" />
+  <word en="nearby" pos="adj. / adv." zh="附近的" phonetic="'nɪəbaɪ" />
+  <word en="neat" pos="adj. / n." zh="整洁的；灵巧的" phonetic="niːt" />
+  <word en="necklace" pos="n." zh="项链" phonetic="'neklɪs" />
+  <word en="necktie" pos="n." zh="领带，领花" phonetic="'nektaɪ" />
+  <word en="needle" pos="n. / vt." zh="针" phonetic="'niːd(ə)l" />
+  <word en="negotiate" pos="vi. / vt." zh="谈判，协商" phonetic="nɪ'gouʃieɪt" />
+  <word en="neighbor" pos="n. / vt." zh="邻居，邻人" phonetic="'neɪbə" />
+  <word en="neighbourhood" pos="n." zh="四邻；邻近地区；(美neighborhood)" phonetic="ˈneɪbəhʊd" />
+  <word en="nephew" pos="n." zh="侄子，外甥" phonetic="'nefjuː; 'nevjuː" />
+  <word en="nest" pos="n. / vi." zh="巢；窝" phonetic="nest" />
+  <word en="net" pos="n. / adj." zh="网" phonetic="net" />
+  <word en="niece" pos="n." zh="侄女，甥女" phonetic="niːs" />
+  <word en="night-club" pos="n." zh="夜总会" phonetic="naɪt-klʌb" />
+  <word en="ninth" pos="num." zh="第九" phonetic="'naɪnθ" />
+  <word en="noble" pos="n. / adj." zh="高贵的，贵族的" phonetic="'nəʊb(ə)l" />
+  <word en="nod" pos="n. / vi." zh="点头" phonetic="nɒd" />
+  <word en="noisily" pos="adv." zh="喧闹地" phonetic="ˈnɔɪzɪlɪ" />
+  <word en="non-stop" pos="adj. / adv." zh="不停的，不断地" phonetic="ˌnɒn'stɒp" />
+  <word en="non-violent" pos="adj." zh="非暴力的" phonetic="nɔn-ˈvaɪələnt" />
+  <word en="noodle" pos="n." zh="面条" phonetic="'nuːd(ə)l" />
+  <word en="noon" pos="n." zh="中午，正午" phonetic="nuːn" />
+  <word en="nor" pos="conj." zh="也不" phonetic="nɔː; nə" />
+  <word en="northeast" pos="n. / adj." zh="东北(部)" phonetic=",nɔ:θ'i:st" />
+  <word en="northern" pos="n. / adj." zh="北方的，北部的" phonetic="'nɔːð(ə)n" />
+  <word en="northwards" pos="adv." zh="向北" phonetic="'nɔːθwədz" />
+  <word en="northwest" pos="n. / adj." zh="西北" phonetic=",nɔ:θ'west" />
+  <word en="notebook" pos="n." zh="笔记簿" phonetic="'nəʊtbʊk" />
+  <word en="novelist" pos="n." zh="小说家" phonetic="'nɒv(ə)lɪst" />
+  <word en="nowadays" pos="n. / adv." zh="当今，现在" phonetic="'naʊədeɪz" />
+  <word en="nuclear" pos="adj." zh="原子核的，原子能的，核动力的" phonetic="'njuːklɪə" />
+  <word en="numb" pos="adj. / vt." zh="麻木的，失去知觉的，迟钝的" phonetic="nʌm" />
+  <word en="nursery" pos="n." zh="托儿所" phonetic="'nɜːs(ə)rɪ" />
+  <word en="nursing" pos="n." zh="(职业性的)保育，护理" phonetic="'nɜːsɪŋ" />
+  <word en="nutrition" pos="n." zh="营养，滋养" phonetic="nu'trɪʃn" />
+  <word en="nylon" pos="n." zh="尼龙" phonetic="'naɪlɒn" />
+  <word en="o'clock" pos="n." zh="点钟" phonetic="əˈklɔk" />
+  <word en="obey" pos="vt. / vi." zh="服从，顺从，听从" phonetic="ə(ʊ)'beɪ" />
+  <word en="observe" pos="vt. / vi." zh="观察，监视，观测" phonetic="əb'zɜːrv" />
+  <word en="obtain" pos="vt. / vi." zh="获得；得到" phonetic="əb'teɪn" />
+  <word en="obvious" pos="adj." zh="显然" phonetic="'ɒbvɪəs" />
+  <word en="occupation" pos="n." zh="职业，工作" phonetic="ɒkjʊ'peɪʃ(ə)n" />
+  <word en="occur" pos="vi." zh="发生" phonetic="ə'kɜːr" />
+  <word en="Oceania" pos="n." zh="大洋洲" phonetic=",əʊsɪ'ɑːnɪə; -ʃɪ-" />
+  <word en="offence" pos="n." zh="违法行为，犯罪" phonetic="ə'fens" />
+  <word en="official" pos="n. / adj." zh="(公司、团体或政府)官员 ，高级职员；官方，政府的" phonetic="ə'fɪʃ(ə)l" />
+  <word en="offshore" pos="adj. / adv." zh="近海的" phonetic="'ɒfʃɔː; ɒf'ʃɔː" />
+  <word en="oilfield" pos="n." zh="油田" phonetic="ˈɔɪlfiːld" />
+  <word en="Olympic" pos="adj." zh="奥林匹克" phonetic="əˈlɪmpɪk" />
+  <word en="omelette" pos="n." zh="煎蛋卷；煎蛋饼" phonetic="'ɒmlɪt" />
+  <word en="oneself" pos="pron." zh="自己；自身" phonetic="wʌn'self" />
+  <word en="opener" pos="n." zh="开启工具；开瓶器" phonetic="'əʊp(ə)nə" />
+  <word en="opening" pos="n. / adj." zh="开放，口子" phonetic="'əʊp(ə)nɪŋ" />
+  <word en="opera" pos="n." zh="歌剧" phonetic="'ɒp(ə)rə" />
+  <word en="operate" pos="v." zh="做手术，运转；实施，负责， 经营，管理" phonetic="'ɑːpəreɪt" />
+  <word en="operation" pos="n." zh="手术，操作" phonetic="ɒpə'reɪʃ(ə)n" />
+  <word en="operator" pos="n." zh="接线员" phonetic="'ɒpəreɪtə" />
+  <word en="oppose" pos="vt. / vi." zh="反对；反抗" phonetic="ə'pouz" />
+  <word en="optimistic" pos="adj." zh="乐观的" phonetic="ˌɑːptɪ'mɪstɪk" />
+  <word en="optional" pos="adj." zh="可选择的，选修的" phonetic="'ɑːpʃənl" />
+  <word en="oral" pos="n. / adj." zh="口述的，口头上的" phonetic="'ɔːrəl" />
+  <word en="orbit" pos="n. / vt." zh="(天体等的)运行轨道" phonetic="'ɔːrbɪt" />
+  <word en="organ" pos="n." zh="(人，动物)器官" phonetic="'ɔːg(ə)n" />
+  <word en="organise" pos="vt." zh="组织" phonetic="'ɔːɡənaɪz" />
+  <word en="organiser" pos="n." zh="组织者" phonetic="ˈɔ:gənaizə" />
+  <word en="origin" pos="n." zh="起源，由来" phonetic="'ɔːrɪdʒɪn" />
+  <word en="otherwise" pos="adv." zh="要不然，否则，另样" phonetic="'ʌðərwaɪz" />
+  <word en="Ottawa" pos="n." zh="渥太华" phonetic="'ɒtəwə" />
+  <word en="ouch" pos="int. / n." zh="(突然受痛时叫声)哎哟" phonetic="aʊtʃ" />
+  <word en="ought" pos="aux. / n." zh="应该，应当" phonetic="ɔːt" />
+  <word en="outcome" pos="n." zh="结果，效果" phonetic="'autkʌm" />
+  <word en="outdoors" pos="n. / adv." zh="在户外， 在野外" phonetic="aʊt'dɔːz" />
+  <word en="outer" pos="adj." zh="外部的，外面的" phonetic="'aʊtə" />
+  <word en="outgoing" pos="n. / adj." zh="爱交际的，外向的" phonetic="'aʊtgəʊɪŋ" />
+  <word en="outing" pos="n. / adj." zh="郊游，远足" phonetic="'aʊtɪŋ" />
+  <word en="outline" pos="n. / vt." zh="概述，略述" phonetic="'autlaɪn" />
+  <word en="output" pos="n." zh="产量，输出量" phonetic="'autput" />
+  <word en="outspoken" pos="adj." zh="直率，坦诚" phonetic="aut'spoukən" />
+  <word en="outstanding" pos="adj." zh="优秀的，杰出的" phonetic="aut'stændɪŋ" />
+  <word en="outward" pos="adj. / adv." zh="向外的，外出的" phonetic="'aʊtwəd" />
+  <word en="oval" pos="n. / adj." zh="椭圆；椭圆形的" phonetic="'ouvl" />
+  <word en="overcoat" pos="n." zh="大衣" phonetic="'əʊvəkəʊt" />
+  <word en="overcome" pos="vt. / vi." zh="克服，解决" phonetic="ˌouvər'kʌm" />
+  <word en="overhead" pos="n. / adj." zh="在头顶上；架空的" phonetic="əʊvə'hed" />
+  <word en="overlook" pos="vt. / n." zh="忽略，不予理会" phonetic="ˌouvər'luk" />
+  <word en="overweight" pos="n. / adj." zh="太胖的，超重的" phonetic="əuvə'weit" />
+  <word en="owe" pos="vt. / vi." zh="欠(债等)" phonetic="əʊ" />
+  <word en="ownership" pos="n." zh="所有制" phonetic="'əʊnəʃɪp" />
+  <word en="ox" pos="n." zh="牛；公牛" phonetic="ɔks" />
+  <word en="oxygen" pos="n." zh="氧；氧气" phonetic="'ɑːksɪdʒən" />
+  <word en="P.C." pos="n." zh="个人电脑(缩) =" phonetic="piːsiː" />
+  <word en="P.E." pos="n." zh="体育(缩) =" phonetic="piːiː" />
+  <word en="p.m." pos="n." zh="下午，午后" phonetic="piːem" />
+  <word en="pace" pos="n. / vi." zh="步子；节奏" phonetic="peɪs" />
+  <word en="Pacific" pos="n. / adj." zh="太平洋的" phonetic="pəˈsɪfɪk" />
+  <word en="package" pos="n. / vt." zh="(尤指包装好或密封的容器)一包，一袋，一盒" phonetic="'pækɪdʒ" />
+  <word en="packet" pos="n. / vt." zh="小包裹，袋" phonetic="'pækɪt" />
+  <word en="paddle" pos="n. / vi." zh="桨状物，蹼" phonetic="'pædl" />
+  <word en="painful" pos="adj." zh="使痛的，使痛苦的" phonetic="'peɪnfʊl; -f(ə)l" />
+  <word en="pale" pos="n. / adj." zh="苍白的，灰白的" phonetic="peɪl" />
+  <word en="pan" pos="n. / v." zh="平底锅" phonetic="pæn" />
+  <word en="pancake" pos="n." zh="薄煎饼" phonetic="'pænkeɪk" />
+  <word en="panda" pos="n." zh="熊猫" phonetic="'pændə" />
+  <word en="panic" pos="n. / adj." zh="惊慌，恐慌，惶恐不安" phonetic="'pænɪk" />
+  <word en="paperwork" pos="n." zh="日常文书工作" phonetic="'peɪpəwɜːk" />
+  <word en="parallel" pos="n. / adj." zh="极其相似的人，纬线" phonetic="'pærəlel" />
+  <word en="parcel" pos="n. / vt." zh="包裹" phonetic="'pɑːs(ə)l" />
+  <word en="pardon" pos="n. / vt." zh="原谅，宽恕，对不起" phonetic="ˈpɑːdn" />
+  <word en="Paris" pos="n." zh="巴黎" phonetic="'pærɪs" />
+  <word en="parrot" pos="n. / vt." zh="鹦鹉" phonetic="'pærət" />
+  <word en="part-time" pos="adj. / adv." zh="兼职的；部分时间的(地)" phonetic=",pɑ:t'taɪm" />
+  <word en="participate" pos="vi. / vt." zh="参加，参与" phonetic="pɑːr'tɪsɪpeɪt" />
+  <word en="partly" pos="adv." zh="部分地，在一定程度上" phonetic="'pɑːtlɪ" />
+  <word en="passage" pos="n. / vi." zh="(文章等的)一节，一段；通道；走廊" phonetic="'pæsɪdʒ" />
+  <word en="passer-by" pos="n." zh="过客，过路人" phonetic="'pɑ:sə'bai, 'pæs-" />
+  <word en="passive" pos="adj." zh="被动的" phonetic="'pæsɪv" />
+  <word en="patent" pos="n. / adj." zh="专利权，专利证书" phonetic="'pæt(ə)nt; 'peɪt(ə)nt" />
+  <word en="path" pos="n." zh="小道，小径" phonetic="pɑːθ" />
+  <word en="patience" pos="n." zh="容忍；耐心" phonetic="'peɪʃ(ə)ns" />
+  <word en="pause" pos="n. / vi." zh="中止，暂停；停止" phonetic="pɔːz" />
+  <word en="pea" pos="n." zh="豌豆" phonetic="piː" />
+  <word en="peaceful" pos="adj." zh="和平的，安宁的" phonetic="'piːsfʊl; -f(ə)l" />
+  <word en="peach" pos="n. / vt." zh="桃子" phonetic="piːtʃ" />
+  <word en="pear" pos="n." zh="梨子，梨树" phonetic="peə" />
+  <word en="peasant" pos="n." zh="农民；佃农" phonetic="'pez(ə)nt" />
+  <word en="pedestrian" pos="n. / adj." zh="步行者，行人" phonetic="pə'destriən" />
+  <word en="pen-friend" pos="n." zh="笔友" phonetic="pen- friend" />
+  <word en="pencil-box" pos="n." zh="铅笔盒" phonetic="ˈpens(ə)l -bɔks" />
+  <word en="pencil-sharpener" pos="n." zh="转笔刀" phonetic="ˈpens(ə)l-ˈʃɑːpənə(r)" />
+  <word en="pension" pos="n. / vt." zh="养老金" phonetic="'penʃən" />
+  <word en="percent" pos="n." zh="百分之……" phonetic="pə'sent" />
+  <word en="percentage" pos="n." zh="百分率" phonetic="pə'sentɪdʒ" />
+  <word en="performance" pos="n." zh="演出，表演" phonetic="pə'fɔːm(ə)ns" />
+  <word en="performer" pos="n." zh="表演者，执行者" phonetic="pə'fɔːmə(r)" />
+  <word en="perfume" pos="n. / vt." zh="香水" phonetic="pər'fjuːm" />
+  <word en="permanent" pos="adj. / n." zh="永久的，永恒的" phonetic="'pɜːrmənənt" />
+  <word en="permit" pos="n. / vt." zh="许可，允许；执照；许可证" phonetic="pə'mɪt" />
+  <word en="personally" pos="adv." zh="就自己而言" phonetic="'pɜːs(ə)n(ə)lɪ" />
+  <word en="personnel" pos="n." zh="全体人员，职员" phonetic="ˌpɜːrsə'nel" />
+  <word en="persuade" pos="vt. / vi." zh="说服，劝说" phonetic="pə'sweɪd" />
+  <word en="pest" pos="n." zh="害虫" phonetic="pest" />
+  <word en="phenomenon" pos="n." zh="现象" phonetic="fə'nɑːmɪnən" />
+  <word en="phone-booth" pos="n." zh="公用电话间" phonetic="fəʊn-buːð" />
+  <word en="photographer" pos="n." zh="摄影师" phonetic="fə'tɒgrəfə" />
+  <word en="physician" pos="n." zh="(有行医执照的)医生" phonetic="fɪ'zɪʃn" />
+  <word en="physicist" pos="n." zh="物理学家" phonetic="'fɪzɪsɪst" />
+  <word en="pianist" pos="n." zh="钢琴家" phonetic="'pɪənɪst" />
+  <word en="picnic" pos="n. / vi." zh="野餐" phonetic="'pɪknɪk" />
+  <word en="pie" pos="n." zh="甜馅饼" phonetic="paɪ" />
+  <word en="pile" pos="n. / vi." zh="堆" phonetic="paɪl" />
+  <word en="pill" pos="n. / v." zh="药丸，药片" phonetic="pɪl" />
+  <word en="pillow" pos="n. / vt." zh="枕头" phonetic="'pɪləʊ" />
+  <word en="pin" pos="n. / vt." zh="别针；别住， 钉住" phonetic="pɪn" />
+  <word en="pine" pos="n. / vi." zh="松树" phonetic="paɪn" />
+  <word en="pineapple" pos="n." zh="菠萝" phonetic="'paɪnæp(ə)l" />
+  <word en="ping-pong" pos="n." zh="乒乓球" phonetic="pɪŋ-pɔɡ" />
+  <word en="pint" pos="n." zh="(液量单位)品脱" phonetic="paɪnt" />
+  <word en="pioneer" pos="n. / vt." zh="先锋，开拓者" phonetic="paɪə'nɪə" />
+  <word en="pipe" pos="n. / vt." zh="管子，输送管" phonetic="paɪp" />
+  <word en="pity" pos="n. / vt." zh="怜悯，同情" phonetic="'pɪtɪ" />
+  <word en="plain" pos="n. / adj." zh="家常的；普通的" phonetic="pleɪn" />
+  <word en="playground" pos="n." zh="操场，运动场" phonetic="'pleɪgraʊnd" />
+  <word en="playmate" pos="n." zh="玩伴" phonetic="'pleɪmeɪt" />
+  <word en="playroom" pos="n." zh="游戏室" phonetic="'pleɪruːm; -rʊm" />
+  <word en="pleasant" pos="adj." zh="令人愉快的，舒适的" phonetic="'plez(ə)nt" />
+  <word en="pleasure" pos="n. / v." zh="高兴，愉快" phonetic="'pleʒə" />
+  <word en="plenty" pos="n. / adj." zh="充足，大量" phonetic="'plentɪ" />
+  <word en="plot" pos="n. / vt." zh="故事情节，密谋" phonetic="plɑːt" />
+  <word en="plug" pos="n. / vt." zh="塞子；(用塞子)把…塞住" phonetic="plʌg" />
+  <word en="plus" pos="prep. / adj." zh="加，加上" phonetic="plʌs" />
+  <word en="poem" pos="n." zh="诗" phonetic="'pəʊɪm" />
+  <word en="poet" pos="n." zh="诗人" phonetic="'pəʊɪt" />
+  <word en="poison" pos="n. / vt." zh="毒药" phonetic="'pɒɪz(ə)n" />
+  <word en="poisonous" pos="adj." zh="有毒的，致命的" phonetic="'pɔɪzənəs" />
+  <word en="pole" pos="n. / vt." zh="杆，电线杆" phonetic="poul" />
+  <word en="policewoman" pos="n." zh="女警察" phonetic="pəˈliːswʊmən" />
+  <word en="policy" pos="n." zh="政策，方针，原则" phonetic="ˈpɒlɪsɪ" />
+  <word en="polish" pos="adj. / n." zh="擦亮；擦光剂，亮光剂" phonetic="'pɑːlɪʃ" />
+  <word en="political" pos="adj." zh="政治的" phonetic="pə'lɪtɪk(ə)l" />
+  <word en="politician" pos="n." zh="政治家" phonetic="pɒlɪ'tɪʃ(ə)n" />
+  <word en="politics" pos="n." zh="政治" phonetic="'pɑːlətɪks" />
+  <word en="pollute" pos="vt." zh="污染" phonetic="pə'luːt" />
+  <word en="pond" pos="n. / v." zh="池塘" phonetic="pɒnd" />
+  <word en="popcorn" pos="n." zh="爆米花" phonetic="'pɒpkɔːn" />
+  <word en="pork" pos="n." zh="猪肉" phonetic="pɔːk" />
+  <word en="porridge" pos="n." zh="稀饭，粥" phonetic="'pɒrɪdʒ" />
+  <word en="port" pos="n. / vt." zh="港口，码头" phonetic="pɔːt" />
+  <word en="portable" pos="adj." zh="手提的，便携式的" phonetic="'pɔːrtəbl" />
+  <word en="porter" pos="n." zh="(火车站或旅馆处的)搬运工" phonetic="'pɔːtə" />
+  <word en="possess" pos="vt." zh="占有；拥有" phonetic="pə'zes" />
+  <word en="possibly" pos="adv." zh="可能地，也许" phonetic="'pɒsɪblɪ" />
+  <word en="postage" pos="n." zh="邮费" phonetic="'poustɪdʒ" />
+  <word en="postbox" pos="n." zh="邮箱" phonetic="'pəʊs(t)bɒks" />
+  <word en="postcard" pos="n." zh="明信片" phonetic="'pəʊs(t)kɑːd" />
+  <word en="postcode" pos="n." zh="(英)邮政编码" phonetic="'pəʊs(t)kəʊd" />
+  <word en="postman" pos="n." zh="邮递员" phonetic="'pəʊs(t)mən" />
+  <word en="postpone" pos="vt. / vi." zh="推迟，延期" phonetic="ˌpoust'poun" />
+  <word en="pot" pos="n. / vt." zh="锅，壶，瓶，罐" phonetic="pɒt" />
+  <word en="potential" pos="n. / adj." zh="潜在的，可能的" phonetic="pə'tenʃl" />
+  <word en="pour" pos="n. / vt." zh="倾泻，不断流出" phonetic="pɔː" />
+  <word en="powder" pos="n. / vt." zh="粉，粉末" phonetic="'paudər" />
+  <word en="powerful" pos="adj." zh="效力大的，强有力的，强大的" phonetic="'paʊəfʊl; -f(ə)l" />
+  <word en="practical" pos="adj." zh="实际的，适用的" phonetic="'præktɪkl" />
+  <word en="prairie" pos="n." zh="大草原" phonetic="'preri" />
+  <word en="praise" pos="n. / vt." zh="赞扬，表扬" phonetic="preɪz" />
+  <word en="pray" pos="v." zh="祈祷；祈求" phonetic="preɪ" />
+  <word en="prayer" pos="n." zh="祈祷" phonetic="preə" />
+  <word en="precious" pos="adj." zh="宝贵的， 珍贵的" phonetic="'preʃəs" />
+  <word en="precise" pos="adj." zh="准确，精确的，确切的" phonetic="prɪ'saɪs" />
+  <word en="preference" pos="n." zh="选择，趋向" phonetic="'prefrəns" />
+  <word en="pregnant" pos="adj." zh="怀孕的" phonetic="'pregnənt" />
+  <word en="prejudice" pos="n. / vt." zh="偏见，成见" phonetic="'predʒudɪs" />
+  <word en="premier" pos="n. / adj." zh="首相，总理" phonetic="prɪ'mɪr" />
+  <word en="preparation" pos="n." zh="准备" phonetic=",prepə'reɪʃ(ə)n" />
+  <word en="prescription" pos="n." zh="处方，药方" phonetic="prɪ'skrɪpʃn" />
+  <word en="presentation" pos="n." zh="演示，演出" phonetic="ˌpriːzen'teɪʃn" />
+  <word en="preserve" pos="vt. / vi." zh="保护，保留，保存" phonetic="prɪ'zɜːrv" />
+  <word en="press" pos="n. / vt." zh="压，按；新闻界，出版社" phonetic="pres" />
+  <word en="pressure" pos="n. / vt." zh="压迫，压力，压强" phonetic="'preʃə" />
+  <word en="pretend" pos="v." zh="假装，装作" phonetic="prɪ'tend" />
+  <word en="preview" pos="n. / vt." zh="预习；试演；预展" phonetic="'priːvjuː" />
+  <word en="pride" pos="n. / vt." zh="自豪，骄傲" phonetic="praɪd" />
+  <word en="primary" pos="n. / adj." zh="初等的；初级的" phonetic="'praɪm(ə)rɪ" />
+  <word en="primitive" pos="n. / adj." zh="原始的，远古的" phonetic="'prɪmətɪv" />
+  <word en="principle" pos="n." zh="道德原则，法则" phonetic="'prɪnsəpl" />
+  <word en="printing" pos="n." zh="印刷，印刷术" phonetic="'prɪntɪŋ" />
+  <word en="prisoner" pos="n." zh="囚犯" phonetic="'prɪz(ə)nə" />
+  <word en="private" pos="adj. / n." zh="私人的" phonetic="ˈpraɪvɪt" />
+  <word en="privilege" pos="n. / vt." zh="特权，特殊待遇" phonetic="'prɪvəlɪdʒ" />
+  <word en="probable" pos="adj. / n." zh="很可能，很有希望的" phonetic="'prɒbəb(ə)l" />
+  <word en="procedure" pos="n." zh="程序，手续，待遇" phonetic="prə'siːdʒər" />
+  <word en="production" pos="n." zh="生产；制造" phonetic="prə'dʌkʃ(ə)n" />
+  <word en="profession" pos="n." zh="(需要有高等教育学位的)职业(如医生或律师)" phonetic="prə'feʃn" />
+  <word en="profit" pos="n. / vi." zh="利润，收益" phonetic="'prɒfɪt" />
+  <word en="prohibit" pos="vt." zh="禁止" phonetic="prə'hɪbɪt" />
+  <word en="promote" pos="vt." zh="促进，推动，促销，晋升" phonetic="prə'mout" />
+  <word en="pronunciation" pos="n." zh="发音" phonetic="prə,nʌnsɪ'eɪʃ(ə)n" />
+  <word en="proper" pos="adj. / adv." zh="恰当的，合适的" phonetic="'prɒpə" />
+  <word en="properly" pos="adv." zh="适当地" phonetic="'prɒp(ə)lɪ" />
+  <word en="protection" pos="n." zh="保护" phonetic="prə'tekʃ(ə)n" />
+  <word en="proud" pos="adj." zh="自豪的；骄傲的" phonetic="praʊd" />
+  <word en="prove" pos="vt. / vi." zh="证明" phonetic="pruːv" />
+  <word en="province" pos="n." zh="省" phonetic="'prɒvɪns" />
+  <word en="psychology" pos="n." zh="心理学" phonetic="saɪ'kɑːlədʒi" />
+  <word en="publicly" pos="adv." zh="当众；公开地" phonetic="'pʌblɪklɪ" />
+  <word en="pulse" pos="n. / vi." zh="脉搏，(光、能量、波等的)脉动，搏动" phonetic="pʌls" />
+  <word en="pump" pos="n. / vt." zh="用泵抽水" phonetic="pʌmp" />
+  <word en="punctual" pos="adj." zh="准时的" phonetic="'pʌŋktʃuəl" />
+  <word en="punctuate" pos="vt. / vi." zh="加标点" phonetic="'pʌŋktjueit" />
+  <word en="punctuation" pos="n." zh="标点符号" phonetic="pʌŋ(k)tʃʊ'eɪʃ(ə)n; -tjʊ-" />
+  <word en="punish" pos="vt. / vi." zh="惩罚，处罚" phonetic="'pʌnɪʃ" />
+  <word en="punishment" pos="n." zh="惩罚" phonetic="'pʌnɪʃm(ə)nt" />
+  <word en="pupil" pos="n." zh="(小)学生" phonetic="'pjuːpɪl; -p(ə)l" />
+  <word en="purchase" pos="n. / vt." zh="购买，采购" phonetic="'pɜːrtʃəs" />
+  <word en="pure" pos="adj." zh="纯的， 不掺杂的" phonetic="pjur" />
+  <word en="purse" pos="n. / v." zh="钱包" phonetic="pɜːs" />
+  <word en="puzzle" pos="n. / vt." zh="难题，(字、画)谜" phonetic="'pʌzl" />
+  <word en="puzzled" pos="adj." zh="迷惑的，困惑的" phonetic="'pʌzld" />
+  <word en="pyramid" pos="n. / v." zh="角锥形，金字塔" phonetic="'pɪrəmɪd" />
+  <word en="quake" pos="vi. / n." zh="震动，颤抖" phonetic="kweɪk" />
+  <word en="qualification" pos="n." zh="资格，学历" phonetic=",kwɒlɪfɪ'keɪʃ(ə)n" />
+  <word en="quarrel" pos="n. / vi." zh="争吵，吵架" phonetic="'kwɒr(ə)l" />
+  <word en="questionnaire" pos="n." zh="调查表，问卷" phonetic="ˌkwestʃə'ner" />
+  <word en="queue" pos="n. / vt." zh="行列，长队" phonetic="kjuː" />
+  <word en="quilt" pos="n. / vt." zh="被子；被状物" phonetic="kwɪlt" />
+  <word en="quit" pos="vi. / vt." zh="离任，离校，戒掉" phonetic="kwɪt" />
+  <word en="quiz" pos="n. / vt." zh="测验，小型考试" phonetic="kwɪz" />
+  <word en="rabbit" pos="n. / vi." zh="兔，家兔" phonetic="'ræbɪt" />
+  <word en="racial" pos="adj." zh="种族的" phonetic="'reɪʃ(ə)l" />
+  <word en="radiation" pos="n." zh="放射，放射物" phonetic="ˌreɪdi'eɪʃn" />
+  <word en="radioactive" pos="adj." zh="放射性的" phonetic="'reɪdiou'æktɪv" />
+  <word en="radium" pos="n." zh="镭" phonetic="'reɪdɪəm" />
+  <word en="rag" pos="n. / vt." zh="破布，抹布" phonetic="ræg" />
+  <word en="rail" pos="n. / vt." zh="铁路" phonetic="reɪl" />
+  <word en="rainbow" pos="n. / adj." zh="虹，彩虹" phonetic="'reɪnbou" />
+  <word en="raincoat" pos="n." zh="雨衣" phonetic="'reɪnkəʊt" />
+  <word en="rainfall" pos="n." zh="一场雨；降雨量" phonetic="'reɪnfɔːl" />
+  <word en="rainy" pos="adj." zh="下雨的；多雨的" phonetic="'reɪnɪ" />
+  <word en="random" pos="n. / adj." zh="随意，未经事先考虑的" phonetic="'rændəm" />
+  <word en="range" pos="n. / vt." zh="变化，变动，排序" phonetic="reɪndʒ" />
+  <word en="rank" pos="n. / adj." zh="职衔，军衔" phonetic="ræŋk" />
+  <word en="rapid" pos="adj. / n." zh="快的，迅速的" phonetic="'ræpɪd" />
+  <word en="rare" pos="adj. / adv." zh="罕见的，稀有的" phonetic="rer" />
+  <word en="rat" pos="n. / vi." zh="老鼠" phonetic="ræt" />
+  <word en="raw" pos="n. / adj." zh="生的，未煮过的，未加工的" phonetic="rɔː" />
+  <word en="ray" pos="n. / vi." zh="光辉，光线" phonetic="reɪ" />
+  <word en="razor" pos="n. / vt." zh="剃须刀" phonetic="'reɪzə" />
+  <word en="realise" pos="vt." zh="认识到，实现" phonetic="'rɪəlaɪz" />
+  <word en="reality" pos="n." zh="现实" phonetic="rɪ'ælɪtɪ" />
+  <word en="reasonable" pos="adj." zh="合乎情理的" phonetic="'riːznəbl" />
+  <word en="rebuild" pos="vt. / vi." zh="重建" phonetic="riː'bɪld" />
+  <word en="receipt" pos="n. / vt." zh="收据" phonetic="rɪ'siːt" />
+  <word en="receiver" pos="n." zh="电话听筒" phonetic="rɪ'siːvər" />
+  <word en="receptionist" pos="n." zh="接待员" phonetic="rɪ'sepʃ(ə)nɪst" />
+  <word en="recite" pos="v." zh="背诵" phonetic="rɪ'saɪt" />
+  <word en="recognise" pos="vt." zh="认出" phonetic="ˈrekəɡnaɪz" />
+  <word en="recorder" pos="n." zh="录音机" phonetic="rɪ'kɔːdə" />
+  <word en="recover" pos="vt. / vi." zh="痊愈；恢复" phonetic="rɪ'kʌvər" />
+  <word en="recreation" pos="n." zh="娱乐，消遣" phonetic="ˌrekri'eɪʃn" />
+  <word en="rectangle" pos="n." zh="长方形，长方形的" phonetic="'rektæŋgl" />
+  <word en="redirect" pos="vt." zh="使改变，使转移" phonetic="ˌriːdi'rekt" />
+  <word en="referee" pos="n. / v." zh="裁判，仲裁，调解员" phonetic="refə'riː" />
+  <word en="reference" pos="n. / vt." zh="提到，涉及，谈及，查询" phonetic="'refrəns" />
+  <word en="reflect" pos="vt. / vi." zh="反映，反射" phonetic="rɪ'flekt" />
+  <word en="reform" pos="n. / vt." zh="改革，改进，改良" phonetic="rɪ'fɔːrm" />
+  <word en="refresh" pos="vt. / vi." zh="使恢复精力，提醒" phonetic="rɪ'freʃ" />
+  <word en="refreshments" pos="n." zh="点心，便餐；(会议后的)简单茶点招待" phonetic="rɪ'freʃm(ə)nts" />
+  <word en="refrigerator" pos="n." zh="冰箱" phonetic="rɪ'frɪdʒəreɪtə" />
+  <word en="refusal" pos="n." zh="拒绝" phonetic="ri'fjuːzl" />
+  <word en="regard" pos="n. / vt." zh="把……看作" phonetic="rɪ'gɑːd" />
+  <word en="regardless" pos="adj." zh="不顾，不加理会" phonetic="rɪ'gɑːrdləs" />
+  <word en="regards" pos="n." zh="问候，致意" phonetic="ri'ga:dz" />
+  <word en="register" pos="n. / vt." zh="登记簿，花名册，注册员；登记，注册" phonetic="'redʒɪstər" />
+  <word en="regret" pos="n. / vt." zh="可惜，遗憾；痛惜；哀悼" phonetic="rɪ'gret" />
+  <word en="regulation" pos="n." zh="规则，规章" phonetic="regjʊ'leɪʃ(ə)n" />
+  <word en="reject" pos="n. / vt." zh="拒绝" phonetic="rɪ'dʒekt" />
+  <word en="relate" pos="vt. / vi." zh="有关；涉及" phonetic="rɪ'leɪt" />
+  <word en="relation" pos="n." zh="关系；亲属" phonetic="rɪ'leɪʃ(ə)n" />
+  <word en="relative" pos="n. / adj." zh="亲属，亲戚" phonetic="'relətɪv" />
+  <word en="relay" pos="n. / vt." zh="接力，接替人，中转；接替，补充；转运" phonetic="'riːleɪ" />
+  <word en="relevant" pos="adj." zh="紧密相关，有意义的" phonetic="'reləvənt" />
+  <word en="reliable" pos="adj." zh="可信赖的，可依靠的" phonetic="rɪ'laɪəbl" />
+  <word en="relief" pos="n." zh="轻松，解脱，缓和，救济" phonetic="rɪ'liːf" />
+  <word en="religion" pos="n." zh="宗教" phonetic="rɪ'lɪdʒən" />
+  <word en="religious" pos="adj. / n." zh="宗教的" phonetic="rɪ'lɪdʒəs" />
+  <word en="rely" pos="vi." zh="依赖，依靠" phonetic="rɪ'laɪ" />
+  <word en="remain" pos="vi." zh="余下，留下保持，仍是" phonetic="rɪ'meɪn" />
+  <word en="remark" pos="n. / vt." zh="陈述；话；议论" phonetic="rɪ'mɑːrk" />
+  <word en="remind" pos="vt." zh="提醒，使记起" phonetic="rɪ'maɪnd" />
+  <word en="remote" pos="adj." zh="偏远的，偏僻的" phonetic="rɪ'mout" />
+  <word en="rent" pos="n. / vt." zh="租金" phonetic="rent" />
+  <word en="repairs" pos="n." zh="修理工作" phonetic="rɪˈpeə(r)" />
+  <word en="represent" pos="vt. / vi." zh="代表" phonetic="ˌreprɪ'zent" />
+  <word en="representative" pos="n. / adj." zh="代表，典型人物" phonetic="ˌreprɪ'zentətɪv" />
+  <word en="republic" pos="n." zh="共和国" phonetic="rɪ'pʌblɪk" />
+  <word en="reputation" pos="n." zh="名声，名誉" phonetic="ˌrepju'teɪʃn" />
+  <word en="require" pos="vt." zh="需求；要求" phonetic="rɪ'kwaɪə" />
+  <word en="requirement" pos="n." zh="需要；要求；必要的条件" phonetic="rɪ'kwaɪəm(ə)nt" />
+  <word en="rescue" pos="n. / vt." zh="营救，援救" phonetic="'reskjuː" />
+  <word en="resemble" pos="vt." zh="(不用进行时)像，看起来像" phonetic="rɪ'zembl" />
+  <word en="reservation" pos="n." zh="预定" phonetic="ˌrezər'veɪʃn" />
+  <word en="reserve" pos="n. / vt." zh="储备；预定" phonetic="rɪ'zɜːrv" />
+  <word en="resign" pos="vt. / vi." zh="辞职" phonetic="rɪ'zaɪn" />
+  <word en="resist" pos="v. / n." zh="抵抗；挡开" phonetic="rɪ'zɪst" />
+  <word en="respect" pos="n. / vt." zh="尊敬，尊重" phonetic="rɪ'spekt" />
+  <word en="responsibility" pos="n." zh="责任，负责" phonetic="rɪˌspɒnsəˈbɪlətɪ" />
+  <word en="restrict" pos="vt." zh="限制" phonetic="rɪ'strɪkt" />
+  <word en="restriction" pos="n." zh="限制，约束" phonetic="rɪ'strɪkʃ(ə)n" />
+  <word en="retell" pos="vt." zh="重讲，重复，复述" phonetic="riː'tel" />
+  <word en="retire" pos="n. / vi." zh="退休" phonetic="rɪ'taɪər" />
+  <word en="reuse" pos="vt. / n." zh="重新使用；循环使用" phonetic="riː'juːz" />
+  <word en="reviewer" pos="n." zh="评论者；书评家" phonetic="rɪ'vjuːə" />
+  <word en="revision" pos="n." zh="复习，温习" phonetic="rɪ'vɪʒ(ə)n" />
+  <word en="revolution" pos="n." zh="革命，变革" phonetic="ˌrevə'luːʃn" />
+  <word en="reward" pos="n. / vt." zh="奖赏" phonetic="rɪ'wɔːrd" />
+  <word en="rewind" pos="vt. / n." zh="回转(磁带等)" phonetic="riː'waɪnd" />
+  <word en="rewrite" pos="vt. / vi." zh="重写" phonetic="riː'raɪt" />
+  <word en="rhyme" pos="n. / vi." zh="押韵" phonetic="raɪm" />
+  <word en="rid" pos="vt." zh="使摆脱" phonetic="rɪd" />
+  <word en="riddle" pos="n. / vt." zh="谜(语)" phonetic="'rɪdl" />
+  <word en="ridiculous" pos="adj." zh="荒谬的，愚蠢的" phonetic="rɪ'dɪkjələs" />
+  <word en="right-handed" pos="adj." zh="惯用右手的" phonetic="raɪt-hænd" />
+  <word en="right-wing" pos="adj." zh="右翼" phonetic="raɪt-wɪŋ" />
+  <word en="rigid" pos="adj." zh="死板的，僵硬的，固执的" phonetic="'rɪdʒɪd" />
+  <word en="ring-road" pos="n." zh="环形公路" phonetic="rɪŋ-rəʊd" />
+  <word en="ripe" pos="adj." zh="成熟的，熟的" phonetic="raɪp" />
+  <word en="ripen" pos="vt. / vi." zh="成熟" phonetic="'raɪpən" />
+  <word en="risk" pos="n. / vt." zh="危险，风险，冒险" phonetic="rɪsk" />
+  <word en="roast" pos="n. / adj." zh="烤(肉)" phonetic="rəʊst" />
+  <word en="rob" pos="v." zh="抢夺，抢劫" phonetic="rɑːb" />
+  <word en="robot" pos="n." zh="机器人" phonetic="'rəʊbɒt" />
+  <word en="rocket" pos="n. / vi." zh="火箭" phonetic="'rɒkɪt" />
+  <word en="roll" pos="n. / vi." zh="滚动， 打滚；面包圈，小圆面包；卷状物" phonetic="roul" />
+  <word en="roller" pos="n." zh="滚筒；辊" phonetic="'rəʊlə" />
+  <word en="rooster" pos="n." zh="(美)公鸡" phonetic="'ruːstə" />
+  <word en="root" pos="n. / vt." zh="根，根源，起源" phonetic="ruːt" />
+  <word en="rope" pos="n. / vt." zh="绳，索" phonetic="rəʊp" />
+  <word en="rose" pos="n. / adj." zh="玫瑰花" phonetic="rəʊz" />
+  <word en="rot" pos="n. / vi." zh="烂；腐败" phonetic="rɒt" />
+  <word en="rough" pos="n. / adj." zh="粗糙的，粗略的" phonetic="rʌf" />
+  <word en="roundabout" pos="adj. / n." zh="绕道的，不直接的；转盘路" phonetic="'raʊndəbaʊt" />
+  <word en="row" pos="n. / vt." zh="(一)排，(一)行；划船" phonetic="rəʊ" />
+  <word en="royal" pos="n. / adj." zh="皇家的，王室的，国王的，女王的" phonetic="'rɒɪəl" />
+  <word en="rubber" pos="n. / vt." zh="橡胶；合成橡胶" phonetic="'rʌbə" />
+  <word en="rugby" pos="n." zh="(英)橄榄球" phonetic="'rʌgbi" />
+  <word en="ruin" pos="n. / vi." zh="(使)毁坏；(使)；毁灭" phonetic="'ruːɪn" />
+  <word en="ruler" pos="n." zh="统治者；直尺" phonetic="'ruːlə" />
+  <word en="rush" pos="n. / vi." zh="冲，奔跑" phonetic="rʌʃ" />
+  <word en="Russia" pos="n." zh="俄罗斯，俄国" phonetic="'rʌʃə" />
+  <word en="Russian" pos="n. / adj." zh="俄国人的，俄语的；俄国人，俄语" phonetic="'rʌʃ(ə)n" />
+  <word en="sacred" pos="adj." zh="害怕，恐惧，担心" phonetic="'seɪkrɪd" />
+  <word en="sacrifice" pos="n. / vt." zh="牺牲" phonetic="'sækrɪfaɪs" />
+  <word en="sadness" pos="n." zh="悲哀，忧伤" phonetic="'sædnəs" />
+  <word en="safety" pos="n. / vt." zh="安全，保险" phonetic="'seɪftɪ" />
+  <word en="sailor" pos="n." zh="水手，海员" phonetic="'seɪlə" />
+  <word en="salesgirl" pos="n." zh="女售货员" phonetic="ˈseɪlzɡɜːl" />
+  <word en="salesman" pos="n." zh="男售货员" phonetic="'seɪlzmən" />
+  <word en="saleswoman" pos="n." zh="女售货员" phonetic="'seɪlz,wʊmən" />
+  <word en="salty" pos="adj." zh="盐的，咸的，含盐的" phonetic="'sɔːltɪ; 'sɒ-" />
+  <word en="salute" pos="vi. / vt." zh="敬礼" phonetic="sə'l(j)uːt" />
+  <word en="sand" pos="n. / vt." zh="沙，沙子" phonetic="sænd" />
+  <word en="satellite" pos="n." zh="卫星" phonetic="'sætəlaɪt" />
+  <word en="satisfaction" pos="n." zh="满意" phonetic="sætɪs'fækʃ(ə)n" />
+  <word en="satisfy" pos="vt. / vi." zh="满足，使满意" phonetic="'sætɪsfaɪ" />
+  <word en="saucer" pos="n." zh="茶碟，茶托，小圆盘" phonetic="'sɔːsə" />
+  <word en="sausage" pos="n." zh="香肠，腊肠" phonetic="'sɒsɪdʒ" />
+  <word en="savage" pos="adj. / vt." zh="野蛮人，未开化的人" phonetic="'sævɪdʒ" />
+  <word en="saying" pos="n." zh="说，俗话，谚语" phonetic="'seɪɪŋ" />
+  <word en="scan" pos="n. / vt." zh="略读，浏览，扫描" phonetic="skæn" />
+  <word en="scar" pos="n. / vi." zh="伤疤，伤痕" phonetic="skɑːr" />
+  <word en="scare" pos="n. / vt." zh="使害怕，使恐惧" phonetic="skeə" />
+  <word en="scarf" pos="n. / vt." zh="领巾，围巾" phonetic="skɑːf" />
+  <word en="scenery" pos="n." zh="风景，景色，风光" phonetic="'siːn(ə)rɪ" />
+  <word en="sceptical" pos="adj." zh="怀疑的" phonetic="'skeptɪk(ə)l" />
+  <word en="scholar" pos="n." zh="学者" phonetic="'skɑːlər" />
+  <word en="scholarship" pos="n." zh="奖学金" phonetic="'skɑːlərʃɪp" />
+  <word en="school-leaver" pos="n." zh="(英)学校毕业生" phonetic="'sku:l,li:və" />
+  <word en="schoolbag" pos="n." zh="书包" phonetic="'skuːlbæɡ" />
+  <word en="schoolmate" pos="n." zh="同校同学" phonetic="'skuːlmeɪt" />
+  <word en="scientific" pos="adj." zh="科学的" phonetic="ˌsaɪən'tɪfɪk" />
+  <word en="scissors" pos="pl." zh="剪刀，剪子" phonetic="'sɪzəz" />
+  <word en="scold" pos="n. / v." zh="责骂" phonetic="skəʊld" />
+  <word en="scores" pos="n." zh="许多，很多" phonetic="skɔːz" />
+  <word en="Scotland" pos="n." zh="苏格兰" phonetic="'skɔtlənd" />
+  <word en="Scottish" pos="adj." zh="苏格兰(人)的；苏格兰人" phonetic="'skɔtiʃ" />
+  <word en="scratch" pos="n. / vt." zh="划破，划痕，划伤" phonetic="skrætʃ" />
+  <word en="scream" pos="n. / vi." zh="尖叫" phonetic="skriːm" />
+  <word en="sculpture" pos="n. / vt." zh="雕塑(术)，雕刻(术)，雕刻作品，雕像" phonetic="'skʌlptʃər" />
+  <word en="seagull" pos="n." zh="海鸥" phonetic="'siːgʌl" />
+  <word en="seal" pos="n. / vt." zh="海豹" phonetic="siːl" />
+  <word en="seaman" pos="n." zh="水手；海员" phonetic="'siːmən" />
+  <word en="seashell" pos="n." zh="海贝" phonetic="'siːʃel" />
+  <word en="seaside" pos="adj. / n." zh="海滨" phonetic="'siːsaɪd" />
+  <word en="seaweed" pos="n." zh="海草，海藻，海带" phonetic="'siːwiːd" />
+  <word en="secondhand" pos="adj. / adv." zh="二手货；旧货" phonetic="'sekənd'hænd" />
+  <word en="secure" pos="adj. / vt." zh="安心的，有把握的，牢靠的" phonetic="sə'kjur" />
+  <word en="security" pos="n." zh="安全，平安" phonetic="sɪ'kjʊərətɪ" />
+  <word en="see-saw" pos="n. / vi." zh="跷跷板(游戏)" phonetic="siː-sɔː" />
+  <word en="seed" pos="n. / vt." zh="种子" phonetic="siːd" />
+  <word en="seek" pos="vt. / vi." zh="试图；探寻" phonetic="siːk" />
+  <word en="seize" pos="vt. / vi." zh="抓住(时机等)" phonetic="siːz" />
+  <word en="seldom" pos="adj. / adv." zh="很少，不常" phonetic="'seldəm" />
+  <word en="select" pos="adj. / v." zh="选择，挑选，选拔" phonetic="sɪ'lekt" />
+  <word en="self" pos="n. / vt." zh="自己，自我，自身" phonetic="self" />
+  <word en="self-service" pos="n." zh="自助，自我服务的" phonetic="self-ˈsɜːvɪs" />
+  <word en="selfish" pos="adj." zh="自私的" phonetic="'selfɪʃ" />
+  <word en="semicircle" pos="n." zh="半圆" phonetic="'semɪsɜːkl" />
+  <word en="senior" pos="n. / adj." zh="年长的，资深的，高年级的；上级，长辈，高年级生" phonetic="'siːniər" />
+  <word en="sensitive" pos="adj." zh="体贴的，善解人意的" phonetic="'sensətɪv" />
+  <word en="separately" pos="adv." zh="单独地，各自地" phonetic="'sep(ə)rətlɪ" />
+  <word en="separation" pos="n." zh="分离，隔离" phonetic="sepə'reɪʃ(ə)n" />
+  <word en="servant" pos="n." zh="仆人，佣人" phonetic="'sɜːv(ə)nt" />
+  <word en="service-charge" pos="n." zh="服务费，小费" phonetic="ˈsɜːvɪs-tʃɑːdʒ" />
+  <word en="session" pos="n." zh="一场，一节，一段时间" phonetic="'seʃn" />
+  <word en="set" pos="n. / vt." zh="释放，安置；装备，设备" phonetic="set" />
+  <word en="settle" pos="n. / vt." zh="安家，定居" phonetic="'setl" />
+  <word en="settlement" pos="n." zh="新拓居地；(美)部落，村落" phonetic="'set(ə)lm(ə)nt" />
+  <word en="settler" pos="n." zh="移居者，开拓者" phonetic="'setlə" />
+  <word en="seventh" pos="num." zh="第七" phonetic="'sev(ə)nθ" />
+  <word en="severe" pos="adj." zh="极为恶劣，十分严重的" phonetic="sɪ'vɪr" />
+  <word en="sew" pos="vt. / vi." zh="缝， 缝制；缝补；缝纫" phonetic="sou" />
+  <word en="sex" pos="n. / vt." zh="性，性别" phonetic="seks" />
+  <word en="shabby" pos="adj." zh="破旧，破烂，衣衫褴褛的" phonetic="'ʃæbɪ" />
+  <word en="shade" pos="n. / vi." zh="阴凉处，树荫处" phonetic="ʃeɪd" />
+  <word en="shadow" pos="n. / vt." zh="影子， 阴影" phonetic="'ʃædəʊ" />
+  <word en="shallow" pos="n. / adj." zh="浅的，不深的，肤浅的" phonetic="'ʃælou" />
+  <word en="shame" pos="n. / vt." zh="遗憾的事；羞愧" phonetic="ʃeɪm" />
+  <word en="Shanghai" pos="n. / adj." zh="上海" phonetic="ʃæŋˈhaɪ" />
+  <word en="shark" pos="n. / v." zh="鲨鱼" phonetic="ʃɑːk" />
+  <word en="sharp" pos="n. / adj." zh="锋利的，尖的" phonetic="ʃɑːp" />
+  <word en="sharpen" pos="vt. / vi." zh="(使)变锐利，削尖" phonetic="'ʃɑːrpən" />
+  <word en="sharpener" pos="n." zh="削尖用的器具" phonetic="'ʃɑːpənə" />
+  <word en="shave" pos="n. / vt." zh="刮(脸，胡子)" phonetic="ʃeɪv" />
+  <word en="shaver" pos="n." zh="电动剃须刀" phonetic="'ʃeɪvə" />
+  <word en="shelf" pos="n." zh="架子；搁板；格层" phonetic="ʃelf" />
+  <word en="shelter" pos="n. / vt." zh="掩蔽；隐蔽处" phonetic="'ʃeltər" />
+  <word en="shine" pos="n. / vt." zh="光泽；光彩；阳光" phonetic="ʃaɪn" />
+  <word en="shock" pos="n. / vt." zh="使震惊" phonetic="ʃɒk" />
+  <word en="shoot" pos="n. / vt." zh="射击，射中，发射；嫩枝；苗" phonetic="ʃuːt" />
+  <word en="shooting" pos="n." zh="射击" phonetic="'ʃuːtɪŋ" />
+  <word en="shopkeeper" pos="n." zh="店主，零售商人" phonetic="'ʃɒpkiːpə" />
+  <word en="shore" pos="n. / vt." zh="滨，岸" phonetic="ʃɔːr" />
+  <word en="shortcoming" pos="n." zh="缺点，短处" phonetic="'ʃɔːtkʌmɪŋ" />
+  <word en="shortly" pos="adv." zh="不久" phonetic="'ʃɔːrtli" />
+  <word en="shorts" pos="n." zh="短裤；运动短裤" phonetic="ʃɔːts" />
+  <word en="shortwave" pos="n. / vt." zh="短波" phonetic="'ʃɔːt'weɪv" />
+  <word en="shrink" pos="n. / vi." zh="缩小，收缩，减少" phonetic="ʃrɪŋk" />
+  <word en="shuttle" pos="n. / v." zh="合拢；(往返与两个定点之间的)(火车汽车飞机)班车/机" phonetic="'ʃʌtl" />
+  <word en="shy" pos="n. / adj." zh="害羞的" phonetic="ʃaɪ" />
+  <word en="sickness" pos="n." zh="疾病，(想)呕吐" phonetic="'sɪknɪs" />
+  <word en="sideway" pos="n." zh="人行道；岔路，旁路" phonetic="ˈsaɪdweɪz" />
+  <word en="sideways" pos="adv. / adj." zh="斜向一边的" phonetic="'saɪdweɪz" />
+  <word en="sigh" pos="n. / vi." zh="叹息；叹气" phonetic="saɪ" />
+  <word en="sight" pos="n. / vt." zh="情景，风景；视力" phonetic="saɪt" />
+  <word en="sightseeing" pos="n. / adj." zh="游览，观光" phonetic="'saɪtsiːɪŋ" />
+  <word en="signal" pos="n. / vt." zh="信号，暗号" phonetic="'sɪgnəl" />
+  <word en="signature" pos="n." zh="签名" phonetic="'sɪgnətʃə" />
+  <word en="significance" pos="n." zh="重要性，意义" phonetic="sɪg'nɪfɪk(ə)ns" />
+  <word en="silence" pos="n. / vt." zh="安静，沉默" phonetic="'saɪləns" />
+  <word en="silent" pos="adj." zh="无声的，无对话的" phonetic="'saɪlənt" />
+  <word en="silk" pos="n. / adj." zh="(蚕)丝，丝织品" phonetic="sɪlk" />
+  <word en="silly" pos="adj." zh="傻的，愚蠢的" phonetic="'sɪlɪ" />
+  <word en="simple-minded" pos="adj." zh="纯朴，头脑简单" phonetic="ˈsɪmp(ə)l maɪndɪ" />
+  <word en="simplify" pos="vt." zh="使简化，使简易" phonetic="'sɪmplɪfaɪ" />
+  <word en="simply" pos="adv." zh="简单地，(加强语气)的确" phonetic="'sɪmplɪ" />
+  <word en="sincerely" pos="adv." zh="真诚地" phonetic="sɪn'sɪəlɪ" />
+  <word en="sink" pos="n. / vi." zh="洗涤槽；污水槽；下沉" phonetic="sɪŋk" />
+  <word en="sister-in-law" pos="n." zh="嫂，弟媳" phonetic="ˈsɪstə(r) -ɪn-lɔː" />
+  <word en="sixteenth" pos="num." zh="第十六" phonetic="'sɪks'tiːnθ" />
+  <word en="sixth" pos="num." zh="第六" phonetic="sɪksθ" />
+  <word en="skate" pos="n. / vi." zh="溜冰，滑冰" phonetic="skeɪt" />
+  <word en="skateboard" pos="n." zh="冰鞋，滑板" phonetic="'skeɪtbɔːd" />
+  <word en="skilled" pos="adj." zh="熟练的；有技能的" phonetic="skɪld" />
+  <word en="skillful" pos="adj." zh="熟练，精湛的，灵巧的" phonetic="'skilful" />
+  <word en="skillfully" pos="adv." zh="精湛地，巧妙地" phonetic="ˈskilfuli" />
+  <word en="skip" pos="n. / vi." zh="蹦蹦跳跳；跳绳" phonetic="skɪp" />
+  <word en="skipping" pos="n." zh="跳绳" phonetic="skɪpɪŋ" />
+  <word en="skyscraper" pos="n." zh="摩天楼" phonetic="'skaɪskreɪpər" />
+  <word en="slave" pos="n. / vi." zh="奴隶" phonetic="sleɪv" />
+  <word en="slavery" pos="n." zh="奴隶制度" phonetic="'sleɪv(ə)rɪ" />
+  <word en="sleepy" pos="adj." zh="想睡的，困倦的，瞌睡的" phonetic="'sliːpɪ" />
+  <word en="sleeve" pos="n. / vt." zh="袖子，袖套" phonetic="sliːv" />
+  <word en="slice" pos="n. / vt." zh="片，切面(薄)片" phonetic="slaɪs" />
+  <word en="slide" pos="n. / vt." zh="幻灯片，滑道；滑行，滑动" phonetic="slaɪd" />
+  <word en="slight" pos="n. / adj." zh="轻微的，细小的" phonetic="slaɪt" />
+  <word en="slim" pos="adj. / vi." zh="苗条的，纤细的" phonetic="slɪm" />
+  <word en="slip" pos="n. / vi." zh="片，条，纸片，纸条" phonetic="slɪp" />
+  <word en="smart" pos="adj. / n." zh="灵巧的，伶俐的；(人、服装等)时髦的，帅的" phonetic="smɑːt" />
+  <word en="smelly" pos="adj." zh="有臭味的，发出臭味的" phonetic="'smelɪ" />
+  <word en="smog" pos="n." zh="烟雾(+ fog)" phonetic="smɒg" />
+  <word en="smoke-free" pos="adj." zh="非吸烟的，无烟的" phonetic="sməʊk-friː" />
+  <word en="smoker" pos="n." zh="吸烟者" phonetic="'sməʊkə" />
+  <word en="smooth" pos="adj. / vt." zh="光滑的；平坦的" phonetic="smuːð" />
+  <word en="snack" pos="n. / vi." zh="小吃" phonetic="snæk" />
+  <word en="snatch" pos="n. / vt." zh="夺，夺得，夺走" phonetic="sneɪk" />
+  <word en="sneaker" pos="n." zh="(复)轻便运动鞋(美)" phonetic="'sniːkər" />
+  <word en="sneeze" pos="n. / vi." zh="打喷嚏" phonetic="sniːz" />
+  <word en="sniff" pos="n. / vi." zh="抽鼻子(哭，患感冒时)" phonetic="snɪf" />
+  <word en="snowball" pos="n. / vt." zh="雪球" phonetic="'snəʊbɔːl" />
+  <word en="snowman" pos="n." zh="雪人" phonetic="'snəʊmæn" />
+  <word en="snowy" pos="adj." zh="雪(白)的；下雪的；多(积)雪的" phonetic="'snəʊɪ" />
+  <word en="so-so" pos="adj. / adv." zh="一般；不怎么样；凑合" phonetic="səʊ-səʊ" />
+  <word en="sob" pos="vi. / vt." zh="抽泣，啜泣" phonetic="sɒb" />
+  <word en="socialism" pos="n." zh="社会主义" phonetic="'səʊʃəlɪz(ə)m" />
+  <word en="socialist" pos="n." zh="社会主义的" phonetic="'səʊʃ(ə)lɪst; 'səʊʃəlɪst" />
+  <word en="socket" pos="n. / vt." zh="(电源)插座" phonetic="'sɒkɪt" />
+  <word en="sofa" pos="n." zh="(长)沙发" phonetic="'səʊfə" />
+  <word en="softball" pos="n." zh="垒球" phonetic="'sɒf(t)bɔːl" />
+  <word en="softdrink" pos="n." zh="(不含酒精)清凉饮料" phonetic="[sɔft drɪŋk]" />
+  <word en="software" pos="n." zh="软件" phonetic="'sɒf(t)weə" />
+  <word en="soil" pos="n. / vt." zh="土壤，土地" phonetic="sɔɪl" />
+  <word en="solar" pos="adj." zh="太阳的" phonetic="'səʊlə" />
+  <word en="solid" pos="n. / adj." zh="结实的，固体的；固体" phonetic="'sɑːlɪd" />
+  <word en="sorrow" pos="n. / vi." zh="悲伤，悲痛" phonetic="'sɒrəʊ" />
+  <word en="soul" pos="n. / adj." zh="灵魂；心灵；气魄" phonetic="səʊl" />
+  <word en="sour" pos="adj. / vi." zh="酸的，馊的" phonetic="saʊə" />
+  <word en="southeast" pos="n. / adj." zh="东南" phonetic=",saʊθ'iːst" />
+  <word en="southern" pos="n. / adj." zh="南部的，南方的" phonetic="'sʌð(ə)n" />
+  <word en="southwest" pos="n. / adj." zh="西南" phonetic=",saʊθ'west" />
+  <word en="souvenirs" pos="n." zh="旅游纪念品，纪念物" phonetic=",suːvə'nɪəz" />
+  <word en="sow" pos="n. / vt." zh="播种" phonetic="sou" />
+  <word en="spaceship" pos="n." zh="宇宙飞船" phonetic="'speɪsʃɪp" />
+  <word en="spade" pos="n. / vt." zh="铲子；纸牌中的黑桃" phonetic="speɪd" />
+  <word en="spaghetti" pos="n." zh="意大利式面条" phonetic="spəˈɡeti" />
+  <word en="Spain" pos="n." zh="西班牙" phonetic="spein" />
+  <word en="Spanish" pos="n. / adj." zh="西班牙人的，西班牙的，西班牙语的；西班牙语" phonetic="'spænɪʃ" />
+  <word en="spare" pos="n. / adj." zh="空闲，多余的，剩余的" phonetic="speə" />
+  <word en="sparrow" pos="n." zh="麻雀，雀型鸟类" phonetic="'spærəʊ" />
+  <word en="spear" pos="n. / vt." zh="矛，枪，梭镖" phonetic="spɪr" />
+  <word en="specialist" pos="n. / adj." zh="(医学)专家，专科医生；专家；专业人员" phonetic="'speʃ(ə)lɪst" />
+  <word en="spin" pos="n. / vt." zh="纺，(使)快速旋转；旋转，旋转运动" phonetic="spɪn" />
+  <word en="spirit" pos="n. / vt." zh="精神" phonetic="'spɪrɪt" />
+  <word en="spiritual" pos="adj. / n." zh="精神的；心灵的" phonetic="'spɪrɪtʃʊəl; -tjʊəl" />
+  <word en="spit" pos="n. / vt." zh="吐唾沫；吐痰" phonetic="spɪt" />
+  <word en="splendid" pos="adj." zh="灿烂的，辉煌的；(口语)极好的" phonetic="'splendɪd" />
+  <word en="split" pos="n. / adj." zh="撕开；切开" phonetic="splɪt" />
+  <word en="spoken" pos="adj." zh="口语的" phonetic="'spəʊk(ə)n" />
+  <word en="spokesman" pos="n." zh="发言人" phonetic="ˈspəʊkən mæn" />
+  <word en="sponsor" pos="n. / vt." zh="赞助者，赞助商" phonetic="'spɑːnsər" />
+  <word en="spoonful" pos="n." zh="一匙(的量)" phonetic="'spuːnfʊl" />
+  <word en="spot" pos="n. / adj." zh="斑点，污点；场所，地点；沾上污渍，弄脏" phonetic="spɑːt" />
+  <word en="spray" pos="n. / vt." zh="水雾，喷雾(器)喷洒" phonetic="spreɪ" />
+  <word en="spread" pos="n. / adj." zh="延伸；展开" phonetic="spred" />
+  <word en="spy" pos="n. / vt." zh="密探，间谍；侦探，刺探" phonetic="spaɪ" />
+  <word en="squeeze" pos="n. / vt." zh="挤压，捏，塞" phonetic="skwiːz" />
+  <word en="squid" pos="n." zh="鱿鱼" phonetic="skwɪd" />
+  <word en="squirrel" pos="n. / vt." zh="松鼠" phonetic="'skwɜːrəl" />
+  <word en="stable" pos="n. / adj." zh="稳固的，牢固的" phonetic="'steɪbl" />
+  <word en="stadium" pos="n." zh="(露天)体育场" phonetic="'steɪdɪəm" />
+  <word en="staff" pos="n. / adj." zh="全体职工(雇员)" phonetic="stæf" />
+  <word en="stain" pos="n. / vt." zh="污点，污渍，染色剂" phonetic="steɪn" />
+  <word en="stainless" pos="adj." zh="无污点的" phonetic="'steɪnlɪs" />
+  <word en="standard" pos="n. / adj." zh="标准(的)" phonetic="'stændəd" />
+  <word en="stare" pos="vi. / vt." zh="盯，凝视" phonetic="steə" />
+  <word en="starvation" pos="n." zh="饥饿；饿死" phonetic="stɑː'veɪʃn" />
+  <word en="starve" pos="v." zh="饿死" phonetic="stɑːv" />
+  <word en="statesman" pos="n." zh="政治家" phonetic="'steɪtsmən" />
+  <word en="statistics" pos="n." zh="统计数字，统计资料，统计学" phonetic="stə'tɪstɪks" />
+  <word en="statue" pos="vt. / n." zh="法令，法规，章程" phonetic="'stætʃuː" />
+  <word en="status" pos="n." zh="法律地位(身份)" phonetic="'steɪtəs" />
+  <word en="steady" pos="adj. / vt." zh="稳固的；平稳的" phonetic="'stedi" />
+  <word en="steak" pos="n." zh="牛排，肉排，鱼排" phonetic="steɪk" />
+  <word en="steam" pos="n. / adj." zh="汽，水蒸气" phonetic="stiːm" />
+  <word en="steel" pos="n. / adj." zh="钢，钢铁" phonetic="stiːl" />
+  <word en="steep" pos="n. / adj." zh="险峻的；陡峭的" phonetic="stiːp" />
+  <word en="step-mother" pos="n." zh="继母" phonetic="step-ˈmʌðə(r)" />
+  <word en="steward" pos="n." zh="(火车、飞机、轮船等)男服务员；男乘务员" phonetic="'stjuːəd" />
+  <word en="stewardess" pos="n." zh="女乘务员，空中小姐" phonetic="'stjuːədɪs; ,stjuːə'des" />
+  <word en="stick" pos="n. / vt." zh="粘住，钉住；坚持；木棒(棍)，枝条" phonetic="stɪk" />
+  <word en="stocking" pos="n." zh="长统袜" phonetic="'stɒkɪŋ" />
+  <word en="stomachache" pos="n." zh="胃疼" phonetic="'stʌməkeɪk" />
+  <word en="stopwatch" pos="n." zh="记秒表；跑表" phonetic="'stɒpwɒtʃ" />
+  <word en="storage" pos="n." zh="贮藏；储存" phonetic="'stɔːrɪdʒ" />
+  <word en="stout" pos="adj. / n." zh="肥壮的，厚实牢固的" phonetic="staut" />
+  <word en="stove" pos="n. / vt." zh="(供烹饪用的 )火炉，煤炉，电炉" phonetic="stəʊv" />
+  <word en="straightforward" pos="adj." zh="简单的，坦率的" phonetic="streɪt'fɔːwəd" />
+  <word en="strait" pos="n. / adj." zh="海峡" phonetic="streɪt" />
+  <word en="stranger" pos="n." zh="陌生人，外人" phonetic="'streɪn(d)ʒə" />
+  <word en="straw" pos="n. / adj." zh="稻草" phonetic="strɔː" />
+  <word en="strawberry" pos="n." zh="草莓" phonetic="'strɔːb(ə)rɪ" />
+  <word en="stream" pos="n. / vt." zh="小河；溪流" phonetic="striːm" />
+  <word en="strength" pos="n." zh="力量，力气" phonetic="streŋθ; streŋkθ" />
+  <word en="strengthen" pos="vt. / vi." zh="加强，增强" phonetic="'streŋθ(ə)n; -ŋkθ(ə)n" />
+  <word en="strict" pos="adj." zh="严格的，严密的" phonetic="strɪkt" />
+  <word en="strike" pos="n. / vt." zh="(钟)鸣；敲(响)，罢工；擦(打)火， 侵袭" phonetic="straɪk" />
+  <word en="string" pos="n. / vt." zh="细绳，线，带" phonetic="strɪŋ" />
+  <word en="struggle" pos="n. / vi." zh="斗争" phonetic="'strʌg(ə)l" />
+  <word en="stubborn" pos="adj." zh="固执的，倔强的" phonetic="'stʌbərn" />
+  <word en="studio" pos="n." zh="工作室，演播室" phonetic="'stjuːdɪəʊ" />
+  <word en="subjective" pos="adj." zh="主观的" phonetic="səb'dʒektɪv" />
+  <word en="submit" pos="vt. / vi." zh="提交，呈递(文件，建议等)" phonetic="səb'mɪt" />
+  <word en="subscribe" pos="vt. / vi." zh="订阅，订购(报刊等)" phonetic="səb'skraɪb" />
+  <word en="substitute" pos="n. / vt." zh="代替，取代" phonetic="'sʌbstɪtuːt" />
+  <word en="subtraction" pos="n." zh="(算数中的)减" phonetic="səb'trækʃn" />
+  <word en="suck" pos="vt. / vi." zh="吸吮" phonetic="sʌk" />
+  <word en="sudden" pos="n. / adj." zh="突然的" phonetic="'sʌd(ə)n" />
+  <word en="suffer" pos="vt. / vi." zh="受苦，遭受" phonetic="'sʌfə" />
+  <word en="suffering" pos="n." zh="痛苦，苦难" phonetic="'sʌf(ə)rɪŋ" />
+  <word en="suitable" pos="adj." zh="合适的，适宜的" phonetic="'suːtəb(ə)l" />
+  <word en="suitcase" pos="n." zh="(旅行用)小提箱，衣箱" phonetic="'suːtkeɪs" />
+  <word en="suite" pos="n." zh="套间；组曲" phonetic="swiːt" />
+  <word en="summary" pos="n. / adj." zh="摘要，概要" phonetic="'sʌməri" />
+  <word en="sunburnt" pos="adj." zh="晒黑的" phonetic="'sʌnbɜːnt" />
+  <word en="sunglasses" pos="n." zh="太阳眼镜，墨镜" phonetic="'sʌnglɑːsɪz" />
+  <word en="sunlight" pos="n." zh="日光，阳光" phonetic="'sʌnlaɪt" />
+  <word en="sunny" pos="adj." zh="晴朗的；阳光充足的" phonetic="'sʌnɪ" />
+  <word en="sunrise" pos="n." zh="黎明，拂晓" phonetic="'sʌnraɪz" />
+  <word en="sunset" pos="n." zh="日落(时分)" phonetic="'sʌnset" />
+  <word en="sunshine" pos="n." zh="阳光" phonetic="'sʌnʃaɪn" />
+  <word en="super" pos="n. / adj." zh="顶好的，超级的" phonetic="'suːpə; 'sjuː-" />
+  <word en="superb" pos="adj." zh="卓越的，质量极高的" phonetic="suː'pɜːrb" />
+  <word en="superior" pos="n. / adj." zh="更胜一筹的；上级，上司" phonetic="suː'pɪriər" />
+  <word en="superman" pos="n." zh="超人" phonetic="'suːpəmæn; 'sjuː-" />
+  <word en="supper" pos="n." zh="晚餐，晚饭" phonetic="'sʌpə" />
+  <word en="supply" pos="n. / vt." zh="供给，供应" phonetic="sə'plaɪ" />
+  <word en="supreme" pos="n. / adj." zh="至高无上的，最高的" phonetic="suː'priːm" />
+  <word en="surface" pos="n. / adj." zh="表面" phonetic="'sɜːfɪs" />
+  <word en="surgeon" pos="n." zh="外科医生" phonetic="'sɜːrdʒən" />
+  <word en="surplus" pos="n. / adj." zh="过剩，剩余" phonetic="'sɜːrpləs" />
+  <word en="surround" pos="vt. / n." zh="围绕；包围" phonetic="sə'raund" />
+  <word en="surrounding" pos="n. / adj." zh="周围的" phonetic="sə'raʊndɪŋ" />
+  <word en="survival" pos="n. / adj." zh="存活，幸存" phonetic="sə'vaɪv(ə)l" />
+  <word en="survive" pos="vt. / vi." zh="生存，存活，幸免于难" phonetic="sər'vaɪv" />
+  <word en="suspect" pos="n. / adj." zh="犯罪嫌疑人" phonetic="ˈsʌspekt; (for v.) səˈspekt" />
+  <word en="suspension" pos="n." zh="暂令停职，推迟，延期" phonetic="sə'spenʃn" />
+  <word en="swallow" pos="n. / vt." zh="吞下；咽下" phonetic="'swɑːlou" />
+  <word en="swap" pos="n. / v." zh="交换(东西)" phonetic="swɑːp" />
+  <word en="swear" pos="vt. / vi." zh="咒骂.，诅咒" phonetic="sweə(r)" />
+  <word en="sweat" pos="n. / vi." zh="汗，汗水" phonetic="swet" />
+  <word en="sweep" pos="n. / vt." zh="扫除，扫" phonetic="swiːp" />
+  <word en="swell" pos="n. / adj." zh="肿胀" phonetic="swel" />
+  <word en="swift" pos="n. / adj." zh="快的，迅速的" phonetic="swɪft" />
+  <word en="swing" pos="n. / vi." zh="挥舞，摆动；秋千" phonetic="swɪŋ" />
+  <word en="Swiss" pos="n. / adj." zh="瑞士人的；瑞士人" phonetic="swɪs" />
+  <word en="switch" pos="n. / vt." zh="开关，转换，改变" phonetic="swɪtʃ" />
+  <word en="Switzerland" pos="n." zh="瑞士" phonetic="ˈswɪtsələnd" />
+  <word en="sword" pos="n." zh="剑，刀" phonetic="sɔːd" />
+  <word en="sympathy" pos="n." zh="同情" phonetic="'sɪmpəθi" />
+  <word en="symphony" pos="n." zh="交响乐" phonetic="'sɪmfəni" />
+  <word en="symptom" pos="n." zh="症状" phonetic="'sɪmptəm" />
+  <word en="systematic" pos="adj." zh="系统的，有条理的" phonetic="ˌsɪstə'mætɪk" />
+  <word en="tail" pos="n. / adj." zh="(动物的)尾巴" phonetic="teɪl" />
+  <word en="tailor" pos="n. / vt." zh="裁缝" phonetic="'teɪlə" />
+  <word en="tale" pos="n." zh="故事， 传说" phonetic="teɪl" />
+  <word en="talent" pos="n." zh="天才，天赋" phonetic="'tælənt" />
+  <word en="tank" pos="n. / vt." zh="储水容量；坦克" phonetic="tæŋk" />
+  <word en="tanker" pos="n." zh="油船" phonetic="'tæŋkə" />
+  <word en="tap" pos="n. / vt." zh="(自来水煤气等的)龙头" phonetic="tæp" />
+  <word en="tape" pos="n. / vt." zh="磁带；录音带" phonetic="teɪp" />
+  <word en="tasteless" pos="adj." zh="无滋味的" phonetic="'teɪstləs" />
+  <word en="tasty" pos="adj." zh="味道好的" phonetic="'teɪstɪ" />
+  <word en="tax" pos="n. / vt." zh="税，税款" phonetic="tæks" />
+  <word en="tax-free" pos="adj." zh="免税的" phonetic="tæks friː" />
+  <word en="taxpayer" pos="n." zh="纳税人" phonetic="ˈtækspeɪə" />
+  <word en="teamwork" pos="n." zh="合作，协同工作" phonetic="'tiːmwɜːk" />
+  <word en="teapot" pos="n." zh="茶壶" phonetic="'tiːpɒt" />
+  <word en="tear" pos="n. / vi." zh="眼泪；扯破， 撕开" phonetic="(for v.) ˈtɛː; (for n.) ˈtɪə" />
+  <word en="tease" pos="n. / vt." zh="取笑，戏弄，寻开心" phonetic="tiːz" />
+  <word en="technical" pos="adj." zh="技术的，工艺的" phonetic="'teknɪkl" />
+  <word en="technique" pos="n." zh="技术；技巧，方法" phonetic="tek'niːk" />
+  <word en="telegram" pos="n." zh="电报" phonetic="'telɪgræm" />
+  <word en="telegraph" pos="n. / vi." zh="(拍)；电报" phonetic="'telɪgræf" />
+  <word en="telephone-booth" pos="n." zh="公用电话间(也可写作 / telephone-box)" phonetic="ˈtelɪfəʊn buːθ" />
+  <word en="telescope" pos="n. / vi." zh="望远镜" phonetic="'telɪskoup" />
+  <word en="temple" pos="n." zh="庙宇，寺院" phonetic="'templ" />
+  <word en="temporary" pos="adj. / n." zh="短暂的，暂时的" phonetic="'tempəreri" />
+  <word en="temptation" pos="n." zh="引诱；诱惑" phonetic="tem(p)'teɪʃ(ə)n" />
+  <word en="tend" pos="vi. / vt." zh="往往会，常常就，倾向，趋于" phonetic="tend" />
+  <word en="tendency" pos="n." zh="倾向，偏好，性情" phonetic="'tend(ə)nsɪ" />
+  <word en="tense" pos="adj. / v." zh="心烦意乱的，紧张的" phonetic="tens" />
+  <word en="tension" pos="n. / vt." zh="紧张局势，矛盾" phonetic="'tenʃn" />
+  <word en="tent" pos="n. / vi." zh="帐篷" phonetic="tent" />
+  <word en="tentative" pos="n. / adj." zh="不确定的，踌躇的" phonetic="'tentətɪv" />
+  <word en="terminal" pos="n. / adj." zh="(火车汽车飞机)终点站" phonetic="'tɜːrmɪnl" />
+  <word en="terrify" pos="vt." zh="使人感到恐怖" phonetic="'terifai" />
+  <word en="terror" pos="n." zh="恐惧，惊恐" phonetic="'terə" />
+  <word en="textbook" pos="n." zh="课本，教科书" phonetic="'teks(t)bʊk" />
+  <word en="thankful" pos="adj." zh="感谢的，感激的" phonetic="'θæŋkfʊl; -f(ə)l" />
+  <word en="theater" pos="n." zh="剧场，戏院" phonetic="'θɪətə" />
+  <word en="theft" pos="n." zh="盗窃案" phonetic="θeft" />
+  <word en="theme" pos="n." zh="主题" phonetic="θiːm" />
+  <word en="theoretical" pos="adj." zh="理论的" phonetic="ˌθiːə'retɪkl" />
+  <word en="theory" pos="n." zh="理论" phonetic="'θɪəri" />
+  <word en="therefore" pos="adv." zh="因此，所以" phonetic="'ðerfɔːr" />
+  <word en="thermos" pos="n." zh="热水瓶" phonetic="'θɜːməs" />
+  <word en="thirst" pos="n. / vi." zh="渴；口渴" phonetic="θɜːst" />
+  <word en="thorough" pos="adj." zh="彻底的" phonetic="'θɜːrou" />
+  <word en="though" pos="adv. / conj." zh="虽然，可是" phonetic="ðəʊ" />
+  <word en="thread" pos="n. / vt." zh="线" phonetic="θred" />
+  <word en="thrill" pos="n. / vi." zh="兴奋，激动" phonetic="θrɪl" />
+  <word en="thriller" pos="n." zh="惊险小说" phonetic="'θrɪlə" />
+  <word en="throat" pos="n. / vt." zh="喉咙" phonetic="θrəʊt" />
+  <word en="throughout" pos="adv. / prep." zh="遍及，贯穿" phonetic="θruː'aʊt" />
+  <word en="thunder" pos="n. / vi." zh="雷声，打雷" phonetic="'θʌndə" />
+  <word en="thunderstorm" pos="n." zh="雷电交加暴风雨" phonetic="'θʌndəstɔːm" />
+  <word en="thus" pos="adv." zh="这样；因而" phonetic="ðʌs" />
+  <word en="Tibet" pos="n." zh="西藏" phonetic="tɪ'bet" />
+  <word en="Tibetan" pos="adj. / n." zh="西藏人；西藏语" phonetic="tiˈbetən" />
+  <word en="tick" pos="n. / vi." zh="作记号" phonetic="tɪk" />
+  <word en="tiger" pos="n." zh="老虎" phonetic="'taɪgə" />
+  <word en="tight" pos="adj. / adv." zh="紧的" phonetic="taɪt" />
+  <word en="till" pos="prep. / conj." zh="直到，直到…为止" phonetic="tɪl" />
+  <word en="timetable" pos="n." zh="(火车、公共汽车等)时间表；(学校)课表" phonetic="'taɪmteɪb(ə)l" />
+  <word en="tin" pos="n. / vt." zh="(英)罐头，听头" phonetic="tɪn" />
+  <word en="tiny" pos="adj." zh="tinier， tiniest 极小的，微小的" phonetic="'taɪnɪ" />
+  <word en="tire" pos="n. / vt." zh="使疲劳；轮胎" phonetic="taɪə" />
+  <word en="tiresome" pos="adj." zh="令人厌倦的" phonetic="ˈtaɪəsəm" />
+  <word en="tissue" pos="n." zh="(人，动植物的)组织，纸巾" phonetic="'tɪʃuː" />
+  <word en="toast" pos="n. / vt." zh="烤" phonetic="təʊst" />
+  <word en="tobacco" pos="n." zh="烟草，烟叶" phonetic="tə'bækəʊ" />
+  <word en="Tokyo" pos="n." zh="东京" phonetic="ˈtəʊkjəʊ" />
+  <word en="tolerate" pos="vt." zh="容许，允许，忍受" phonetic="'tɑːləreɪt" />
+  <word en="tomb" pos="n. / vt." zh="坟墓" phonetic="tuːm" />
+  <word en="ton" pos="n." zh="(重量单位)吨" phonetic="tʌn" />
+  <word en="tongue" pos="n. / vt." zh="舌，舌头" phonetic="tʌŋ" />
+  <word en="toothache" pos="n." zh="牙痛" phonetic="'tuːθeɪk" />
+  <word en="toothbrush" pos="n." zh="牙刷" phonetic="'tuːθbrʌʃ" />
+  <word en="toothpaste" pos="n." zh="牙膏" phonetic="'tuːθpeɪst" />
+  <word en="tortoise" pos="n." zh="乌龟" phonetic="ˈtɔ:təs" />
+  <word en="total" pos="adj. / vt." zh="总数的；总括的；完全的，全然的" phonetic="'təʊt(ə)l" />
+  <word en="totally" pos="adv." zh="总合地，完全地" phonetic="'təʊtəlɪ" />
+  <word en="tough" pos="n. / adj." zh="坚硬的；结实的；棘手的，难解的" phonetic="tʌf" />
+  <word en="tournament" pos="n." zh="锦标赛，联赛" phonetic="'tɜːrnəmənt" />
+  <word en="toward" pos="prep. / adj." zh="向，朝，对于" phonetic="tə'wɔːd; twɔːd; tɔːd" />
+  <word en="tractor" pos="n." zh="拖拉机" phonetic="'træktə" />
+  <word en="trade" pos="n. / vi." zh="贸易；用…进行交换" phonetic="treɪd" />
+  <word en="tram" pos="n. / vt." zh="有轨电车" phonetic="træm" />
+  <word en="transform" pos="vt. / vi." zh="使改变形态，使改观" phonetic="træns'fɔːrm" />
+  <word en="translate" pos="vt. / vi." zh="翻译" phonetic="træns'leɪt; trɑːns-; -nz-" />
+  <word en="translation" pos="n." zh="翻译；译文" phonetic="træns'leɪʃn" />
+  <word en="translator" pos="n." zh="翻译家，译者" phonetic="træns'leɪtə; trɑːns-; -nz-" />
+  <word en="transparent" pos="adj." zh="透明的，清澈的" phonetic="træns'pærənt" />
+  <word en="trap" pos="n. / vi." zh="陷阱；使陷入困境" phonetic="træp" />
+  <word en="traveler" pos="n." zh="旅行者" phonetic="'trævələ" />
+  <word en="treasure" pos="n. / vt." zh="金银财宝， 财富" phonetic="'treʒə" />
+  <word en="treat" pos="n. / vt." zh="对待，看待" phonetic="triːt" />
+  <word en="treatment" pos="n." zh="治疗，疗法" phonetic="'triːtm(ə)nt" />
+  <word en="tremble" pos="n. / vi." zh="颤抖" phonetic="'tremb(ə)l" />
+  <word en="trend" pos="n. / vi." zh="趋势，倾向，动态" phonetic="trend" />
+  <word en="trial" pos="n. / adj." zh="审判；试验；试用" phonetic="'traɪəl" />
+  <word en="triangle" pos="n." zh="三角形；三角形的" phonetic="'traɪæŋgl" />
+  <word en="trick" pos="n. / vt." zh="诡计，把戏" phonetic="trɪk" />
+  <word en="trolley-bus" pos="n." zh="无轨电车" phonetic="ˈtrɔlɪ- bʌs" />
+  <word en="troop" pos="n. / vi." zh="部队" phonetic="truːp" />
+  <word en="trooping" pos="vi." zh="成群结队地走" phonetic="ˈtruːpɪŋ" />
+  <word en="troublesome" pos="adj." zh="令人烦恼， 讨厌" phonetic="'trʌb(ə)ls(ə)m" />
+  <word en="truly" pos="adv." zh="真正地，真实地" phonetic="'truːlɪ" />
+  <word en="trunk" pos="n. / vt." zh="树干；大箱子" phonetic="trʌŋk" />
+  <word en="trust" pos="n. / adj." zh="相信，信任，信赖" phonetic="trʌst" />
+  <word en="truth" pos="n." zh="真理，事实，真相，实际" phonetic="truːθ" />
+  <word en="tube" pos="n. / vt." zh="管，管状物" phonetic="tjuːb" />
+  <word en="tune" pos="n. / vt." zh="曲调，曲子" phonetic="tjuːn" />
+  <word en="turkey" pos="n." zh="火鸡" phonetic="'tɜːrki" />
+  <word en="turning" pos="n." zh="拐弯处，拐角处" phonetic="ˈtɜːnɪŋ" />
+  <word en="tutor" pos="n. / vt." zh="家庭教师，私人教师，导师" phonetic="'tuːtər" />
+  <word en="twelfth" pos="num." zh="第十二" phonetic="twelfθ" />
+  <word en="twentieth" pos="num." zh="第二十" phonetic="ˈtwentɪəθ" />
+  <word en="twenty-first" pos="num." zh="第二十一" phonetic="ˈtwentɪ- fɜːst" />
+  <word en="twenty-one" pos="num. / n." zh="二十一" phonetic="ˈtwentɪ- wʌn" />
+  <word en="twist" pos="n. / vt." zh="使弯曲，转动" phonetic="twɪst" />
+  <word en="typewriter" pos="n." zh="打字机" phonetic="'taɪpraɪtə" />
+  <word en="typhoon" pos="n." zh="台风" phonetic="taɪ'fuːn" />
+  <word en="typist" pos="n." zh="打字员" phonetic="'taɪpɪst" />
+  <word en="tyre" pos="n. / vt." zh="轮胎" phonetic="'taɪə" />
+  <word en="U.K." pos="n." zh="英国，联合王国(缩写)" phonetic="juː ˈkeɪ" />
+  <word en="U.N." pos="n." zh="联合国(缩写)" phonetic="juː ˈən" />
+  <word en="U.S.A." pos="n." zh="美国(美利坚合众国)" phonetic="juː es ˈeɪ" />
+  <word en="ugly" pos="adj. / n." zh="丑陋的；难看的" phonetic="'ʌglɪ" />
+  <word en="unable" pos="adj." zh="不能的，不能胜任的" phonetic="ʌn'eɪb(ə)l" />
+  <word en="unbearable" pos="adj." zh="难耐得，无法接受的" phonetic="ʌn'beərəb(ə)l" />
+  <word en="unbelievable" pos="adj." zh="难以置信的" phonetic="ʌnbɪ'liːvəb(ə)l" />
+  <word en="uncertain" pos="adj." zh="不确定的" phonetic="ʌn'sɜːt(ə)n; -tɪn" />
+  <word en="uncomfortable" pos="adj." zh="令人不舒服的" phonetic="ʌn'kʌmf(ə)təb(ə)l" />
+  <word en="unconditional" pos="adj." zh="无条件，绝对的" phonetic="ʌnkən'dɪʃ(ə)n(ə)l" />
+  <word en="unconscious" pos="adj." zh="昏迷，不省人事的" phonetic="ʌn'kɔnʃəs" />
+  <word en="underline" pos="vt. / n." zh="在…下划线" phonetic="ʌndə'laɪn" />
+  <word en="undertake" pos="vt." zh="承担，从事，负责" phonetic="ʌndəˈteɪk" />
+  <word en="underwear" pos="n." zh="内衣" phonetic="'ʌndəweə" />
+  <word en="undivided" pos="adj." zh="没分开的；专一的；专心的" phonetic="ʌndɪ'vaɪdɪd" />
+  <word en="undo" pos="vt. / vi." zh="解开，松开" phonetic="ʌn'duː" />
+  <word en="unemployment" pos="n." zh="失业，失业状态" phonetic="ʌnɪm'plɒɪm(ə)nt; -em-" />
+  <word en="unfair" pos="adj." zh="不公平的，不公正的" phonetic="ʌn'feə" />
+  <word en="unfit" pos="adj. / vt." zh="不合宜的，不相宜的" phonetic="ʌnˈfɪt" />
+  <word en="unfold" pos="vt. / vi." zh="展开，打开" phonetic="ʌn'fəʊld" />
+  <word en="unfortunate" pos="adj." zh="不幸的" phonetic="ʌn'fɔːtʃ(ə)nət" />
+  <word en="unhealthy" pos="adj." zh="不健康的，不卫生的" phonetic="ʌn'helθɪ" />
+  <word en="unimportant" pos="adj." zh="不重要的，无意义" phonetic="ʌnɪm'pɔːt(ə)nt" />
+  <word en="union" pos="n." zh="联合，联盟；工会" phonetic="'juːnjən; -ɪən" />
+  <word en="unique" pos="adj." zh="惟一的，独一无二的" phonetic="ju'niːk" />
+  <word en="unite" pos="vi. / vt." zh="联合，团结" phonetic="juː'naɪt" />
+  <word en="universal" pos="adj. / n." zh="普遍的，全体的" phonetic="ˌjuːnɪ'vɜːrsl" />
+  <word en="universe" pos="n." zh="宇宙" phonetic="'juːnɪvɜːs" />
+  <word en="unknown" pos="adj. / n." zh="不知道的" phonetic="ʌn'nəʊn" />
+  <word en="unless" pos="conj. / prep." zh="如果不，除非" phonetic="ʌn'les" />
+  <word en="unlike" pos="adj. / prep." zh="不像，和…不同" phonetic="ʌn'laɪk" />
+  <word en="unmarried" pos="adj." zh="未婚的，独身的" phonetic="ʌn'mærɪd" />
+  <word en="unpleasant" pos="adj." zh="使人不愉快的" phonetic="ʌn'plez(ə)nt" />
+  <word en="unrest" pos="n." zh="不安；骚动" phonetic="ʌn'rest" />
+  <word en="unsafe" pos="adj." zh="不安全的；危险的" phonetic="ʌn'seɪf" />
+  <word en="unsuccessful" pos="adj." zh="不成功，失败的" phonetic="ʌnsək'sesfʊl; -f(ə)l" />
+  <word en="untrue" pos="adj." zh="不真实的，假的" phonetic="ʌn'truː" />
+  <word en="unwilling" pos="adj." zh="不愿意的，勉强的" phonetic="ʌn'wɪlɪŋ" />
+  <word en="upon" pos="prep." zh="在……上面" phonetic="ə'pɒn" />
+  <word en="upper" pos="adj. / n." zh="较高的，较上的" phonetic="'ʌpə" />
+  <word en="upset" pos="adj. / vt." zh="心烦的，苦恼的" phonetic="ʌp'set" />
+  <word en="upward" pos="adj. / adv." zh="向上；往上" phonetic="'ʌpwəd" />
+  <word en="urban" pos="adj." zh="城市的，都市的" phonetic="'ɜːrbən" />
+  <word en="urge" pos="n. / vt." zh="敦促，催促，力劝" phonetic="ɜːrdʒ" />
+  <word en="urgent" pos="adj." zh="紧急的，紧迫的" phonetic="'ɜːrdʒənt" />
+  <word en="useless" pos="adj." zh="无用的" phonetic="ˈjuːslɪs" />
+  <word en="vacant" pos="adj." zh="空缺的，未被占用的" phonetic="'veɪkənt" />
+  <word en="vague" pos="adj." zh="含糊的，紧迫的" phonetic="veɪg" />
+  <word en="vain" pos="adj." zh="自负的，自视过高的，徒劳的，无效的" phonetic="veɪn" />
+  <word en="valid" pos="adj." zh="有效的，合理的，有根据的" phonetic="'vælɪd" />
+  <word en="valuable" pos="adj." zh="值钱的，贵重的" phonetic="'væljʊəb(ə)l" />
+  <word en="value" pos="n. / vt." zh="价值，益处" phonetic="'væljuː" />
+  <word en="vanilla" pos="n." zh="香草" phonetic="və'nɪlə" />
+  <word en="various" pos="adj." zh="各种各样的，不同的" phonetic="'veərɪəs" />
+  <word en="vase" pos="n." zh="(花)瓶；瓶饰" phonetic="vɑːz" />
+  <word en="vast" pos="adj." zh="巨大的，广阔的" phonetic="væst" />
+  <word en="VCD" pos="n." zh="影碟光盘" phonetic="ˌviː siː ˈdiː" />
+  <word en="veal" pos="n. / vt." zh="(食用)小牛肉" phonetic="viːl" />
+  <word en="version" pos="n." zh="变体，变种，改写本" phonetic="'vɜːrʒn" />
+  <word en="vertical" pos="adj." zh="垂直的，纵向的" phonetic="'vɜːrtɪkl" />
+  <word en="vest" pos="n. / vt." zh="背心，内衣" phonetic="vest" />
+  <word en="via" pos="prep." zh="经过(某地)，通过" phonetic="ˈvaɪə，ˈviːə" />
+  <word en="vice" pos="n. / vt." zh="罪行，不道德行为" phonetic="vaɪs" />
+  <word en="victim" pos="n." zh="受害者，牺牲品" phonetic="'vɪktɪm" />
+  <word en="victory" pos="n." zh="胜利" phonetic="'vɪkt(ə)rɪ" />
+  <word en="videophone" pos="n." zh="可视电话" phonetic="'vɪdɪə(ʊ)fəʊn" />
+  <word en="viewer" pos="n." zh="观看者" phonetic="'vjuːə" />
+  <word en="villager" pos="n." zh="村民" phonetic="'vɪlɪdʒə" />
+  <word en="vinegar" pos="n. / vt." zh="醋" phonetic="'vɪnɪgə" />
+  <word en="violate" pos="vt." zh="违反(法律、协议等)，侵犯" phonetic="'vaɪəleɪt" />
+  <word en="violence" pos="n." zh="暴力行为" phonetic="'vaɪəl(ə)ns" />
+  <word en="violent" pos="adj." zh="暴力的" phonetic="'vaɪələnt" />
+  <word en="violin" pos="n." zh="小提琴" phonetic="ˌvaɪəˈlɪn" />
+  <word en="violinist" pos="n." zh="提琴家，提琴手" phonetic=",vaɪə'lɪnɪst" />
+  <word en="virtue" pos="n." zh="美德，正直的品行，德行" phonetic="'vɜːrtʃuː" />
+  <word en="visa" pos="n. / vt." zh="签证，背签" phonetic="'viːzə" />
+  <word en="visual" pos="adj." zh="视力的，视觉的" phonetic="'vɪʒuəl" />
+  <word en="vital" pos="adj." zh="必不可少的，对…极重要的" phonetic="'vaɪtl" />
+  <word en="vivid" pos="adj." zh="生动，逼真的，鲜明的" phonetic="'vɪvɪd" />
+  <word en="vocabulary" pos="n." zh="词汇， 词汇表" phonetic="və(ʊ)'kæbjʊlərɪ" />
+  <word en="volcano" pos="n." zh="火山" phonetic="vɑːl'keɪnou" />
+  <word en="volleyball" pos="n." zh="排球" phonetic="'vɒlɪbɔːl" />
+  <word en="voluntary" pos="adj. / n." zh="自愿的，主动的" phonetic="'vɒlənt(ə)rɪ" />
+  <word en="volunteer" pos="n. / adj." zh="义工，自愿者，无偿做" phonetic=",vɒlən'tɪə" />
+  <word en="vote" pos="n. / vi." zh="选举，投票" phonetic="vəʊt" />
+  <word en="voyage" pos="n. / vi." zh="航行，旅行" phonetic="'vɔɪɪdʒ" />
+  <word en="wag" pos="vt. / vi." zh="摇动；摆动" phonetic="wæg" />
+  <word en="wage" pos="n. / vt." zh="工资，工钱，报酬" phonetic="weɪdʒ" />
+  <word en="waist" pos="n." zh="腰，腰部，腰围" phonetic="weɪst" />
+  <word en="waiting-room" pos="n." zh="候诊室，候车室" phonetic="ˈweɪtɪŋ- rʊm" />
+  <word en="waitress" pos="n." zh="女服务员" phonetic="ˈweɪtrəs" />
+  <word en="walkman" pos="n." zh="随身听" phonetic="ˈwɔːkmən" />
+  <word en="wallet" pos="n." zh="(放钱，证件等的)皮夹" phonetic="'wɒlɪt" />
+  <word en="walnut" pos="n." zh="核桃，胡桃" phonetic="'wɔːlnʌt" />
+  <word en="wander" pos="vi. / vt." zh="漫游，游荡，漫步，流浪" phonetic="'wɒndə" />
+  <word en="ward" pos="n. / vt." zh="保卫，看护，病房，收容所" phonetic="wɔːd" />
+  <word en="warehouse" pos="n. / vt." zh="仓库，货栈" phonetic="'werhaus" />
+  <word en="warm-hearted" pos="adj." zh="热心的" phonetic="wɔːm- hɑːt" />
+  <word en="warmth" pos="n." zh="暖和，温暖" phonetic="wɔːmθ" />
+  <word en="warn" pos="vt. / vi." zh="警告，提醒" phonetic="wɔːn" />
+  <word en="warning" pos="n." zh="警报" phonetic="'wɔːnɪŋ" />
+  <word en="washing-machine" pos="n." zh="洗衣机" phonetic="ˈwɔʃɪŋ- məˈʃiːn" />
+  <word en="washroom" pos="n." zh="盥洗室" phonetic="'wɒʃruːm; -rʊm" />
+  <word en="waste" pos="n. / adj." zh="浪费" phonetic="weɪst" />
+  <word en="watermelon" pos="n." zh="西瓜" phonetic="'wɔːtəmelən" />
+  <word en="wax" pos="n. / vi." zh="蜡" phonetic="wæks" />
+  <word en="wayside" pos="n. / adj." zh="路边的" phonetic="'weɪsaɪd" />
+  <word en="weakness" pos="n." zh="软弱" phonetic="ˈwiːknəs" />
+  <word en="wealth" pos="n." zh="财产，财富" phonetic="welθ" />
+  <word en="wealthy" pos="adj." zh="富的" phonetic="'welθɪ" />
+  <word en="weatherman" pos="n." zh="气象员，预报天气的人" phonetic="'weðəmæn" />
+  <word en="weed" pos="n. / vi." zh="杂草，野草" phonetic="wiːd" />
+  <word en="weekday" pos="n." zh="平日" phonetic="'wiːkdeɪ" />
+  <word en="weekly" pos="n. / adj." zh="每周的" phonetic="'wiːklɪ" />
+  <word en="weep" pos="n. / vi." zh="哭泣，流泪" phonetic="wiːp" />
+  <word en="weigh" pos="vt. / vi." zh="称…的重量，重(若干)" phonetic="weɪ" />
+  <word en="welfare" pos="n. / adj." zh="幸福，福利" phonetic="'welfer" />
+  <word en="well-known" pos="adj." zh="出名，众所周知的" phonetic=",wel'nəʊn" />
+  <word en="western" pos="n. / adj." zh="西方的，西部的" phonetic="'west(ə)n" />
+  <word en="westerner" pos="n." zh="西方人" phonetic="ˈwestənə" />
+  <word en="westwards" pos="adv." zh="向西" phonetic="'westwədz" />
+  <word en="whale" pos="n. / vi." zh="鲸" phonetic="weɪl" />
+  <word en="whatever" pos="pron." zh="无论什么，不管什么" phonetic="wɒt'evə" />
+  <word en="wheat" pos="n." zh="小麦" phonetic="wiːt" />
+  <word en="whenever" pos="conj. / adv." zh="每当，无论何时" phonetic="wen'evə" />
+  <word en="wherever" pos="adv." zh="无论在哪里" phonetic="weər'evə" />
+  <word en="whether" pos="conj. / pron." zh="是否" phonetic="'weðə" />
+  <word en="whichever" pos="pron." zh="无论哪个；无论哪些" phonetic="wɪtʃ'evə" />
+  <word en="whisper" pos="n. / vi." zh="低语，私下说" phonetic="'wɪspə" />
+  <word en="whistle" pos="n. / vi." zh="口哨，口哨声" phonetic="'wɪs(ə)l" />
+  <word en="widespread" pos="adj." zh="分布广的，普遍的" phonetic="'waɪdspred" />
+  <word en="wildlife" pos="n." zh="野生动物" phonetic="'waɪl(d)laɪf" />
+  <word en="willing" pos="adj." zh="乐意的；愿意的" phonetic="'wɪlɪŋ" />
+  <word en="willingly" pos="adv." zh="乐意地" phonetic="'wɪlɪŋlɪ" />
+  <word en="willingness" pos="n." zh="意愿；愿望" phonetic="'wɪlɪŋnəs" />
+  <word en="windbreaker" pos="n." zh="风衣，防风(皮)夹克" phonetic="ˈwind,breikә" />
+  <word en="windy" pos="adj." zh="有风的，多风的" phonetic="'wɪndɪ" />
+  <word en="wing" pos="n. / vt." zh="机翼，翅膀" phonetic="wɪŋ" />
+  <word en="wipe" pos="n. / vt." zh="擦；擦净；擦干" phonetic="waɪp" />
+  <word en="wire" pos="n. / vt." zh="电线" phonetic="waɪə" />
+  <word en="wisdom" pos="n." zh="智慧" phonetic="'wɪzdəm" />
+  <word en="wise" pos="adj. / vi." zh="聪明，英明的，有见识的" phonetic="waɪz" />
+  <word en="withdraw" pos="vt. / vi." zh="撤回，撤离" phonetic="wɪð'drɔː" />
+  <word en="within" pos="n. / adv." zh="在……里面" phonetic="wɪð'ɪn" />
+  <word en="witness" pos="n. / vt." zh="目击者，见证人" phonetic="ˈwɪtnɪs" />
+  <word en="wolf" pos="n. / vt." zh="狼" phonetic="wʊlf" />
+  <word en="wonder" pos="n. / vt." zh="对…疑惑，感到惊奇，想知道；惊讶，惊叹；奇迹" phonetic="'wʌndə" />
+  <word en="woo" pos="vt. / vi." zh="羊毛，羊绒" phonetic="wuː" />
+  <word en="woollen" pos="n. / adj." zh="羊毛的，羊毛制的" phonetic="'wʊlən" />
+  <word en="workday" pos="n." zh="工作日" phonetic="'wɜːkdeɪ" />
+  <word en="workforce" pos="n." zh="劳动力" phonetic="'wɜːkfɔːs" />
+  <word en="workmate" pos="n." zh="同事；工友" phonetic="'wɜːkmeɪt" />
+  <word en="workplace" pos="n." zh="工作场所，车间" phonetic="'wɜːkpleɪs" />
+  <word en="works" pos="n." zh="著作，作品" phonetic="'wɜːks" />
+  <word en="world-famous" pos="adj." zh="世界闻名的" phonetic="'wə:ld'feiməs" />
+  <word en="worldwide" pos="adj." zh="遍及全球的，世界范围的" phonetic="'wɜːl(d)waɪd; wɜːl(d)'waɪd" />
+  <word en="worm" pos="n. / vi." zh="软体虫，蠕虫(尤指蚯蚓)" phonetic="wɜːm" />
+  <word en="worn" pos="adj." zh="用坏，用旧的，疲惫的" phonetic="wɔːn" />
+  <word en="worth" pos="n. / adj." zh="有…的价值，值得…的" phonetic="wɜːrθ" />
+  <word en="worthless" pos="adj." zh="没有价值，没有用的" phonetic="ˈwəːθlɪs" />
+  <word en="worthwhile" pos="adj." zh="值得做的" phonetic="wɜːθ'waɪl" />
+  <word en="worthy" pos="n. / adj." zh="值得的" phonetic="ˈwəːði" />
+  <word en="wound" pos="n. / vt." zh="伤，伤害；创伤，伤口" phonetic="wuːnd" />
+  <word en="wounded" pos="adj." zh="受伤的" phonetic="'wuːndɪd" />
+  <word en="wrestle" pos="n. / vi." zh="摔跤" phonetic="'res(ə)l" />
+  <word en="wrinkle" pos="n. / vi." zh="皱纹" phonetic="'rɪŋkl" />
+  <word en="wrist" pos="n." zh="手腕，腕关节" phonetic="rɪst" />
+  <word en="X-ray" pos="n." zh="X射线；X光" phonetic="'eksreɪ" />
+  <word en="yard" pos="n." zh="码；院子；场地" phonetic="jɑːd" />
+  <word en="yawn" pos="n. / vi." zh="打哈欠" phonetic="jɔːn" />
+  <word en="yell" pos="vi. / vt." zh="叫喊，吼叫" phonetic="jel" />
+  <word en="yoghurt" pos="n." zh="酸奶" phonetic="'jɒɡət" />
+  <word en="youth" pos="n." zh="青春；青年" phonetic="juːθ" />
+  <word en="yummy" pos="adj." zh="很好吃的" phonetic="'jʌmi" />
+  <word en="zebra" pos="n." zh="斑马" phonetic="'zebrə; 'ziːbrə" />
+  <word en="zebra-crossing" pos="n." zh="人行横道线(斑马线)" phonetic="ˈzebrə-ˈkrɔsɪŋ" />
+  <word en="zip" pos="n. / vt." zh="拉开(或扣上)……的拉链；拉链" phonetic="zɪp" />
+  <word en="zipcode" pos="n." zh="(英)邮政区号，也可写作" phonetic="zɪp kəʊd" />
+  <word en="zipper" pos="n." zh="拉链" phonetic="'zɪpə" />
+  <word en="zone" pos="n. / vt." zh="区域；范围" phonetic="zoun" />
+  <word en="zoo" pos="n." zh="动物园" phonetic="zuː" />
+  <word en="zoom" pos="n. / vi." zh="快速移动，迅速前往，猛涨" phonetic="zuːm" />
+</wordbook>
